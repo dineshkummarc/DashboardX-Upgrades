@@ -1,0 +1,852 @@
+AWSTATS DATA FILE 6.6 (build 1.887)
+# If you remove this file, all statistics for date 201201 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2520                
+POS_VISITOR 16398               
+POS_DAY 23457               
+POS_DOMAIN 3317                
+POS_LOGIN 3798                
+POS_ROBOT 3953                
+POS_WORMS 4313                
+POS_EMAILSENDER 4444                
+POS_EMAILRECEIVER 4587                
+POS_SESSION 24094               
+POS_SIDER 24283               
+POS_FILETYPES 4722                
+POS_OS 4972                
+POS_BROWSER 5108                
+POS_SCREENSIZE 5545                
+POS_UNKNOWNREFERER 5619                
+POS_UNKNOWNREFERERBROWSER 5899                
+POS_ORIGIN 5998                
+POS_SEREFERRALS 6136                
+POS_PAGEREFS 6293                
+POS_SEARCHWORDS 6752                
+POS_KEYWORDS 8288                
+POS_MISC 2184                
+POS_ERRORS 9093                
+POS_CLUSTER 3654                
+POS_SIDER_404 9228                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120201015108 1 0 52554782238
+FirstTime 0
+LastTime 20120131080227
+LastUpdate 20120203194340 1 0 0 0 0
+TotalVisits 142                 
+TotalUnique 123                 
+MonthHostsKnown 77                  
+MonthHostsUnknown 84                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 8 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 5 14510 53 54 830474
+1 4 4 33746 55 59 912944
+2 2 4 12312 105 107 1822594
+3 2 4 14098 59 61 659204
+4 19 72 947944 60 61 496417
+5 7 29 352696 68 74 626778
+6 13 31 155254 62 68 399514
+7 13 26 6487909 64 80 1410037
+8 8 19 481847 66 92 7001640
+9 20 150 2358627 74 101 760751
+10 12 46 284147 46 48 703328
+11 13 30 204025 60 66 5681681
+12 9 25 98026 78 82 846371
+13 34 53 804113 81 85 893989
+14 24 96 1056934 85 127 1648085
+15 16 32 266625 71 79 3384958
+16 10 12 65339 61 73 902729
+17 14 24 102612 61 67 309707
+18 4 10 182417 59 62 485393
+19 4 8 47392 67 74 1083006
+20 2 6 25444 54 70 532789
+21 5 11 42170 54 73 398765
+22 5 9 35984 52 53 673319
+23 3 5 169718 52 53 557059
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+ip 89 219 8113685
+com 63 143 1382078
+net 35 76 923368
+in 33 216 3194626
+local 5 12 158206
+jp 3 7 25768
+ua 2 2 5766
+fr 2 4 32206
+at 2 5 22374
+id 2 2 14361
+il 1 3 12072
+uk 0 1 46382
+au 1 3 11627
+jo 1 1 37594
+pl 1 1 0
+nl 2 4 220712
+by 1 3 12247
+iad1 1 3 4613
+de 2 6 26204
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 849 19020491 20120131220220 0
+baiduspider 249 2332083 20120131234353 0
+\wbot[\/\-] 18 187716 20120128112334 0
+robot 10 71001 20120122024953 0
+msnbot\-media 4 168338 20120128164310 0
+ia_archiver 1 2883 20120111185316 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 132 977964 0 0
+png 82 1221796 0 0
+ttf 2 116600 0 0
+pdf 10 6702926 0 0
+htm 18 82951 0 0
+aspx 63 1327853 0 0
+swf 1 5952 0 0
+html 153 1123861 0 0
+js 144 861217 0 0
+jpg 60 1764434 0 0
+gif 46 58335 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+winlong 2
+winxp 470
+winnt 127
+win2000 2
+linuxubuntu 3
+linuxfedora 8
+linux 69
+macosx 27
+Unknown 3
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 28
+firefox3.6.24 9
+msie6.0 17
+firefox5.0 87
+firefox2.0.0.20 1
+firefox4.0.1 4
+firefox10.0 3
+firefox3.6.25 15
+opera 2
+firefox3.0.14 2
+firefox3.6.2 4
+firefox4.0 3
+firefox8.0 32
+firefox2.0.0.6 1
+firefox7.0.1 6
+msie5.5 1
+firefox3.5.3 4
+firefox3.6.23 4
+msie8.0 12
+mozilla 1
+msie7.0 32
+firefox5.0.1 3
+firefox9.0.1 57
+firefox3.6.3 8
+msie9.0 13
+Unknown 1
+firefox8.0.1 25
+firefox3.6.8 27
+safari 337
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+- 20120111104004
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20120118050240
+Mozilla/4.0_(compatible;_ICS) 20120105135741
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+- 20120111104004
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 66 69
+From1 1 1
+From2 88 88
+From3 7 12
+From4 84 541
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 88 88
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://drunkorexia.ca/feed 2 2
+http://www.webstatschecker.com/stats/domain/erlsindia.co.in 1 1
+http://dsfoundation.x10.mx 1 5
+http://drunkorexia.ca/archives/date/2011/12 1 1
+http://www.orkut.co.in/Interstitial 1 1
+http://findebookee.com/s/selenium-testing-tool 1 1
+http://www.123people.com/s/neha+choudhary 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 40
+captureentirepagescreenshot 14
+selenium+captureentirepagescreenshot 5
+selenium+attachfile 4
+selenium.captureentirepagescreenshot 4
+selenium+deleteallvisiblecookies 3
+keydownnative 2
+selenium+keydownnative 2
+keypressnative 2
+keypressnative+selenium 2
+keypressnative+keycode 2
+captureentirepagescreenshot+in+selenium 1
+keypressnaitive 1
+selenium.keydownnative 1
+keypressnative+in+selenium 1
+getallwindowids 1
+captureentirepagescreenshot+is+only+implemented+for+firefox+and 1
+attachfile+in+selenium 1
+defaultselenium+is+not+waiting+for+settimeout+command 1
+attach+file+selenium 1
+how+to+select+the+values+from+table+in+pop-up+window+in+selenium 1
+write+a+program+in+c+calculate+the+value+of+m+raised+to+power+n+for+both+integer+amd+double+datatype+function+overloading+without+using+pow+function 1
+what+keydownnative+command+in+selenium+does 1
+captureentirepagescreenshot+is+only+implemented+for+firefox 1
+selenium+rc+attachfile 1
+deleteallvisiblecookies+selenium 1
+selenium+captureentirepagescreenshot+html+example 1
+deleteallvisiblecookies 1
+keydownnative+selenium 1
+selenium+attachfile+examples 1
+selenium+addscript 2
+setextensionjs 2
+selenium+getattribute+example 1
+selenium+waitforpopup 1
+selenium+1.0+david+burn+.pdf 1
+selenium+ide+addscript 1
+erlsindia.co.in 1
+keydownnative+in+selenium 2
+defaultselenium+getattribute 2
+selenium+ide+addscript+example 1
+selenium+keypressnative 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 71
+selenium 38
+captureentirepagescreenshot 23
+keypressnative 9
+in 9
+keydownnative 8
+attachfile 7
+deleteallvisiblecookies 5
+for 4
+addscript 4
+selenium.captureentirepagescreenshot 4
+both 1
+selenium.keydownnative 1
+table 1
+file 1
+not 1
+program 1
+getallwindowids 1
+double 1
+power 1
+examples 1
+what 1
+getattribute 3
+and 1
+defaultselenium 3
+function 2
+of 1
+is 3
+implemented 2
+to 2
+html 1
+waiting 1
+from 1
+attach 1
+command 2
+rc 1
+raised 1
+using 1
+keycode 2
+1.0 1
+david 1
+the 2
+keypressnaitive 1
+a 1
+pop-up 1
+integer 1
+amd 1
+waitforpopup 1
+does 1
+write 1
+only 2
+how 1
+value 1
+values 1
+settimeout 1
+ide 2
+calculate 1
+burn 1
+c 1
+window 1
+.pdf 1
+select 1
+setextensionjs 2
+n 1
+example 3
+m 1
+without 1
+overloading 1
+pow 1
+erlsindia.co.in 1
+firefox 2
+datatype 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 27 12602
+206 20 5546103
+500 217 3921202
+404 374 1759113
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 161
+/phpMyAdmin/index.php 2 -
+/qa/windows/cpp/c++_coding_standards.pdf 1 -
+/phpMyAdmin-2.5.5-rc2/index.php 1 -
+/qa/selenium/Selenium.DefaultSelenium.CaptureEntirePageScreenshot+example 1 -
+/websql/index.php 1 -
+/qa/linux/doc/requirements/req3146.aspx 2 -
+/Products/images/displayroom/photo1.jpg 1 http://www.erlsindia.co.in/Products/default.aspx
+/phpMyAdmin-2.5.1/index.php 1 -
+/news/no-text-1515647770876475391 1 -
+/web/phpMyAdmin/index.php 1 -
+/dashboard/ajax/StartmenuContent.html 1 http://erlsindia.co.in/dashboard.aspx
+/school/Euopl-calender.aspx 1 -
+/qa/linux/doc/requirements/req6587.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5095.aspx 2 -
+/search 1 -
+/phpMyAdmin-2.5.7-pl1/index.php 1 -
+/dmail/accounts/ 1 -
+/qa/linux/doc/requirements/req5096.aspx 1 -
+/phpMyAdmin-2.5.5-rc1/index.php 1 -
+/qa-standards/linux/doc/requirements/req6588.aspx 1 -
+/qa/blogs.aspx 2 -
+/Dev-standards/linux/doc/requirements/req6591.aspx 1 -
+/qa/linux/doc/requirements/req3145.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6592.aspx 2 -
+/standards/linux/cppstnd/cppstnd.txt 7 -
+/Products/images/displayroom/photo4.jpg 2 http://www.erlsindia.co.in/Products/default.aspx
+/career/images/displayroom/photo1.jpg 1 -
+/Dev-standards/linux/doc/requirements/req6598.aspx 2 -
+/career/images/displayroom/photo4.jpg 1 -
+/phpMyAdmin-2.2.6/index.php 1 -
+/Dev-standards/linux/doc/requirements/req5098.aspx 2 -
+/Dev-standards/linux/doc/requirements/req2872.aspx 2 -
+/phpMyAdmin-2.5.5/index.php 1 -
+/dbadmin/index.php 1 -
+/news/no-text-8198233230911786291 1 -
+/qa/linux/doc/requirements/req1588.aspx 1 -
+/qa/NamingDomains.aspx 1 -
+/Dev-standards/linux/doc/requirements/req4865.aspx 2 -
+/images/white-arrow.gif 2 http://erlsindia.co.in/login.aspx
+/career/images/displayroom/photo6.jpg 1 -
+/qa/linux/doc/requirements/req4865.aspx 1 -
+/Dev-standards/linux/doc/requirements/req20873.aspx 2 -
+/images/cprofile/ccom+.jpg 1 -
+/phpMyAdmin-2.5.6/index.php 1 -
+/Dev-standards/linux/doc/requirements/req5099.aspx 1 -
+/webarchives/archives/css-dock.7z 1 -
+/Dev-standards/linux/doc/requirements/req1588.aspx 2 -
+/news/no-text1662623473588159725 1 -
+/Products/images/displayroom/photo5.jpg 2 http://www.erlsindia.co.in/Products/default.aspx
+/privacy_glossary.aspx 2 -
+/qa/linux/doc/requirements/req3142.aspx 1 -
+/webarchives/archives/Ultimatebrowserdetectingjavascript.7z 2 -
+/qa/linux/doc/requirements/req6594.aspx 1 -
+/news/no-text1286280088331170668 1 -
+/crossdomain.xml 1 http://s.nsdsvc.com/App/DddWrapper.swf
+/admin/phpmyadmin/index.php 1 -
+/php-my-admin/index.php 2 -
+/qa/linux/doc/requirements/req6590.aspx 1 -
+/standards/linux/doc/reqs.ps 2 -
+/news/no-text-6310185140970864229 1 -
+/phpMyAdmin-2.5.6-rc1/index.php 1 -
+/phpMyAdmin-2.5.6-rc2/index.php 1 -
+/phpadmin/index.php 1 -
+/sms/TOS.htm 1 -
+/phpmyadmin1/index.php 1 -
+/Dev-standards/linux/doc/requirements/req3145.aspx 2 -
+/news/no-text-4103490324309579242 1 -
+/school/Euopl-programs.aspx 1 -
+/qa/windows/bib/default.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5096.aspx 2 -
+/en.kioskea.net/_skin/_common/img/bg_glossaryButton.png 1 http://erlsindia.co.in/productsstyle.css
+/mysqladmin/index.php 1 -
+/Dev-standards/linux/doc/requirements/req6595.aspx 2 -
+/Dev-standards/linux/doc/requirements/req6599.aspx 2 -
+/news/no-text-8822005762000668300 1 -
+/phpMyAdmin-2/index.php 1 -
+/qa/linux/doc/requirements/req3144.aspx 2 -
+/qa/linux/doc/requirements/req4568.aspx 1 -
+/check/html5test/PUSAB___.woff 5 http://erlsindia.co.in/check/html5test/index.html
+/news/no-text5150324460793701446 1 -
+/phpMyAdmin-2.5.7/index.php 1 -
+/xampp/phpmyadmin/index.php 1 -
+/images/dsf.jpg 1 -
+/Dev-standards/linux/doc/requirements/req10658.aspx 2 -
+/Dev-standards/linux/doc/requirements/req5097.aspx 2 -
+/phpMyAdmin-2.2.3/index.php 1 -
+/robots.txt 124 -
+/Dev-standards/linux/doc/requirements/req6594.aspx 2 -
+/dlpage.css 6 http://erlsindia.co.in/
+/standards/NamingDomains.aspx 3 -
+/Products/images/displayroom/photo6.jpg 1 http://www.erlsindia.co.in/Products/default.aspx
+/Dev-standards/linux/doc/requirements/req1589.aspx 2 -
+/Dev-standards/linux/doc/requirements/req6587.aspx 2 -
+/admin/index.php 1 -
+/qa/linux/doc/requirements/req6591.aspx 1 -
+/black.gif 3 http://erlsindia.co.in/loading.aspx
+/privacypolicy.aspx 2 -
+/qa/linux/doc/requirements/req10658.aspx 1 -
+/career/images/displayroom/photo5.jpg 1 -
+/Check/check/Network.aspx 1 -
+/news/no-text8952725671884307987 1 -
+/myadmin/index.php 1 -
+/phpMyAdmin-2.5.5-pl1/index.php 1 -
+/Dev-standards/linux/doc/requirements/req3143.aspx 2 -
+/Dev-standards/linux/doc/requirements/req3142.aspx 2 -
+/Dev-standards/linux/doc/requirements/req6590.aspx 2 -
+/pma/index.php 1 -
+/Dev-standards/linux/doc/requirements/req5972.aspx 2 -
+/Dev-standards/linux/doc/requirements/req3147.aspx 2 -
+/standards/Officelayoutstandard.aspx 2 -
+/qa/linux/doc/requirements/req5095.aspx 1 -
+/qa/linux/doc/requirements/req6592.aspx 1 -
+/Dev-standards/linux/doc/requirements/req4568.aspx 2 -
+/web/index.php 1 -
+/ajaxImage.jpg 5 http://erlsindia.co.in/
+/sms/index-14.htm 1 -
+/phpmyadmin2/index.php 1 -
+/qa/linux/doc/requirements/req6599.aspx 1 -
+/Dev-standards/linux/doc/requirements/req3146.aspx 2 -
+/labels.rdf 3 -
+/qa/linux/doc/requirements/req5097.aspx 1 -
+/qa/linux/doc/requirements/req3147.aspx 2 -
+/Check/check/Html5Check.aspx 1 -
+/qa/linux/doc/requirements/req6595.aspx 1 -
+/qa/linux/doc/requirements/req6588.aspx 1 -
+/qa-standards/windows/bib/default.aspx 1 -
+/Products/images/displayroom/photo2.jpg 2 http://www.erlsindia.co.in/Products/default.aspx
+/news/no-text5487520737674549878 1 -
+/qa/linux/doc/requirements/req20873.aspx 1 -
+/Check/check/WebGLCheck.aspx 1 -
+/Dev-standards/linux/doc/requirements/req3144.aspx 2 -
+/tools/dlpage/res/chrome/images/chrome-16.png 3 -
+/qa/linux/doc/requirements/req5098.aspx 1 -
+/qa/Officelayoutstandard.aspx 1 -
+/muieblackcat 1 -
+/goog.css 6 http://erlsindia.co.in/
+/accounts/ 1 -
+/qa/linux/doc/requirements/req5972.aspx 1 -
+/career/images/displayroom/photo2.jpg 1 -
+/qa-standards/linux/doc/requirements/req6599.aspx 1 -
+/blue.gif 4 http://erlsindia.co.in/loading.aspx
+/qa/linux/doc/requirements/req6598.aspx 1 -
+/Dev-standards/windows/bib/default.aspx 2 -
+/typo3/phpmyadmin/index.php 1 -
+/db/index.php 1 -
+/standards/linux/develop.aspx 6 -
+/qa/linux/doc/requirements/req2872.aspx 1 -
+/phpMyAdmin-2.5.4/index.php 1 -
+/images/circle_animation.gif 6 http://erlsindia.co.in/
+/mysql/index.php 1 -
+/career/images/displayroom/photo3.jpg 1 -
+/images/logo.jpg 3 http://erlsindia.co.in/productsstyle.css
+/qa/linux/doc/requirements/req3143.aspx 1 -
+/Products/images/displayroom/photo3.jpg 1 http://www.erlsindia.co.in/Products/default.aspx
+/qa-standards/linux/doc/requirements/req6594.aspx 1 -
+/index.php 1 -
+/admin/pma/index.php 1 -
+/qa/linux/doc/requirements/req5099.aspx 1 -
+/phpmyadmin/index.php 2 -
+/Dev-standards/linux/doc/requirements/req6588.aspx 2 -
+/qa/linux/doc/requirements/req1589.aspx 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 161
+security.lightspeedsystems.com 22 22 219555 20120105131232
+proxy-uae-tunnel.internal.directi.com 18 84 1001660 20120119141741
+173.227.230.236 14 14 76006 20120115170613
+115.111.122.3.static-delhi.vsnl.net.in 10 45 954977 20120123131641
+119.97.226.226 9 32 210254 20120104042347
+abts-north-static-249.240.160.122.airtelbroadband.in 8 130 2039111 20120119075444
+b6hsbo.rulespace.com 7 7 32881 20120110165256
+216-58-67-70.cpe.distributel.net 6 6 338660 20120113165519
+b4hsbo.rulespace.com 6 6 31599 20120110153630
+46.229.160.208 5 5 0 20120118170316
+122.184.128.118 2 4 14956 20120106112933
+72.14.202.86 1 2 6200 20120123101721
+72.14.202.80 0 2 12833 
+119.82.102.130 0 1 880 
+telemedia-ap-static-219.7.175.122.airtelbroadband.in 1 3 13102 20120104181245
+p578b9d15.dip0.t-ipconnect.de 1 3 13102 20120104173229
+254.7.207.91.unknown.steephost.net 3 3 33746 20120109015255
+72.14.202.84 1 4 7788 20120124075248
+180.215.160.193 1 3 12247 20120107065042
+ez-in-f91.1e100.net 0 2 2301 
+74.125.78.84 0 1 880 
+74.125.78.91 1 1 2891 20120105145033
+69.164.111.198 1 1 6287706 20120131072425
+host90-152-1-26.ipv4.regusnet.com 1 3 13102 20120109154441
+209.85.228.92 0 1 8571 
+s-83-102-63-202.southernonline.net 2 4 16560 20120106064900
+193.105.210.84 1 1 37108 20120114062908
+209.85.224.96 0 4 13748 
+64.233.182.87 1 1 2523 20120106085723
+74.125.126.88 0 1 46382 
+abts-north-dynamic-218.146.176.122.airtelbroadband.in 1 3 12247 20120106111624
+117.213.251.13 1 1 0 20120131080227
+gateway.ma.jackpinetech.com 1 3 12239 20120105194649
+abts-kk-static-142.225.166.122.airtelbroadband.in 1 2 11367 20120105065234
+72.14.202.91 0 1 621 
+124-171-227-78.dyn.iinet.net.au 1 3 11627 20120104001315
+183.23.89.220 1 1 5288 20120112075709
+74.125.64.87 0 1 8571 
+kms-technology.com 1 3 12312 20120116023450
+209.85.224.93 1 1 5763 20120110044103
+wtp-g8-maya3.iad1 1 3 4613 20120105092819
+px2.hitachi.co.jp 1 3 12311 20120105041056
+206.83.27.116 1 4 36912 20120118153041
+tb-in-f93.1e100.net 0 1 880 
+ez-in-f88.1e100.net 1 1 60528 20120103105404
+digita63.lnk.telstra.net 1 3 13102 20120104070011
+1-38-24-220.live.vodafone.in 1 1 0 20120129141817
+85.93.98.210 1 3 12315 20120106114457
+122.166.12.21 1 3 13102 20120104061427
+186.225.97.210 1 1 17763 20120104195330
+nat-dc5.es.bluecoat.com 2 2 7109 20120106220525
+81.26.159.9 1 3 12046 20120103131747
+65-122-53-162.dia.static.qwest.net 1 3 13102 20120104173831
+74.125.44.87 0 1 880 
+drik61-tmp34.drikict.net 1 3 12239 20120105134113
+199.19.249.196 1 1 3651 20120104093945
+dhcp13.tiss.tuwien.ac.at 1 2 10747 20120104113257
+90-145-125-114.bbserv.nl 1 1 207610 20120109081328
+200.169.221.179 1 3 12072 20120105122342
+fw.supportspace.com 1 3 13102 20120102104636
+dynamic23-50.netcelerate.net 3 7 29855 20120105211015
+72.14.202.87 0 1 727 
+yi-in-f88.1e100.net 1 1 2788 20120105060642
+202.174.93.214 1 3 12372 20120102102217
+180.148.140.222 1 3 13102 20120106072150
+tb-in-f95.1e100.net 0 1 8571 
+209.85.228.94 1 1 1899 20120106063924
+ez-in-f82.1e100.net 0 1 8571 
+83-168-107-49.static.espol.com.pl 1 1 0 20120109132426
+62.17.135.198 1 3 11974 20120106123939
+164.38.32.174 1 3 11627 20120104152421
+igld-84-228-15-231.inter.net.il 1 3 12072 20120108125249
+119.27.62.254 1 1 3651 20120106131106
+rrcs-74-218-182-114.midsouth.biz.rr.com 1 3 13102 20120104202224
+209.85.224.80 0 1 33178 
+ez-in-f86.1e100.net 1 1 207610 20120109081306
+203.76.108.149 2 4 15077 20120102060804
+74.125.126.81 0 2 8446 
+ez-in-f85.1e100.net 0 1 1155 
+136.173.62.129 1 3 12315 20120105120612
+190.99.96.24 1 3 13102 20120105122635
+74.125.126.92 0 1 76539 
+telemedia-smb-022.17.183.122.airtelbroadband.in 1 3 12239 20120106100225
+10-209-245-216.reverse.lstn.net 1 1 5782 20120128103045
+samurai.washi.cs.waseda.ac.jp 2 4 13457 20120107041106
+202.95.77.70 1 3 12247 20120105091041
+74.125.126.82 1 1 5763 20120110043602
+mail3.idealista.com 1 3 12315 20120104164203
+64.95.113.14 1 3 11627 20120102193132
+64.233.182.82 0 1 3212 
+72.14.202.81 0 1 8571 
+ez-in-f92.1e100.net 0 1 880 
+62.225.37.69 1 3 12342 20120102102454
+209.85.226.85 0 1 880 
+99-107-93-137.lightspeed.stlsmo.sbcglobal.net 1 3 12342 20120102202111
+74.125.64.95 0 1 8571 
+61.95.130.99 2 4 14335 20120110114358
+ip68-111-57-110.br.br.cox.net 2 2 9246 20120122095210
+64.233.182.88 1 1 3651 20120103103001
+74.125.156.84 1 1 3651 20120104180245
+154.subnet118-97-17.static.astinet.telkom.net.id 1 1 14361 20120111235234
+74.125.126.87 0 1 80197 
+ras.beamtele.net 2 6 24729 20120105105523
+198.175.152.211 1 3 12247 20120102053947
+68.174.110-65.q9.net 1 3 12315 20120104210312
+lanch-179-066.resnet.cranfield.ac.uk 0 1 46382 
+203.129.254.84 2 8 76594 20120103052419
+host109-153-237-30.range109-153.btcentralplus.com 1 3 13102 20120105185715
+64.233.182.91 0 1 8571 
+192.121.232.7 1 2 12222 20120102085644
+50-76-36-142-ip-static.hfc.comcastbusiness.net 1 3 13102 20120105134755
+188-39-65-2.static.enta.net 2 4 21516 20120105124018
+tb-in-f85.1e100.net 0 1 19715 
+209.85.224.92 0 1 5779 
+115.119.165.130.static-pune.vsnl.net.in 3 9 85846 20120112112716
+194.2.86.10 2 4 26433 20120106133352
+165.130.136.206 1 3 12239 20120102055431
+89.106.184.18 1 3 13102 20120104093945
+74.125.126.93 0 1 33178 
+209.85.224.88 0 1 80197 
+221.148.85.90 1 3 13102 20120103061648
+93.93.59.25 1 3 12315 20120105150552
+c63cf86c.static.spro.net 2 4 14098 20120109030202
+60.18.150.9 1 1 5763 20120105191523
+74.125.126.83 0 1 1630 
+74.125.126.91 0 1 880 
+115.113.202.66.static-hyderabad.vsnl.net.in 1 2 0 20120102063432
+port-235-adslby-pool-91-187-25.infonet.by 1 3 12247 20120104231959
+121.243.26.34.static-delhi.vsnl.net.in 2 6 15758 20120105123638
+188.92.75.244 2 2 285036 20120128132656
+121.244.163.21.static.bangalore.vsnl.net.in 1 3 12247 20120105105523
+81.19.3.233 1 3 13102 20120103141617
+115.248.180.181 1 3 13102 20120106062826
+72.14.202.85 0 1 880 
+72.14.202.90 0 1 6255 
+095-097-030-210.static.chello.nl 1 3 13102 20120105090258
+72.14.202.88 1 2 49170 20120105041054
+121.242.198.2.static-delhi.vsnl.net.in 2 6 24630 20120105051312
+79.173.x.214.go.com.jo 1 1 37594 20120117110016
+abts-north-static-051.104.160.122.airtelbroadband.in 1 3 13102 20120105080612
+74.115.25.139 1 3 12315 20120106221856
+125.19.46.214 1 3 12072 20120105141043
+209.85.224.90 1 2 79403 20120106132034
+f0.do9.getit.de 1 3 13102 20120106102938
+209.85.224.84 0 1 880 
+arennes-359-1-221-233.w2-2.abo.wanadoo.fr 1 3 12342 20120101170132
+server2008.zfort.local 5 12 158206 20120105150650
+tb-in-f92.1e100.net 0 1 10563 
+p508224fe.dip.t-dialin.net 2 4 15077 20120101171941
+88-190-241-42.rev.dedibox.fr 1 1 19864 20120101084828
+109.230.216.208 1 1 37108 20120111052507
+tb-in-f90.1e100.net 0 1 880 
+proxy41.messagelabs.net 1 3 12319 20120105120421
+colo-69-172-133-99.pilosoft.com 1 1 0 20120106143212
+74.125.78.90 1 2 11435 20120105150543
+chello062178181108.17.14.vie.surfer.at 1 3 11627 20120103175455
+12.165.139.33 2 4 16560 20120106220525
+sol-fttb.246.64.163.188.sovam.net.ua 2 2 5766 20120121114917
+ez-in-f83.1e100.net 0 1 1136 
+ip-108-230.hyper.net.id 1 1 0 20120106214811
+170.148.132.136 1 3 13102 20120106131106
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20120101 4 8 47283 3
+20120102 11 29 113570 10
+20120103 8 30 214144 7
+20120104 26 78 419677 18
+20120105 61 123 892116 31
+20120106 38 190 2667867 23
+20120107 5 9 186573 4
+20120108 2 4 14614 2
+20120109 10 15 522548 7
+20120110 21 44 710240 8
+20120111 3 3 51469 3
+20120112 4 10 91134 2
+20120113 1 1 14380 1
+20120114 7 7 69989 2
+20120115 7 7 31599 2
+20120116 2 9 20897 2
+20120117 2 10 192525 2
+20120118 2 6 83294 2
+20120119 20 93 1125975 2
+20120121 2 2 5766 2
+20120122 2 2 9246 1
+20120123 2 23 312054 2
+20120124 1 3 11515 1
+20120128 2 2 147708 2
+20120129 1 1 0 1
+20120131 2 2 6287706 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+2mn-5mn 8
+30s-2mn 6
+0s-30s 125
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 88
+/qa/selenium/Selenium.DefaultSelenium.CaptureEntirePageScreenshot.html 36 127785 34 28
+/ 19 108967 16 8
+/qa/selenium/Selenium.DefaultSelenium.AttachFile.html 13 37289 13 13
+/qa/selenium/Selenium.DefaultSelenium.KeyDownNative.html 10 28003 10 9
+/qa/selenium/Selenium.DefaultSelenium.KeyPressNative.html 8 22352 8 7
+/qa/selenium/Selenium.DefaultSelenium.DeleteAllVisibleCookies.html 6 13056 6 6
+/qa/selenium/Selenium.ISelenium.html 6 86204 2 3
+/loading.aspx 6 51472 0 0
+/qa/selenium/Selenium.ISelenium.CaptureEntirePageScreenshot.html 6 20767 1 3
+/qa/selenium/Selenium.DefaultSelenium.AddScript.html 6 17346 6 4
+/qa/linux/default.aspx 1 19864 1 1
+/charity.aspx 2 11558 0 0
+/hosting.aspx 1 18430 0 0
+/qa/selenium/Selenium.DefaultSelenium.GetAttribute.html 5 12658 5 4
+/ajax/StartmenuContent.html 1 3804 0 0
+/qa/windows/cpp/CppCodingStandard.aspx 1 141926 1 1
+/news.aspx 1 3206 0 0
+/termuse.aspx 1 7088 0 0
+/erlsglossary.aspx 3 18223 2 2
+/index.aspx 1 0 0 1
+/Profile.aspx 1 5943 0 0
+/secqtinstiens.aspx 1 5320 1 1
+/Check/Html5Check.htm 5 19512 0 2
+/festivals/ 1 3824 1 1
+/Dev-standards/windows/cstyle/CppCodingStandard.aspx 3 286222 3 2
+/dashboard.aspx 1 8092 1 0
+/check/html5test/results.html 1 10866 0 0
+/qa/Pdf/SeleniumDocumentation.pdf 3 0 3 3
+/qa/selenium/Selenium.DefaultSelenium.html 1 8414 0 1
+/qa/selenium/Selenium.DefaultSelenium.IsCookiePresent.html 1 2409 1 0
+/check/BrowserCheck/default.aspx 1 7541 0 0
+/profile.aspx 4 23920 0 0
+/Dev-standards/NamingDomains.aspx 3 53279 2 3
+/Check/WEbGLCheck.htm 2 9756 0 0
+/check/SystemCheck/Default.aspx 1 2002 0 0
+/qa/selenium/contents.html 1 115624 0 1
+/services.aspx 1 5704 0 0
+/check/html5test/index.html 2 156338 0 0
+/donation.aspx 1 5101 0 0
+/products.aspx 2 15248 0 0
+/qa/selenium/Selenium.ISelenium.KeyDownNative.html 1 2631 0 1
+/check/html5test/PUSAB___.ttf 2 116600 0 1
+/qa/selenium/ 1 1214 0 0
+/qa/selenium/Selenium.ISelenium.AddScript.html 2 5470 0 2
+/qa/selenium/Selenium.DefaultRemoteCommand.html 1 2627 0 0
+/erlsfaq.aspx 1 13895 0 0
+/qa/selenium/Selenium.DefaultSelenium.DeselectPopUp.html 1 2064 1 1
+/QA/PDF/SELENIUM1TESTINGTOOLSNOV2010.PDF 1 6287706 1 1
+/widgetlab/default.aspx 1 5620 0 1
+/QA/selenium/Selenium.DefaultSelenium.html 1 8414 0 0
+/qa/selenium/Selenium.ISelenium.IsCookiePresent.html 1 2238 0 1
+/Check/BrowserCheck.htm 3 14667 0 0
+/contects.aspx 1 3157 0 0
+/qa/selenium/Selenium.DefaultSelenium.GetAllWindowIds.html 1 0 1 1
+/qa/selenium/Selenium.DefaultSeleniumMembers.html 2 121056 2 1
+/Dev-standards/linux/process/default.aspx 1 37594 1 1
+/home.aspx 1 7100 0 0
+/qa/selenium/Selenium.ISelenium.KeyPressNative.html 5 13129 4 4
+/et.aspx 3 18865 0 0
+/qa/selenium/Selenium.ISelenium.GetAttribute.html 1 2361 0 1
+/social.aspx 1 2713 0 0
+/sorry.aspx 1 2126 0 0
+/policy.aspx 4 8086 0 2
+/drdre/sociald.aspx 1 3026 1 1
+/partners.aspx 1 4141 0 0
+/qa/selenium/SeleniumHierarchy.html 1 3182 0 0
+/qa/selenium/Selenium.ISeleniumMembers.html 1 56840 0 0
+/qa/selenium/Selenium.DefaultRemoteCommandMembers.html 1 5122 0 1
+/QA/selenium/Selenium.DefaultSeleniumMembers.html 1 60528 0 1
+/Check/ErlsCheck.htm 2 9754 0 0
+/QA/selenium/Selenium.DefaultSelenium.WaitForPopUp.html 2 5722 2 1
+/qa/windows/cstyle/CppCodingStandard.aspx 1 143110 1 1
+/more.aspx 1 32928 0 0
+/Check/NetworkCheck.htm 3 14625 0 0
+/qa/selenium/Selenium.DefaultSelenium.SetExtensionJs.html 1 2086 1 0
+/Products/default.aspx 1 7546 0 0
+/qa/selenium/Selenium.ISelenium.SetExtensionJs.html 1 1920 0 1
+/qa/linux/process/default.aspx 2 74216 2 2
+/qa/windows/cstyle/Ellemtelrulesmm.aspx 1 0 1 1
+/qa/selenium/Selenium.ISelenium.DeselectPopUp.html 1 1899 1 1
+/qa/Pdf/TestAutomation.pdf 4 415220 4 4
+/qa/selenium/Selenium.DefaultSelenium.GetAllFields.html 1 2023 0 1
+/qa/selenium/Selenium.html 3 47629 0 1
+/check/NetworkCheck/default.aspx 1 49782 0 0
+/Check/SystemCheck.htm 3 14637 0 0
+/qa/Pdf/Selenium1TestingToolsNov2010.pdf 2 0 2 2
+/login.aspx 3 164097 0 1
+/cprofile.aspx 1 59712 0 1
+END_SIDER

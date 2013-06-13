@@ -1,0 +1,930 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201303 will be lost/reset.
+# Last config file used to build this data file was C:\Program Files (x86)\Parallels\Plesk\Additional\AWStats\wwwroot\cgi-bin/awstats.erlsindia.co.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2056                
+POS_TIME 2736                
+POS_VISITOR 27623               
+POS_DAY 31595               
+POS_DOMAIN 3594                
+POS_LOGIN 4058                
+POS_ROBOT 4213                
+POS_WORMS 4802                
+POS_EMAILSENDER 4933                
+POS_EMAILRECEIVER 5076                
+POS_SESSION 32317               
+POS_SIDER 32523               
+POS_FILETYPES 5211                
+POS_DOWNLOADS 5551                
+POS_OS 9168                
+POS_BROWSER 9362                
+POS_SCREENSIZE 9961                
+POS_UNKNOWNREFERER 10035               
+POS_UNKNOWNREFERERBROWSER 10281               
+POS_ORIGIN 10513               
+POS_SEREFERRALS 10654               
+POS_PAGEREFS 10838               
+POS_SEARCHWORDS 11089               
+POS_KEYWORDS 11349               
+POS_MISC 2399                
+POS_ERRORS 11515               
+POS_CLUSTER 3914                
+POS_SIDER_404 11688               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130401000035 232 58862 84810550048
+FirstTime 20130301122657
+LastTime 20130330090047
+LastUpdate 20130401105928 232 0 231 0 0
+TotalVisits 61                  
+TotalUnique 50                  
+MonthHostsKnown 51                  
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 30 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 66 115 1585982
+1 5 98 625848 84 132 1083023
+2 1 1 2826 64 88 518084
+3 3 11 5591894 99 179 6141053
+4 0 1 1720 57 139 2807561
+5 78 274 4344707 81 184 934388
+6 58 306 11269656 116 208 10174160
+7 30 452 9195626 123 176 2082968
+8 44 299 11700109 105 157 1099610
+9 26 287 40904065 61 121 970258
+10 152 1195 65964162 136 261 1183177
+11 40 403 23614713 130 204 1198048
+12 83 438 22629697 95 517 2760872
+13 36 349 12132383 70 341 15028679
+14 18 201 2942936 57 119 862526
+15 0 5 8319646 48 91 579371
+16 18 81 4135447 46 102 235426
+17 13 24 2900089 40 74 391333
+18 3 22 108538 54 86 423897
+19 3 32 2457519 64 154 1654522
+20 2 2 45498 45 114 1251881
+21 2 27 244885 47 84 1141747
+22 3 6 25639 68 94 3735184
+23 1 8 176575 66 100 3521517
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+ip 430 3013 177761585
+arpa 69 752 5019083
+in 43 127 1495312
+com 34 349 23978366
+net 27 115 4285899
+ch 6 73 502173
+ru 2 26 2468641
+nz 2 2 45536
+uk 1 4 3736
+il 1 39 2300362
+co 1 1 34517
+vn 1 8 176575
+th 0 1 1720
+it 1 10 16348
+br 1 1 34575
+pk 0 1 2947053
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+googlebot 1487 35831053 20130331234255 0
+baiduspider 364 2464507 20130331233748 0
+bot[\s_+:,\.\;\/\\-] 105 337111 20130331084016 0
+spider 78 242002 20130331235428 0
+msnbot\-media 75 687839 20130331104922 0
+java\/[0-9] 10 96581 20130308122139 0
+exabot 8 43838 20130327090132 0
+surveybot 3 16270 20130324204754 0
+feedfetcher\-google 2 21202 20130319085941 0
+ia_archiver 1 6072 20130326074416 0
+slurp 1 2807 20130306134253 0
+facebook 1 34884 20130316142118 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+css 501 601358 0 0
+png 1540 173293755 0 0
+ttf 4 158118 0 0
+pdf 14 22778011 0 0
+htm 7 16998 0 0
+txt 7 4475 0 0
+aspx 457 1814787 0 0
+swf 27 94650 0 0
+php 1 1015 0 0
+html 132 755482 0 0
+js 575 3763365 0 0
+jpg 870 16855907 0 0
+xml 2 10974 0 0
+axd 16 73476 0 0
+gif 369 849110 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 77
+/qa/Pdf/SeleniumDocumentation.pdf 10 6 27108693
+/qa/Pdf/TestAutomation.pdf 9 2 1038410
+/ProductList/product-F.txt 3 0 1902
+/ProductList/product-A.txt 3 0 1911
+/ProductList/product-B.txt 3 0 1920
+/ProductList/product-D.txt 2 0 1338
+/qa-standards/windows/cstyle/indhill-annot.pdf 2 0 106826
+/qa-standards/windows/cstyle/indhill-cstyle.pdf 2 0 214146
+/qa-standards/windows/cstyle/ifdefs.pdf 2 0 112222
+/ProductList/product-G.txt 2 0 1266
+/ProductList/product-T.txt 2 0 1266
+/qa-standards/windows/cstyle/steal.pdf 2 0 82626
+/qa-standards/windows/cstyle/pikestyle.pdf 2 0 41254
+/qa-standards/linux/faq/faq.pdf 2 0 263130
+/qa-standards/windows/cstyle/Ellemtel-rules-mm.pdf 2 0 602434
+/qa-standards/windows/cstyle/cant.pdf 2 0 90660
+/qa-standards/windows/cstyle/Baldwin-inspect.pdf 2 0 82958
+/ProductList/product-C.txt 2 0 1448
+/ProductList/product-U.txt 2 0 1286
+/qa-standards/windows/cstyle/portableC.pdf 2 0 526868
+/qa-standards/windows/cstyle/Peter_CStyleGuide.pdf 2 0 641312
+/qa-standards/linux/develop/develop.pdf 2 0 336216
+/qa-standards/windows/cstyle/ten-commandments.pdf 2 0 8050
+/qa-standards/windows/cstyle/codestddisc.txt 1 0 11265
+/QA-standards/linux/cppstnd/cppstnd.pdf 1 0 234849
+/QA-standards/linux/process/process.pdf 1 0 142255
+/QA-standards/linux/doc/reqs.pdf 1 0 113048
+/qa/windows/cstyle/indhill-annot.pdf 1 0 53413
+/ProductList/product-R.txt 1 0 625
+/qa-standards/windows/cstyle/cstyleESAOZv2.txt 1 0 9623
+/QA/linux/doc/reqs.pdf 1 0 113048
+/ProductList/product-Z.txt 1 0 626
+/qa-standards/windows/bib/ESEC/refs.bib.gz 1 0 14014
+/qa/windows/cstyle/Baldwin-inspect.pdf 1 0 41479
+/ProductList/product-Y.txt 1 0 655
+/qa-standards/windows/cstyle/steal.ms.gz 1 0 13001
+/QA/linux/cppstnd/cppstnd.pdf 1 0 234848
+/ProductList/product-P.txt 1 0 648
+/qa-standards/windows/cstyle/ten-commandments.ms.gz 1 0 1423
+/qa/windows/cstyle/portableC.pdf 1 0 263432
+/qa-standards/windows/bib/ICSE/refs.bib.gz 1 0 114760
+/qa-standards/windows/cstyle/LinuxKernelCodingStyle.txt 1 0 6611
+/qa/windows/bib/EWSPT/test-bib.tex.gz 1 0 935
+/qa/windows/cstyle/cant.pdf 1 0 45330
+/qa-standards/windows/bib/EWSPT/refs.bib.gz 1 0 7038
+/qa/windows/bib/ISPW/test-bib.tex.gz 1 0 1610
+/ProductList/product-H.txt 1 0 661
+/qa-standards/windows/cstyle/portableC.tex.gz 1 0 15573
+/QA-standards/windows/cstyle/Peter_CStyleGuide.pdf 1 0 320656
+/qa-standards/windows/cstyle/indhill-cstyle.ms.tbl.gz 1 0 38713
+/qa/windows/bib/ESEC/test-bib.tex.gz 1 0 1473
+/QA-standards/windows/cstyle/Ellemtel-rules-mm.pdf 1 0 301217
+/ProductList/product-M.txt 1 0 636
+/qa/windows/cstyle/steal.pdf 1 0 41312
+/QA-standards/linux/oostnd/oostnd.pdf 1 0 166589
+/QA/linux/oostnd/oostnd.pdf 1 0 166589
+/ProductList/product-I.txt 1 0 623
+/qa/windows/cstyle/ifdefs.pdf 1 0 56111
+/QA-standards/linux/faq/faq.pdf 1 0 131565
+/qa/windows/cstyle/pikestyle.pdf 1 0 20627
+/qa-standards/windows/bib/ISPW/refs.bib.gz 1 0 13552
+/ProductList/product-0-9.txt 1 0 617
+/ProductList/product-W.txt 1 0 661
+/QA/linux/process/process.pdf 1 0 142255
+/QA/Pdf/Selenium1TestingToolsNov2010.pdf 1 0 6287687
+/qa-standards/windows/cstyle/gnucodingstd.txt 1 0 6291
+/qa/windows/bib/ICSE/refs.bib.gz 1 0 114760
+/QA/Pdf/SeleniumDocumentation.pdf 1 0 2684546
+/qa/windows/bib/ESEC/refs.bib.gz 1 0 14015
+/qa/windows/cstyle/indhill-cstyle.pdf 1 0 107073
+/qa-standards/windows/cstyle/indhill-annot.ms.tbl.gz 1 0 14971
+/ProductList/product-L.txt 1 0 643
+/qa/windows/cstyle/ten-commandments.pdf 1 0 4025
+/ProductList/product-O.txt 1 0 630
+/ProductList/product-X.txt 1 0 633
+/ProductList/product-N.txt 1 0 630
+/qa-standards/linux/develop/develop.txt 1 0 12800
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 14
+linuxsuse 1
+linuxandroid 4
+winlong 1
+winxp 3786
+java 32
+winvista 23
+linux 221
+win7 260
+macosx 153
+linuxgentoo 1
+winunknown 5
+j2me 14
+win2003 20
+Unknown 9
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 35
+chrome23.0.1271.64 3
+firefox10.0 1
+android 4
+chrome22.0.1229 98
+chrome22.0.1229.79 39
+firefox18.0 1
+opera9.80 19
+firefox3.6.15 4
+msie8.0 99
+chrome23.0.1300.0 27
+firefox13.0.1 1
+firefox0.10.1 2
+firefox6.0.2 1
+msie7.0 29
+firefox16.0 1
+chrome25.0.1364.152 100
+msie9.0 72
+chrome26.0.1410.43 1
+Unknown 36
+chrome24.0.1312.52 8
+wap 1
+safari6.0 2
+chrome25.0.1364.155 24
+chrome18.0.1025.165 3
+firefox12.0 1
+firefox14.0.1 3
+chrome25.0.1364.172 1002
+msie10.0 4
+netscape4.0 4
+firefox6.0 7
+firefox3.6.12 1
+safari6.0.2 5
+firefox19.0 2917
+firefox3.6.8 2
+safari 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+msnbot-media/1.1_(_http://search.msn.com/msnbot.htm) 20130311034503
+MAUI_WAP_Browser 20130322162637
+Zend_Http_Client 20130329204504
+Mozilla/4.0 20130302171502
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+msnbot-media/1.1_(_http://search.msn.com/msnbot.htm) 20130311034503
+Zend_Http_Client 20130329204504
+Apache-HttpClient/4.2.3_(java_1.5) 20130308122204
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 161 171
+From1 0 0
+From2 20 40
+From3 2 5
+From4 436 4314
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 18 37
+baidu 2 2
+google_image 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://www.sitefinder.co.in 1 1
+http://escortzone.com/fr 1 1
+http://users8.jabry.com/dsfoundation/ 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+erlsindia.co.in 6
+erls+corporation 3
+erls 1
+wishin+card+creator 1
+starterlscorporation 1
+740674ce2123a969 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 8
+erlsindia.co.in 6
+erls 4
+corporation 3
+wishin 1
+creator 1
+card 1
+starterlscorporation 1
+740674ce2123a969 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 5 22772
+302 110 152164
+206 35 13488435
+400 5 13680
+500 90 1024127
+301 4 1510
+404 1374 6838005
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 251
+/corporate/product 1 -
+/images/icons/Addressbook.png 4 http://www.erlsindia.co.in/dashboard.aspx
+/ProductList/Products/Vconnect/ 1 -
+/Dev-standards/Officelayoutstandard.aspx 1 -
+/erlsgames/NewGames/Entanglement/a/WindowOpen.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/sms/brand-form=cse-search-box&lang=en 1 -
+/erlsgames/NewGames/Entanglement/a/Line51.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/images/Language/USA.jpg 20 http://www.erlsindia.co.in/
+/css/tooltip.css 6 http://www.erlsindia.co.in/index.aspx
+/qa/linux/doc/requirements/req3146.aspx 1 -
+/erlsgames/NewGames/Entanglement/i/text-side-more.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/Interpretation/overview/cluetip/jquery-1.8.3.js 2 http://www.erlsindia.co.in/Interpretation/default.aspx
+/erlsgames/NewGames/i/score_menu/score_background.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/images/index/_0048_Facebook.png 19 http://www.erlsindia.co.in/
+/dashboard/ajax/StartmenuContent.html 2 http://erlsindia.co.in/dashboard.aspx
+/school/Euopl-calender.aspx 1 -
+/sms/jsapi 1 -
+/Check/check/CreditExperiments.aspx 2 -
+/qa/linux/doc/requirements/req6587.aspx 1 -
+/corporate/help/customize.aspx 1 -
+/css/fonts/texgyreadventor-regular-webfont.ttf 8 http://www.erlsindia.co.in/
+/erlsgames/NewGames/i/dialog-box.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/ProductList/Products/Kalculator/ 1 -
+/search 3 -
+/css/css/font-awesome.css 25 http://www.erlsindia.co.in/dashboard.aspx
+/images/icons/AllPrograms.png 4 http://www.erlsindia.co.in/dashboard.aspx
+/js/ac.js 3 http://www.erlsindia.co.in/dashboard.aspx
+/erlsgames/NewGames/Entanglement/i/sparks/sparks1.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/drdre/login.aspx 4 -
+/erlsgames/NewGames/i/tab-small.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/i/button.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/Entanglement/a/Layer1_1.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/corporate/hosting.aspx 1 -
+/corporate/Products/sorry.aspx 13 http://erlsindia.co.in/corporate/products.aspx
+/qa/linux/doc/requirements/req5096.aspx 1 -
+/sendtophone 6 -
+/corporate/scontects.aspx 1 -
+/qa/linux/doc/requirements/req3145.aspx 1 -
+/ProductList/Products/LanLite/ 1 -
+/images/login/5.jpg 5 http://www.erlsindia.co.in/login.aspx
+/erlsgames/NewGames/Entanglement/i/select-box/arrow-right.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/sms/images/others/share-youtube.png 3 http://www.erlsindia.co.in/sms/erlssms.aspx
+/images/index/_0046_Twitter.png 19 http://www.erlsindia.co.in/
+/career/images/displayroom/photo1.jpg 1 -
+/images/index/getstarted.gif 12 http://www.erlsindia.co.in/
+/qa/linux/doc/requirements/req1588.aspx 1 -
+/erlsgames/NewGames/Entanglement/a/Line13.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/ProductList/Products/Konnect/ 1 -
+/erlsgames/NewGames/i/bg-highscores.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/images/white-arrow.gif 2 http://erlsindia.co.in/login.aspx
+/career/images/displayroom/photo6.jpg 1 -
+/standards/overview/p7dejavu/img/QA_TICK.png 1 -
+/qa/linux/doc/requirements/req4865.aspx 1 -
+/images/cprofile/ccom+.jpg 1 -
+/images/Language/France.jpg 20 http://www.erlsindia.co.in/
+/QA/windows/bib/default.aspx 1 -
+/css/sample.css 6 http://www.erlsindia.co.in/index.aspx
+/sms/images/others/share-blogger.png 3 http://www.erlsindia.co.in/sms/erlssms.aspx
+/images/index/map.jpg 12 http://www.erlsindia.co.in/
+/erlsgames/NewGames/Entanglement/a/Line20.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/webarchives/archives/css-dock.7z 1 -
+/erlsgames/NewGames/Entanglement/a/Line40.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/Entanglement/a/Line50.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/css/DashboardStyle.css 3 http://www.erlsindia.co.in/dashboard.aspx
+/ProductList/commission/default.aspx 1 -
+/check/global.css 47 -
+/images/login/Help2.png 2 http://www.erlsindia.co.in/login.aspx
+/check/hire-us/hire-us.js 2 http://www.erlsindia.co.in/
+/qa/linux/doc/requirements/req3142.aspx 1 -
+/privacy_glossary.aspx 2 -
+/paint 1 -
+/js/disablectrlu.js& 4 -
+/js/cufon-yui.js 7 http://www.erlsindia.co.in/index.aspx
+/erlsgames/NewGames/Entanglement/a/Layer2_5.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/ProductList/Products/Hello/ 1 -
+/webarchives/archives/Ultimatebrowserdetectingjavascript.7z 1 -
+/qa/linux/doc/requirements/req6594.aspx 1 -
+/images/index/ds_Visual_logo.png 26 http://www.erlsindia.co.in/
+/images/favicon.ico& 4 -
+/check/ISEventSupported/PUSAB___.woff 2 http://www.erlsindia.co.in/check/ISEventSupported/default.aspx
+/qa/linux/doc/requirements/req6590.aspx 1 -
+/erlsgames/NewGames/Entanglement/a/Layer1_3.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/sms/TOS.htm 2 -
+/erlsgames/NewGames/i/main_menu/menu_background.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/school/Euopl-programs.aspx 1 -
+/qa/windows/bib/default.aspx 1 -
+/en.kioskea.net/_skin/_common/img/bg_glossaryButton.png 10 http://www.erlsindia.co.in/productsstyle.css
+/images/desktop/call_blue_white_124x52-1.png 4 http://www.erlsindia.co.in/dashboard.aspx
+/erlsgames/NewGames/Entanglement/a/Line10.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/Entanglement/i/text-side-menu.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/wp-trackback.php 1 -
+/images/index/uiactivetabbg.gif 19 http://www.erlsindia.co.in/
+/images/index/_0018_Linkedin.png 19 http://www.erlsindia.co.in/
+/images/index/support.jpg 12 http://www.erlsindia.co.in/
+/sms/images/others/share-facebook.png 3 http://www.erlsindia.co.in/sms/erlssms.aspx
+/erlsgames/NewGames/Entanglement/i/sparks/sparks2.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/qa/windows/Cpp/C++_coding_standards.pdf 1 -
+/images/lbaheadgif3bg.gif 1 http://erlsindia.co.in/corporatepolicy.aspx
+/images/index/google.png 19 http://www.erlsindia.co.in/
+/erlsgames/NewGames/Entanglement/a/Layer1_4.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/i/bg-results.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/images/login/6.jpg 3 http://www.erlsindia.co.in/login.aspx
+/admin/erlsadmin.aspx 3 -
+/qa/linux/doc/requirements/req4568.aspx 1 -
+/qa/linux/doc/requirements/req3144.aspx 1 -
+/news/wp-trackback.php 1 -
+/Check/check/ErlsCheck.aspx 3 -
+/erlsgames/NewGames/Entanglement/a/Layer2_1.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/Entanglement/a/swap-tile.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/ProductList/Products/ElementSix/ 1 -
+/corporate/products 1 -
+/robots.txt 251 -
+/images/index/erlslogo_Visual_logo.png 25 http://www.erlsindia.co.in/
+/loading.gif 86 http://www.erlsindia.co.in/index.aspx
+/dlpage.css 22 http://www.erlsindia.co.in/index.aspx
+/ProductList/Products/Entourage/ 1 -
+/images/index/coins.jpg 12 http://www.erlsindia.co.in/
+/corporate/commission/default.aspx 6 http://erlsindia.co.in/corporate/products.aspx
+/erlsgames/NewGames/Entanglement/a/Layer1_5.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/Entanglement/a/Line11.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/css/fonts/texgyreadventor-regular-webfont.svg 8 http://www.erlsindia.co.in/
+/images/index/ax_island.png 8 http://www.erlsindia.co.in/
+/erlsgames/NewGames/Entanglement/a/Line30.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/blog/wp-trackback.php 1 -
+/all-ie-only.css 1 http://www.erlsindia.co.in/
+/wp-content/themes/epress/timtumb.php 1 -
+/qa/linux/doc/requirements/req6591.aspx 1 -
+/ProductList/Products/xmlsix/ 1 -
+/validator/schema.aspx 1 -
+/privacypolicy.aspx 3 -
+/erlsgames/NewGames/Entanglement/i/rotate-buttons.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/css/fonts/texgyreadventor-regular-webfont.woff 8 http://www.erlsindia.co.in/index.aspx
+/ProductList/product-E.txt 3 -
+/corporate/erlsindex.aspx 1 -
+/qa/linux/doc/requirements/req10658.aspx 1 -
+/career/images/displayroom/photo5.jpg 1 -
+/js/jquery.jclock.js 3 http://www.erlsindia.co.in/dashboard.aspx
+/images/Language/Spain.jpg 20 http://www.erlsindia.co.in/
+/erlsgames/NewGames/Entanglement/a/WindowClose.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/hogzilla/nav_spr.PNG 1 -
+/cprofile/ 1 -
+/ProductList/Products/MediaSix/ 1 -
+/images/login/bg2.jpg 2 http://www.erlsindia.co.in/login.aspx
+/images/login/3.jpg 4 http://www.erlsindia.co.in/login.aspx
+/corporate/news.aspx 1 -
+/js/jquery-ui-personalized-1.js 8 http://www.erlsindia.co.in/index.aspx
+/js/ChunkFive_400.font.js 7 http://www.erlsindia.co.in/index.aspx
+/erlsgames/NewGames/i/button_bar/bar-buttons.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/js/jquery-1.4.4.min.js 9 http://www.erlsindia.co.in/index.aspx
+/erlsgames/NewGames/Entanglement/a/Layer1_2.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/images/index/uitabsbg.gif 12 http://www.erlsindia.co.in/
+/ProductList/Products/PDFSix/ 1 -
+/erlsgames/NewGames/Entanglement/a/Layer2_2.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/Check/check/SystemCheck.aspx 4 -
+/css/font-awesome.css 1 http://www.erlsindia.co.in/loading.aspx
+/Check/check/AboutErls.aspx 2 -
+/images/index/_0049_Forrst.png 19 http://www.erlsindia.co.in/
+/erlsgames/NewGames/Entanglement/i/bonus-tile-shadow.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/images/login/1.jpg 3 http://www.erlsindia.co.in/login.aspx
+/ProductList/Products/sorry.aspx 1 -
+/images/index/topbottom.png 1 http://www.erlsindia.co.in/index.aspx
+/erlsgames/NewGames/Entanglement/a/Line12.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/standards/windows/cstyle/indhillannot.aspx 1 -
+/images/Language/India.jpg 21 http://www.erlsindia.co.in/
+/css/jquerytour.css 6 http://www.erlsindia.co.in/index.aspx
+/sms/images/toolbarbg.png 1 -
+/corporate/login.aspx 1 -
+/QA/windows/Cpp/C++_coding_standards.pdf 1 -
+/check/SM2/demo/_image/chunk-webfont.woff 2 http://www.erlsindia.co.in/check/SM2/index.html
+/rssfeed/images/end.gif 3 http://www.erlsindia.co.in/rssfeed/rssfeedstyle.css
+/images/index/_0050_Dribbble.png 19 http://www.erlsindia.co.in/
+/erlsgames/NewGames/Entanglement/a/Layer2_3.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/Entanglement/a/Layer1_6.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/a 1 -
+/images/index/bearings.jpg 11 http://www.erlsindia.co.in/
+/qa/linux/doc/requirements/req5095.aspx 1 -
+/erlsgames/NewGames/Entanglement/a/Line14.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/i/side-menu/background.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/qa/linux/doc/requirements/req6592.aspx 1 -
+/corporate/privacy.aspx 1 -
+/ajaxImage.jpg 15 http://www.erlsindia.co.in/index.aspx
+/sms/index-14.htm 2 -
+/erlsgames/NewGames/Entanglement/Fontin-SmallCaps.ttf 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/update2/installers/clickonce/GoogleInstaller_en.application 1 -
+/qa/linux/doc/requirements/req6599.aspx 1 -
+/css/slogan1.css 6 http://www.erlsindia.co.in/index.aspx
+/erlsgames/NewGames/Entanglement/a/click.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/css/ax.css 6 http://www.erlsindia.co.in/index.aspx
+/qa/linux/doc/requirements/req5097.aspx 1 -
+/Dev-standards/windows/cpppractice.aspx 2 -
+/qa/linux/doc/requirements/req3147.aspx 1 -
+/a/soundmanager2.swf 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/Entanglement/a/Line31.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/Check/check/Html5Check.aspx 2 -
+/qa/linux/doc/requirements/req6595.aspx 1 -
+/ProductList/Products/Pragya/ 1 -
+/qa/linux/doc/requirements/req6588.aspx 1 -
+/ProductList/product-K.txt 1 -
+/erlspatents.aspx&amp 1 -
+/qa-standards/windows/bib/default.aspx 3 -
+/qa-standards/default.aspx 2 -
+/qa/linux/doc/requirements/req20873.aspx 1 -
+/erlsgames/NewGames/Entanglement/i/select-box/arrow-left.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/Check/check/WebGLCheck.aspx 3 -
+/Check/check/ActiveXCheck.aspx 1 -
+/tools/dlpage/res/chrome/images/chrome-16.png 2 -
+/qa/linux/doc/requirements/req5098.aspx 1 -
+/erlsgames/NewGames/i/swap_roll.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/css/login-style.css 1 http://www.erlsindia.co.in/login.aspx
+/js/jquery-ui-1.8.17.custom.min.js 3 http://www.erlsindia.co.in/dashboard.aspx
+/qa-standards/windows/cpp/c++_coding_standards.pdf 1 -
+/goog.css 22 http://www.erlsindia.co.in/index.aspx
+/erlsgames/Games/SpaceFighters/SpaceFighters.qtz 1 -
+/css/rotator1.css 5 http://www.erlsindia.co.in/index.aspx
+/images/login/4.jpg 4 http://www.erlsindia.co.in/login.aspx
+/copyright.aspx&amp 1 -
+/gu-util.js 29 http://www.erlsindia.co.in/index.aspx
+/qa/linux/doc/requirements/req5972.aspx 1 -
+/corporate/Products/Pragya/ 2 http://erlsindia.co.in/corporate/products.aspx
+/career/images/displayroom/photo2.jpg 2 -
+/erlsgames/NewGames/Entanglement/a/Line41.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/qa/linux/doc/requirements/req6598.aspx 1 -
+/paint/ 2 -
+/js/jquery-1.8.3.min.js 5 http://www.erlsindia.co.in/dashboard.aspx
+/erlsgames/NewGames/i/button_bar/bar.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/erlsgames/NewGames/Entanglement/a/Line21.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/js/skypeCheck.js 3 http://www.erlsindia.co.in/dashboard.aspx
+/corporate/corporate/cprofile.aspx 1 -
+/qa/linux/doc/requirements/req2872.aspx 1 -
+/images/index/close.gif 4 http://www.erlsindia.co.in/index.aspx
+/images/Language/Germany.jpg 20 http://www.erlsindia.co.in/
+/images/circle_animation.gif 15 http://www.erlsindia.co.in/index.aspx
+/check/hire-us/hire-us.css 2 http://www.erlsindia.co.in/
+/css/jquery-ui-1.8.16.custom.css 2 http://erlsindia.co.in/loading.aspx
+/Check/check/ISEventSupported.aspx 1 -
+/erlsgames/NewGames/Entanglement/a/Layer2_4.mp3 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/career/images/displayroom/photo3.jpg 1 -
+/images/login/2.jpg 3 http://www.erlsindia.co.in/login.aspx
+/images/login/Help.png 2 http://www.erlsindia.co.in/login.aspx
+/sms/images/others/share-twitter.png 3 http://www.erlsindia.co.in/sms/erlssms.aspx
+/erlsgames/NewGames/i/button_bar/about-icon.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/wordpress/wp-trackback.php 1 -
+/images/logo.jpg 64 http://www.erlsindia.co.in/profilestyle.css
+/Check/check/BrowserCheck.aspx 3 http://www.erlsindia.co.in/Check/BrowserCheck.html
+/corporate/Products/Hello/ 4 http://erlsindia.co.in/corporate/products.aspx
+/qa/linux/doc/requirements/req3143.aspx 1 -
+/erlsgames/NewGames/i/swap_default.png 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/wp/wp-trackback.php 1 -
+/qa/linux/doc/requirements/req5099.aspx 1 -
+/erlsgames/NewGames/i/bg.jpg 1 http://erlsindia.co.in/erlsgames/NewGames/Entanglement/index.htm
+/qa/linux/doc/requirements/req1589.aspx 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 84
+202.9.91.130 398 2792 161761628 20130325100706
+pacenet.178.76.203.in-addr.arpa 69 752 5019083 20130316143744
+triband-del-59.180.136.10.bol.net.in 43 121 1100454 20130308122204
+pool-173-69-164-9.bltmmd.fios.verizon.net 15 62 927421 20130306163618
+189-delhi-2.pacenet-india.com 9 121 1765199 20130324120028
+a11-10-07.opera-mini.net 7 12 62419 20130326180320
+66.249.84.92 6 6 63889 20130316125204
+cacheng.unige.ch 6 73 502173 20130306100238
+60.54.139.78 5 98 625848 20130327012924
+5.135.125.180 5 5 74211 20130320175007
+ycar2.mobile.bf1.yahoo.com 1 1 34879 20130330090047
+208.185.193.222.reverse.not.updated.above.net 0 1 2684546 
+cncmspsrvz9ts204-dmz.mycingular.net 1 5 36912 20130301122657
+41.162.48.138 0 1 904 
+203.99.197.52 0 3 2684909 
+117.193.7.134 0 1 2684546 
+datacenter.tvnsul.com.br 1 1 34575 20130319175712
+117.217.162.108 0 1 2684546 
+hosted-by.reliablesite.net 1 1 10672 20130317165710
+lns-bzn-49f-81-56-173-4.adsl.proxad.net 0 1 62773 
+msnbot-131-253-24-132.search.msn.com 0 11 30756 
+amprx01x.nokia.com 2 24 165684 20130308143723
+mx-ll-171.6.142-141.dynamic.3bb.co.th 0 1 1720 
+192.165.213.18 0 1 0 
+50-57-68-14.static.cloud-ips.com 1 1 34903 20130322163938
+65.181.122.21 1 1 34570 20130320071809
+180.153.214.199 1 4 46131 20130302171501
+abts-north-dynamic-019.178.161.122.airtelbroadband.in 0 1 46382 
+msnbot-131-253-24-135.search.msn.com 1 3 4705 20130310172158
+a07-01-03.opera-mini.net 0 1 46382 
+50-57-68-9.static.cloud-ips.com 1 1 6242 20130306135013
+msnbot-65-55-212-95.search.msn.com 1 7 66238 20130327181944
+static.vdc.vn 1 8 176575 20130314033508
+62.83.250.38.dyn.user.ono.com 2 27 244885 20130310210156
+122.175.170.159 0 1 46382 
+h266.hlfs.bf1.yahoo.com 1 4 18184 20130311085914
+dynamic.5.144.60.154.ccc.net.il 1 39 2300362 20130327071109
+64.138.132.34 0 1 2684546 
+cpc3-telf3-0-0-cust174.16-1.cable.virginmedia.com 4 69 9163744 20130317094020
+ec2-176-34-19-192.ap-northeast-1.compute.amazonaws.com 1 1 6072 20130305064147
+202.98.123.126 1 1 34551 20130318090427
+host140-246-dynamic.22-79-r.retail.telecomitalia.it 1 10 16348 20130327132256
+google-proxy-66-249-80-10.google.com 4 62 9635912 20130320103333
+static-ip-cr19015823698.cable.net.co 1 1 34517 20130310084236
+174.red-83-53-168.dynamicip.rima-tde.net 1 8 176575 20130315230405
+h264.hlfs.bf1.yahoo.com 1 4 19194 20130317224345
+ec2-50-112-28-170.us-west-2.compute.amazonaws.com 2 2 6445 20130315225551
+121.245.58.55.cdma-hyderabad.vsnl.net.in 0 2 92764 
+2.236.72.196 0 1 1720 
+adsl-99-162-205-150.dsl.hstntx.sbcglobal.net 0 1 4263 
+117.203.18.166 1 40 268741 20130324072725
+115.249.110.196 0 1 709 
+host244-230.lease.p-t-k.net 2 22 227554 20130315075355
+66.249.80.10 1 11 113038 20130318165144
+ip-176-195-53-108.bb.netbynet.ru 1 1 29281 20130312131854
+msnbot-131-253-24-156.search.msn.com 0 1 783 
+202-142-173-118.multi.net.pk 0 3 2947053 
+61.166.55.153 1 1 34570 20130324092917
+106.223.114.188 0 1 207610 
+46.229.167.149 4 4 90999 20130329204506
+123.125.67.153 1 1 2826 20130303023946
+158.132.103.176 0 1 1720 
+118.99.115.35 0 1 709 
+188.92.75.244 3 3 22476 20130315054702
+58.26.23.98 0 3 207970 
+203-88-6-44.live.vodafone.in 0 1 46382 
+broadband-77-37-160-14.nationalcablenetworks.ru 1 25 2439360 20130313191007
+66.249.80.217 1 25 218075 20130320103018
+46.218.195.138 0 1 2684546 
+msnbot-65-55-213-49.search.msn.com 1 3 14423 20130321192606
+61.135.190.104 0 1 709 
+124.124.57.77 0 1 207610 
+msnbot-131-253-24-51.search.msn.com 1 4 18179 20130311113546
+144.36.145.141 0 1 207610 
+a06-06-02.opera-mini.net 0 1 46382 
+61.135.190.102 1 3 16904 20130308084129
+115.246.27.53 0 1 46382 
+ec2-50-112-32-59.us-west-2.compute.amazonaws.com 1 1 10648 20130326124344
+115.112.143.170.static-ahmedabad.tcl.net.in 0 1 1720 
+tmp.sitefinder.co.nz 2 2 45536 20130325135858
+stu8270.kent.ac.uk 1 4 3736 20130314194940
+182.48.206.157.dvois.com 0 3 2684909 
+115.112.64.38.static-pune.vsnl.net.in 0 1 207610 
+tide500.microsoft.com 0 1 46382 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20130301 1 5 36912 1
+20130302 1 6 5415223 1
+20130303 1 3 95590 1
+20130304 0 1 46382 0
+20130305 1 1 6072 1
+20130306 22 136 1435836 3
+20130307 0 2 47091 0
+20130308 46 150 6915713 3
+20130309 0 1 5369818 0
+20130310 4 31 284107 3
+20130311 2 11 5614695 2
+20130312 1 2 29990 1
+20130313 1 29 3271229 1
+20130314 6 109 1796713 3
+20130315 8 35 433050 4
+20130316 75 758 5082972 2
+20130317 6 74 9193610 3
+20130318 100 833 54981559 3
+20130319 73 726 41168546 3
+20130320 227 1100 74327419 8
+20130321 4 39 1107470 3
+20130322 1 3 83005 1
+20130324 11 162 2068510 3
+20130325 7 115 4528364 2
+20130326 8 15 2761876 2
+20130327 10 171 3089276 5
+20130329 2 3 108271 1
+20130330 1 1 34879 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 2
+2mn-5mn 1
+0s-30s 42
+30s-2mn 8
+15mn-30mn 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 140
+/ 53 652400 21 15
+/profile.aspx 44 231895 8 4
+/dashboard.aspx 37 115792 2 1
+/index.aspx 33 318547 6 7
+/login.aspx 25 102060 1 2
+/AddressBook/ContactInfo.aspx 24 55343 0 0
+/humanCaptcha.aspx 19 21733 0 2
+/WebResource.axd 16 73476 0 1
+/ajax/StartmenuContent.html 16 17977 0 0
+/engine/default.aspx 15 32715 0 0
+/rssfeed/default.aspx 2 3228 0 0
+/erlsindex.aspx 5 11028 3 1
+/ProductList/product-B.html 1 651 0 0
+/engine/ 6 13102 0 0
+/horo/register.aspx 1 858 0 0
+/news.aspx 3 5109 0 0
+/termuse.aspx 2 6586 0 0
+/erlsglossary.aspx 6 24133 4 4
+/check/ISEventSupported/PUSAB___.ttf 2 116600 0 0
+/ProductList/product-P.html 1 669 0 0
+/corporate/creation.aspx 3 5259 0 0
+/secqtinstiens.aspx 1 2392 0 1
+/journal/data/books.xml 2 10974 0 0
+/Check/WEbGLCheck.html 2 2356 0 0
+/corporate/profile.aspx 9 18155 0 0
+/festivals/valentine.aspx 1 1524 0 0
+/check/BrowserCheck/default.aspx 4 8766 0 0
+/media/Speakker/playlist.php 1 1015 0 0
+/qa/windows/cmetrics/default.aspx 1 14677 1 0
+/ProductList/product-C.html 2 1474 0 0
+/register.aspx 3 5528 0 0
+/media/WheelsOfSteel/utils/soundcloud_fetch_set/ 1 344 0 0
+/services.aspx 2 3650 0 1
+/school/education.aspx 1 3314 0 0
+/corporate/erlsfaq.aspx 2 19901 0 1
+/ProductList/product-D.html 3 2043 0 0
+/erlsgames/NewGames/Entanglement/index.htm 1 2829 1 1
+/products.aspx 9 21159 0 2
+/check/SystemCheck/ 3 3862 0 0
+/Check/ActiveXCheck.html 2 2362 0 0
+/erlsfaq.aspx 3 11086 0 0
+/products/Hello/default.aspx 1 6068 0 0
+/widgetlab/default.aspx 1 2080 0 0
+/Check/BrowserCheck.htm 1 2363 0 0
+/contects.aspx 1 1478 0 0
+/Interpretation/default.aspx 1 4929 0 0
+/Check/AboutErls.html 3 4690 0 0
+/corporate/termuse.aspx 1 7223 0 0
+/ProductList/product-N.html 1 642 0 0
+/et.aspx 1 6239 0 1
+/social.aspx 1 1377 0 0
+/erlsgames/default.aspx 1 3245 0 0
+/ProductList/product-I.html 1 634 0 0
+/fax/default.aspx 3 4139 0 0
+/ProductList/product-G.html 2 1288 0 0
+/corporate/charity.aspx 5 12695 0 0
+/erlsoverview.aspx 3 5704 0 0
+/corporate/charitynews.aspx 3 6519 0 0
+/Check/ErlsCheck.htm 2 4716 0 0
+/horo/wifename.aspx 2 2497 0 0
+/more.aspx 2 11943 1 1
+/Check/IsEventCheck.html 2 2366 0 0
+/LogOut.aspx 1 1722 0 0
+/corporate/contects.aspx 6 8922 0 0
+/engine/booksearch.aspx 4 9182 0 0
+/Check/NetworkCheck.htm 1 2360 0 0
+/Products/default.aspx 3 8841 0 0
+/engine/search.aspx 5 10245 0 0
+/corporate/secqtinstiens.aspx 5 11655 0 0
+/card/default.aspx 10 30712 1 1
+/corporatepolicy.aspx 1 4254 0 0
+/epress/default.aspx 2 5788 0 0
+/iFrameContent/WindowsUI.aspx 2 2434 0 0
+/validator/default.aspx 3 7722 0 0
+/Products/CLite/default.aspx 1 6014 0 1
+/corporate/services.aspx 3 5577 0 0
+/gprofile.aspx 2 2407 0 0
+/corporate/charityadd.aspx 2 3766 0 0
+/check/SM2/index.html 2 7814 0 0
+/applications/10kTube/index.html 1 2383 0 0
+/validator/xpath.aspx 1 2201 0 0
+/check/WebGLCheck/default.aspx 2 7624 0 0
+/iFrameContent/WindowsUI.html 1 1242 0 1
+/Check/SystemCheck.htm 1 2362 0 0
+/erlsblogs.aspx 1 1324 0 0
+/check/SM2/doc/getstarted/index.html 9 5388 0 0
+/validator/dtd.aspx 2 4540 0 0
+/ProductList/product-Z.html 1 641 0 0
+/applications/ 1 3875 1 0
+/corporate/charitypic.aspx 5 8965 0 0
+/loading.aspx 14 21555 0 0
+/qa/default.aspx 1 5050 0 0
+/ProductList/product-A.html 2 1478 0 0
+/Profile.aspx 1 2563 0 0
+/products/ElementSix/default.aspx 1 6195 0 0
+/media/default.aspx 2 1918 0 0
+/media/WheelsOfSteel/utils/soundcloud_hot_tracks/ 1 344 0 0
+/media/Speakker/ 1 1130 0 0
+/validator/schema.aspx 1 2314 0 0
+/festivals/ 2 3450 0 0
+/ProductList/product-E.html 2 1368 0 0
+/corporate/home.aspx 9 21392 0 0
+/doctor/login.aspx 2 7276 2 1
+/horo/horoscope.aspx 1 6641 0 0
+/Check/BrowserCheck.html 4 4720 0 0
+/media/WheelsOfSteel/ 1 14484 0 0
+/ProductList/product-F.html 2 1294 0 0
+/standards/standards.aspx 1 2571 0 0
+/journal/order.aspx 1 2299 0 0
+/Check/IsEventCheck.htm 1 2368 0 0
+/cooking/home.aspx 4 3276 1 1
+/qa/windows/cstyle/taocoding.aspx 5 172783 5 5
+/ProductList/product-H.html 2 1356 0 0
+/commission/default.aspx 4 8628 0 0
+/Check/ErlsCheck.html 2 2365 0 0
+/Applications/ 1 3875 0 1
+/horo/more.aspx 1 6320 0 0
+/corporate/products.aspx 12 28572 0 0
+/corporate/ 5 4563 0 0
+/home.aspx 4 8984 1 0
+/webarchives/default.aspx 1 1528 0 0
+/erlsgames/moregames.aspx 1 3300 0 0
+/Check/SystemCheck.html 2 2358 0 0
+/policy.aspx 2 1340 0 0
+/qa-standards/default.aspx 2 5093 0 0
+/corporate/sitemap.aspx 1 933 0 0
+/custerrmsg.aspx 5 5220 0 0
+/check/ISEventSupported/default.aspx 3 4566 0 0
+/corporate/copyright.aspx 1 4034 0 1
+/check/ActiveX/ 2 4670 0 0
+/Dev-standards/default.aspx 2 5033 0 0
+/horo/default.aspx 6 44986 1 1
+/card/ 1 2889 0 0
+/corporate/more.aspx 2 8071 0 0
+/corporate/cprofile.aspx 6 40056 0 1
+/check/NetworkCheck/default.aspx 1 54501 0 0
+/check/SM2/demo/_image/chunk-webfont.ttf 2 41518 0 0
+/products/ 2 5894 0 0
+/festivals/default.aspx 1 1725 0 0
+/cprofile.aspx 3 32636 1 2
+END_SIDER

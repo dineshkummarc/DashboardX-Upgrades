@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-08 00:22:08
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-08 00:22:08 W3SVC631 PLESK-WEB10 208.91.198.210 GET / - 80 - 23.20.252.88 HTTP/1.0 Mozilla/5.0+(compatible;+NetcraftSurveyAgent/1.0;++info@netcraft.com) - - www.erlsindia.co.in 200 0 0 39144 364 2230
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-08 03:46:06
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-08 03:46:06 W3SVC631 PLESK-WEB10 208.91.198.210 GET /qa/windows/cstyle/indhillcstyle.aspx - 80 - 180.76.5.16 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.erlsindia.co.in 200 0 0 51092 257 11075
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-08 12:08:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-08 12:08:13 W3SVC631 PLESK-WEB10 208.91.198.210 GET /corporate/Booksonline.aspx - 80 - 180.76.5.150 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.erlsindia.co.in 200 0 0 3287 247 1981
+2013-06-08 12:23:13 W3SVC631 PLESK-WEB10 208.91.198.210 GET /Dev-standards/linux/faq/default.aspx - 80 - 180.76.6.231 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.erlsindia.co.in 200 0 0 7607 257 1934
+2013-06-08 12:23:13 W3SVC631 PLESK-WEB10 208.91.198.210 GET /Dev-standards/linux/faq/ - 80 - 180.76.5.16 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.erlsindia.co.in 200 0 0 7607 232 483
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-08 13:47:51
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-08 13:47:51 W3SVC631 PLESK-WEB10 208.91.198.210 GET /school/ - 80 - 180.76.5.177 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.erlsindia.co.in 302 0 0 1273 228 2152
+2013-06-08 13:47:52 W3SVC631 PLESK-WEB10 208.91.198.210 GET /school/education.aspx - 80 - 180.76.6.231 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) ASP.NET_SessionId=hbub5c55o2puzs45zfc15045; - www.erlsindia.co.in 200 0 0 3333 296 546
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-08 18:30:08
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-08 18:30:08 W3SVC631 PLESK-WEB10 208.91.198.210 GET /erlsgames/Game/allout/ - 80 - 180.76.6.233 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.erlsindia.co.in 200 0 0 1083 243 436
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2013-06-08 19:29:05
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2013-06-08 19:29:05 W3SVC631 PLESK-WEB10 208.91.198.210 GET /qa/selenium/Selenium.DefaultSeleniumMethods.html - 80 - 180.76.5.89 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.erlsindia.co.in 200 0 0 16464 269 967

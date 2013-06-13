@@ -1,0 +1,495 @@
+AWSTATS DATA FILE 6.6 (build 1.887)
+# If you remove this file, all statistics for date 201206 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2526                
+POS_VISITOR 11683               
+POS_DAY 13436               
+POS_DOMAIN 3282                
+POS_LOGIN 3643                
+POS_ROBOT 3798                
+POS_WORMS 4166                
+POS_EMAILSENDER 4297                
+POS_EMAILRECEIVER 4440                
+POS_SESSION 13982               
+POS_SIDER 14170               
+POS_FILETYPES 4575                
+POS_OS 4899                
+POS_BROWSER 5030                
+POS_SCREENSIZE 5313                
+POS_UNKNOWNREFERER 5387                
+POS_UNKNOWNREFERERBROWSER 5708                
+POS_ORIGIN 5822                
+POS_SEREFERRALS 5958                
+POS_PAGEREFS 6113                
+POS_SEARCHWORDS 6431                
+POS_KEYWORDS 6663                
+POS_MISC 2190                
+POS_ERRORS 6799                
+POS_CLUSTER 3499                
+POS_SIDER_404 6917                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120701005540 40 9380 53886799217
+FirstTime 0
+LastTime 20120629215215
+LastUpdate 20120702111747 40 0 39 0 0
+TotalVisits 50                  
+TotalUnique 32                  
+MonthHostsKnown 20                  
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 37113 28 30 246015
+1 0 0 0 44 51 843546
+2 0 0 0 45 55 441220
+3 2 2 17630 59 67 188142
+4 15 82 1174636 50 65 429595
+5 52 302 4346191 67 123 1092279
+6 4 4 18126 42 54 527921
+7 1 9 222957 46 60 267405
+8 8 127 2207733 51 67 576402
+9 4 28 507294 48 66 538944
+10 15 44 887108 40 58 126363
+11 1 1 2807 57 63 291761
+12 6 12 29965 35 39 3394463
+13 3 10 189049 35 48 295106
+14 1 8 176575 39 40 228888
+15 1 8 176575 37 43 374397
+16 0 0 0 45 47 592715
+17 21 68 1017449 53 103 1056126
+18 2 2 12436 44 45 820573
+19 4 4 12474 43 50 271987
+20 0 0 0 47 50 294436
+21 6 6 28338 29 31 167586
+22 12 37 203048 26 26 146829
+23 0 0 0 32 32 339995
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+in 76 412 6261739
+ip 35 35 184094
+net 25 105 1385714
+com 10 152 2552319
+fr 4 28 507294
+lv 3 3 14169
+nz 2 2 9025
+de 2 2 0
+uk 1 8 176575
+ro 1 8 176575
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 447 7737625 20120630224948 0
+baiduspider 405 2966770 20120630233835 0
+\wbot[\/\-] 24 249209 20120630172048 0
+msnbot\-media 8 84574 20120616065426 0
+mnogosearch 1 6237 20120608054726 0
+tencenttraveler 1 188531 20120619235445 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+css 97 201036 0 0
+mp3 1 289895 0 0
+eot 3 175535 0 0
+png 240 5191119 0 0
+ttf 7 333018 0 0
+pdf 3 0 0 0
+htm 23 52399 0 0
+aspx 51 324599 0 0
+txt 1 11412 0 0
+swf 12 82070 0 0
+php 4 4136 0 0
+html 65 300761 0 0
+jpg 70 2878794 0 0
+js 142 1248049 0 0
+axd 1 5577 0 0
+gif 35 169104 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+winlong 2
+winxp 563
+winnt 79
+win2000 3
+linuxubuntu 8
+linux 2
+macosx 35
+win2003 59
+Unknown 4
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 18
+firefox14.0 124
+msie6.0 64
+opera 3
+msie5.5 3
+firefox12.0 64
+msie8.0 30
+firefox0.10.1 2
+firefox13.0.1 8
+firefox6.0.2 4
+mozilla 2
+msie7.0 2
+firefox3.6.28 1
+firefox6.0 2
+firefox9.0.1 150
+msie9.0 8
+Unknown 1
+safari 259
+firefox3.6.13 28
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+YahooCacheSystem 20120609032011
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20120614075526
+Mozilla/5.001_(windows;_U;_NT4.0;_en-us)_Gecko/25250101 20120609181725
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+YahooCacheSystem 20120609032011
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 31 35
+From1 0 0
+From2 7 8
+From3 6 8
+From4 115 704
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 7 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://users8.jabry.com/dsfoundation/ 3 5
+http://www.sitefinder.co.in 1 1
+http://wibiya.conduit.com/include/styleEditor/style_editor.php 1 1
+http://onlinegirls.cu.cc 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 4
+erlsindia.co.in 2
+speakker+playlist+format 1
+speakker+html5 1
+xxxxnnnnn+india 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+speakker 2
+erlsindia.co.in 2
+india 1
+xxxxnnnnn 1
+playlist 1
+html5 1
+format 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 38 16910
+500 53 779166
+404 336 1523672
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 88
+/Dev-standards/linux/doc/requirements/req6594.aspx 1 -
+/robots.txt 131 -
+/dlpage.css 17 http://www.erlsindia.co.in/
+/erlsgames/games/Coil/css 1 -
+/Dev-standards/Officelayoutstandard.aspx 2 -
+/erlsgames/Games/MineSweeper/jquery-1.3.2.min.js 1 http://erlsindia.co.in/erlsgames/Games/MineSweeper/Default.aspx
+/Dev-standards/linux/doc/requirements/req1589.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6587.aspx 1 -
+/validator/schema.aspx 1 -
+/hogzilla/no-text-3477649656932795222 1 -
+/erlsgames/Games/MineSweeper/jquery.near.js 1 http://erlsindia.co.in/erlsgames/Games/MineSweeper/Default.aspx
+/erlsgames/Game/cellout/no-text-1905535070964123119 1 -
+/standards/windows/cppstandards.aspx 2 -
+/drdre/ 1 -
+/dashboard/ajax/StartmenuContent.html 2 http://erlsindia.co.in/dashboard.aspx
+/school/Euopl-calender.aspx 1 -
+/erlsgames/Games/MineSweeper/jquery.repeatstring.js 1 http://erlsindia.co.in/erlsgames/Games/MineSweeper/Default.aspx
+/Dev-standards/linux/doc/requirements/req3143.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5095.aspx 1 -
+/qa-standards/windows/Cpp/C++_coding_standards.pdf 1 -
+/Dev-standards/linux/doc/requirements/req3142.aspx 1 -
+/school/images/end.gif 1 -
+/qa/linux/develop/default.aspx 2 -
+/Dev-standards/linux/doc/requirements/req6590.aspx 1 -
+/Check/check/SystemCheck.aspx 1 -
+/drdre/login.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5972.aspx 1 -
+/qa/blogs.aspx 3 -
+/Dev-standards/linux/doc/requirements/req6591.aspx 1 -
+/QA/windows/Cpp/C++_coding_standards.pdf 1 -
+/check/SM2/demo/_image/chunk-webfont.woff 6 http://www.erlsindia.co.in/check/SM2/demo/index.css
+/Dev-standards/linux/doc/requirements/req6592.aspx 1 -
+/Dev-standards/linux/doc/requirements/req3147.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6598.aspx 1 -
+/career/images/displayroom/photo4.jpg 1 -
+/Dev-standards/linux/doc/requirements/req5098.aspx 1 -
+/Dev-standards/linux/doc/requirements/req2872.aspx 1 -
+/engine/images/top.gif 2 http://erlsindia.co.in/engine/default.aspx
+/news/no-text-5861412187582056788 1 -
+/ajaxImage.jpg 22 http://www.erlsindia.co.in/
+/sms/index-14.htm 1 -
+/qa/NamingDomains.aspx 2 -
+/images/white-arrow.gif 2 http://erlsindia.co.in/login.aspx
+/Dev-standards/linux/doc/requirements/req3146.aspx 1 -
+/career/images/displayroom/photo6.jpg 1 -
+/Dev-standards/windows/cpppractice.aspx 5 -
+/Dev-standards/linux/doc/requirements/req20873.aspx 1 -
+/images/cprofile/ccom+.jpg 1 -
+/Network.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5099.aspx 2 -
+/location.aspx 1 -
+/qa-standards/windows/bib/default.aspx 2 -
+/erlsgames/Games/MineSweeper/jquery.randrange.js 1 http://erlsindia.co.in/erlsgames/Games/MineSweeper/Default.aspx
+/qa-standards/default.aspx 2 -
+/erlsgames/Games/MineSweeper/jquery.minesweeper.js 1 http://erlsindia.co.in/erlsgames/Games/MineSweeper/Default.aspx
+/Dev-standards/linux/doc/requirements/req1588.aspx 1 -
+/Dev-standards/linux/doc/requirements/req3144.aspx 1 -
+/tools/dlpage/res/chrome/images/chrome-16.png 4 -
+/qa/Officelayoutstandard.aspx 3 -
+/BrowserCheck.aspx 1 -
+/erlsgames/intro.swf 1 -
+/erlsgames/Games/MineSweeper/jquery.randomfilter.js 1 http://erlsindia.co.in/erlsgames/Games/MineSweeper/Default.aspx
+/erlsgames/games/Coil/cssc 2 -
+/goog.css 21 http://www.erlsindia.co.in/
+/erlsgames/Game/cellout/no-text7669117772042826400 1 -
+/erlsgames/Game/cellout/no-text-7795390482431605746 1 -
+/crossdomain.xml 1 http://s.nsdsvc.com/App/DddWrapper.swf
+/gu-util.js 1 http://erlsindia.co.in/
+/check/ISEventSupported/PUSAB___.woff 2 http://www.erlsindia.co.in/check/ISEventSupported/default.aspx
+/Dev-standards/windows/bib/default.aspx 1 -
+/sms/TOS.htm 1 -
+/erlsgames/objects/intro.swf 1 -
+/Dev-standards/linux/doc/requirements/req3145.aspx 1 -
+/school/Euopl-programs.aspx 1 -
+/qa/windows/bib/default.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5096.aspx 1 -
+/images/circle_animation.gif 25 http://www.erlsindia.co.in/
+/css/jquery-ui-1.8.16.custom.css 4 http://erlsindia.co.in/loading.aspx
+/career/images/displayroom/photo3.jpg 1 -
+/images/logo.jpg 4 http://www.erlsindia.co.in/secqtinstiens.aspx
+/admin/erlsadmin.aspx 1 -
+/Check/check/ErlsCheck.aspx 1 -
+/erlsgames/Game/cellout/no-text-7467240866423200293 1 -
+/hogzilla/no-text5772187013556316923 1 -
+/check/html5test/PUSAB___.woff 4 http://www.erlsindia.co.in/check/html5test/index.html
+/Dev-standards/linux/doc/requirements/req5097.aspx 1 -
+/Dev-standards/linux/doc/requirements/req10658.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6588.aspx 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+115.111.122.13.static-delhi.vsnl.net.in 41 179 2109843 20120626044803
+abts-north-dynamic-209.136.162.122.airtelbroadband.in 15 44 887108 20120621102127
+ip66-104-152-26.z152-104-66.customer.algx.net 14 61 957568 20120612175949
+triband-del-59.177.107.14.bol.net.in 12 59 1023540 20120607043853
+204-85-66-71.wc.rl-nc.ntc-com.net 9 34 193777 20120604221512
+199-27-108-183.saucelabs.com 8 150 2508993 20120619055618
+220.181.126.47 7 7 43659 20120626122630
+118.192.35.172 6 6 37422 20120623191729
+188.143.232.42 6 6 19570 20120623221127
+abts-north-dynamic-112.89.162.122.airtelbroadband.in 5 124 2199274 20120622083540
+193.203.48.16 1 1 37113 20120622005808
+64.88.164.100 2 2 12436 20120609181725
+220.181.51.74 1 1 2826 20120624063917
+83-166-208-125.planet.ro 1 8 176575 20120628131434
+cac94-3-82-224-22-128.fbx.proxad.net 1 8 176575 20120626075445
+static.bangaore.mp.59.90.233.38/21.bsnl.in 3 6 41974 20120605052358
+ycar6.mobile.bf1.yahoo.com 1 1 6218 20120609032011
+220.181.51.80 1 1 2826 20120619084911
+arennes-257-1-57-46.w81-53.abo.wanadoo.fr 4 28 507294 20120628092105
+180.153.240.69 2 2 5614 20120627122028
+80-184-28-186.adsl.kems.net 1 1 11412 20120609030106
+oxyfire.ess.busi.ask4.co.uk 1 8 176575 20120620154650
+220.181.51.79 1 1 2826 20120624063917
+46.109.196.107 3 3 14169 20120629215215
+46.229.160.208 3 3 0 20120627051518
+hx-in-f81.1e100.net 0 1 46382 
+173-208-81-109.rdns.ubiquityservers.com 1 1 37108 20120626171849
+balticom-185-25.balticom.lv 3 3 14169 20120624214648
+abcd-ovh2.yasni.de 1 1 0 20120627193114
+180.153.240.35 1 1 2807 20120620122154
+220.181.51.77 1 1 2826 20120619084911
+abcd-ovh4.yasni.de 1 1 0 20120627193114
+tmp.sitefinder.co.nz 2 2 9025 20120618124512
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20120604 11 36 206251 3
+20120605 3 6 41974 1
+20120607 15 62 1036014 4
+20120609 6 6 42540 5
+20120611 2 2 12474 2
+20120612 14 61 957568 1
+20120613 0 1 709 0
+20120614 0 1 46382 0
+20120615 35 139 1769567 1
+20120617 3 3 10299 1
+20120618 2 2 9025 1
+20120619 10 153 2515354 3
+20120620 5 23 366435 5
+20120621 18 47 899582 4
+20120622 6 125 2236387 2
+20120623 5 5 21745 3
+20120624 5 5 19821 3
+20120626 6 33 371016 4
+20120627 5 5 5614 4
+20120628 5 36 683869 2
+20120629 3 3 14169 1
+20120630 0 1 709 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+0s-30s 41
+2mn-5mn 4
+30s-2mn 3
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 54
+/ 40 181355 31 26
+/humanCaptcha.aspx 10 12041 0 3
+/media/Speakker/ 8 9188 2 0
+/check/SM2/doc/getstarted/index.html 6 5388 0 0
+/Check/Html5Check.htm 4 9444 0 0
+/check/html5test/index.html 4 81780 0 0
+/media/Speakker/playlist.php 4 4136 0 1
+/loading.aspx 3 4113 0 0
+/index.aspx 3 8421 3 2
+/check/BrowserCheck/default.aspx 3 8770 0 1
+/hogzilla/default.aspx 2 12740 2 0
+/ajax/StartmenuContent.html 2 5138 0 1
+/check/html5test/PUSAB___.eot 1 58511 0 0
+/check/ISEventSupported/PUSAB___.ttf 2 116600 0 0
+/policy.aspx 1 2664 0 1
+/qa/linux/process/process.txt 1 11412 1 1
+/check/BrowserCheck/PUSAB___.eot 1 58512 0 0
+/secqtinstiens.aspx 1 2318 0 0
+/engine/default.aspx 2 4650 1 1
+/check/ISEventSupported/default.aspx 2 3044 0 0
+/Check/ErlsCheck.htm 2 4716 0 0
+/Check/creditExperiments.htm 2 4734 0 0
+/festivals/valentine.aspx 1 1524 0 1
+/dashboard.aspx 2 5908 0 0
+/check/html5test/results.html 2 6330 0 0
+/infrastructure/default.aspx 1 0 1 1
+/qa/Pdf/SeleniumDocumentation.pdf 2 0 2 2
+/doctor/login.aspx 1 3560 0 1
+/profile.aspx 3 5200 2 1
+/Check/NetworkCheck.htm 3 7080 0 0
+/qa/linux/process/default.aspx 2 74221 2 2
+/check/NetworkCheck/PUSAB___.eot 1 58512 0 0
+/check/SystemCheck/Default.aspx 1 1289 0 0
+/Check/WEbGLCheck.htm 1 2362 0 0
+/school/education.aspx 1 1607 0 0
+/erlsgames/NewGames/AirStrike/index.htm 2 2796 2 0
+/media/Speakker/data/02.mp3 1 289895 0 1
+/check/WebGLCheck/results.html 1 3768 0 0
+/Check/IsEventCheck.htm 2 4736 0 0
+/Check/AboutErls.htm 3 7080 0 0
+/check/html5test/PUSAB___.ttf 3 174900 0 0
+/WebResource.axd 1 5577 0 0
+/check/CreditExperiments/Default.aspx 2 3544 0 0
+/check/SM2/index.html 2 7814 0 0
+/check/NetworkCheck/default.aspx 2 109004 0 1
+/check/SM2/demo/_image/chunk-webfont.ttf 2 41518 0 0
+/Check/SystemCheck.htm 1 2362 0 0
+/qa/Pdf/Selenium1TestingToolsNov2010.pdf 1 0 1 1
+/Check/BrowserCheck.htm 3 7089 0 0
+/contects.aspx 1 1478 0 0
+/festivals/default.aspx 1 1799 0 0
+/cprofile.aspx 3 32562 0 1
+/Interpretation/default.aspx 1 4861 0 1
+/login.aspx 2 19281 0 0
+END_SIDER

@@ -1,0 +1,416 @@
+AWSTATS DATA FILE 6.6 (build 1.887)
+# If you remove this file, all statistics for date 201210 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2520                
+POS_VISITOR 8901                
+POS_DAY 9715                
+POS_DOMAIN 3246                
+POS_LOGIN 3530                
+POS_ROBOT 3685                
+POS_WORMS 4109                
+POS_EMAILSENDER 4240                
+POS_EMAILRECEIVER 4383                
+POS_SESSION 10086               
+POS_SIDER 10259               
+POS_FILETYPES 4518                
+POS_OS 4803                
+POS_BROWSER 4888                
+POS_SCREENSIZE 5071                
+POS_UNKNOWNREFERER 5145                
+POS_UNKNOWNREFERERBROWSER 5381                
+POS_ORIGIN 5612                
+POS_SEREFERRALS 5748                
+POS_PAGEREFS 5892                
+POS_SEARCHWORDS 6114                
+POS_KEYWORDS 6266                
+POS_MISC 2184                
+POS_ERRORS 6325                
+POS_CLUSTER 3386                
+POS_SIDER_404 6476                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20121101000225 1 0 66579736083
+FirstTime 0
+LastTime 20121030221929
+LastUpdate 20121102044137 1 0 0 0 0
+TotalVisits 22                  
+TotalUnique 16                  
+MonthHostsKnown 6                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 54 55 222895
+1 0 0 0 53 56 194543
+2 1 1 2637 75 87 326908
+3 0 0 0 42 47 93409
+4 1 1 6218 34 35 95509
+5 38 207 2917604 66 86 845413
+6 36 114 650365 52 77 231608
+7 7 17 261751 56 58 1135530
+8 6 6 111087 47 48 175934
+9 19 63 723172 50 54 139432
+10 11 99 749727 49 69 256918
+11 0 0 0 50 50 174226
+12 3 87 1604001 46 46 143402
+13 14 153 2560085 81 94 498742
+14 0 0 0 51 56 172091
+15 2 2 9025 58 60 6314025
+16 0 0 0 45 46 213609
+17 0 0 0 82 82 3242986
+18 0 0 0 57 65 344262
+19 0 0 0 59 66 156980
+20 0 0 0 77 84 227309
+21 1 1 6218 52 58 177333
+22 2 2 5652 53 62 252126
+23 19 19 505275 52 56 224066
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+ip 148 759 9964834
+net 6 7 111815
+de 2 2 14707
+nz 2 2 9025
+com 2 2 12436
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+baiduspider 979 2887954 20121030235857 0
+googlebot 191 11177922 20121030225433 0
+\wbot[\/\-] 48 137797 20121028014837 0
+crawl 21 209521 20121020130646 0
+exabot 5 16656 20121012140009 0
+msnbot\-media 5 210990 20121020234608 0
+spider 1 2807 20121024065955 0
+mnogosearch 1 6237 20121015182729 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 54 99941 0 0
+mp3 3 2757 0 0
+png 234 4844913 0 0
+htm 2 4720 0 0
+txt 5 3143 0 0
+aspx 118 944318 0 0
+swf 8 69526 0 0
+php 2 2030 0 0
+html 27 88937 0 0
+jpg 153 2972981 0 0
+js 76 864251 0 0
+xml 2 4604 0 0
+axd 1 5577 0 0
+gif 87 205119 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 5
+macosx 1
+winxp 682
+winnt 2
+Unknown 4
+linux 83
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 10
+msie6.0 25
+firefox6.0.2 4
+firefox0.10.1 2
+firefox14.0.1 1
+firefox16.0 559
+opera 2
+firefox6.0 2
+Unknown 4
+firefox15.0.1 75
+safari 98
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+YahooCacheSystem 20121020214658
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20121026104035
+PopScreenBot 20121018023930
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+YahooCacheSystem 20121020214658
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20121026104035
+PopScreenBot 20121018023930
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 50 52
+From1 0 0
+From2 0 0
+From3 1 2
+From4 109 718
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.sitefinder.co.in 1 1
+http://users8.jabry.com/dsfoundation/ 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 1 2920
+302 15 6644
+206 16 22700
+500 25 302817
+400 1 2736
+404 188 871555
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 43
+/images/white-arrow.gif 7 http://erlsindia.co.in/login.aspx
+/qa/NamingDomains.aspx 1 -
+/index. 1 http://www.erlsindia.co.in/index.
+/robots.txt 92 -
+/Dev-standards/windows/cpppractice.aspx 3 -
+/dlpage.css 2 http://erlsindia.co.in/
+/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 2 -
+/Products/images/displayroom/photo6.jpg 1 -
+/Dev-standards/Officelayoutstandard.aspx 2 -
+/qa/linux/doc/requirements/req6588.aspx 1 -
+/erlsprofile.aspx 1 -
+/Products/images/displayroom/photo2.jpg 1 -
+/qa-standards/windows/bib/default.aspx 2 -
+/validator/schema.aspx 1 http://erlsindia.co.in/validator/default.aspx
+/tools/dlpage/res/chrome/images/chrome-16.png 2 -
+/Products/images/displayroom/photo5.jpg 1 -
+/career/images/displayroom/photo5.jpg 1 -
+/hogzilla/nav_spr.PNG 1 -
+/dashboard/ajax/StartmenuContent.html 4 http://erlsindia.co.in/dashboard.aspx
+/epress/images/books_info.gif 2 http://www.erlsindia.co.in/epress/default.aspx
+/goog.css 2 http://erlsindia.co.in/
+/media/WheelsOfSteel/tunes/SonReal_-_Already_There_Remix_ft_Rich_Kidd_Saukrates.jpg 2 http://erlsindia.co.in/media/WheelsOfSteel/
+/webarchives/archives/Ultimatebrowserdetectingjavascript.7z 2 -
+/Check/check/CreditExperiments.aspx 1 -
+/search 1 -
+/Check/check/SystemCheck.aspx 1 -
+/en.kioskea.net/_skin/_common/img/bg_glossaryButton.png 6 http://www.erlsindia.co.in/products.aspx
+/mfvlFCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 1 -
+/images/circle_animation.gif 2 http://erlsindia.co.in/
+/QA-standards/default.aspx 3 -
+/css/jquery-ui-1.8.16.custom.css 4 http://erlsindia.co.in/loading.aspx
+/qa/blogs.aspx 1 -
+/Check/check/ISEventSupported.aspx 1 -
+/career/images/displayroom/photo3.jpg 1 -
+/images/logo.jpg 22 http://www.erlsindia.co.in/products.aspx
+/Products/images/displayroom/photo4.jpg 1 -
+/admin/erlsadmin.aspx 1 -
+/career/images/displayroom/photo4.jpg 1 -
+/standards/linux/requirement.aspx 1 -
+/engine/images/top.gif 2 http://erlsindia.co.in/engine/erlssearchstyle.css
+/ajaxImage.jpg 2 http://erlsindia.co.in/
+/qa/linux/doc/requirements/req1589.aspx 1 -
+/qa/linux/doc/requirements/req1588.aspx 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+202.9.91.130 111 634 8688018 20121026071401
+188.143.232.211 19 19 505275 20121002233240
+217.76.104.98 7 80 531225 20121012102003
+109-162-10-108-kzts.broadband.kyivstar.net 6 6 111087 20121014084850
+abcd-ovh4.yasni.de 2 2 14707 20121002053809
+220.181.51.76 2 2 5652 20121030221929
+220.225.242.235 2 17 191052 20121026104204
+tmp.sitefinder.co.nz 2 2 9025 20121020150606
+188.143.233.244 2 2 7873 20121028070156
+220.181.51.83 1 1 2826 20121004093513
+199-36-123-25.usadatacenter.net 0 1 728 
+69.171.234.3 1 1 13725 20121026104035
+220.181.51.81 1 1 2826 20121004093513
+64.91.232.42 1 1 2637 20121018023930
+ycar13.mobile.bf1.yahoo.com 1 1 6218 20121020214658
+69.171.234.2 1 1 13725 20121026104034
+ycar4.mobile.bf1.yahoo.com 1 1 6218 20121022044127
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20121002 21 21 519982 2
+20121004 5 16 208849 3
+20121010 0 1 709 0
+20121012 24 141 1248764 2
+20121014 6 6 111087 1
+20121015 4 12 211940 1
+20121016 3 86 1603273 1
+20121017 1 1 2826 1
+20121018 12 140 2359525 2
+20121020 3 3 15243 2
+20121022 1 1 6218 1
+20121026 77 341 3813702 4
+20121028 2 2 7873 1
+20121030 1 1 2826 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 1
+30s-2mn 4
+2mn-5mn 3
+0s-30s 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 71
+/ 12 47349 10 8
+/erlsindex.aspx 12 23023 0 0
+/profile.aspx 9 26724 3 1
+/home.aspx 9 35076 0 0
+/termuse.aspx 5 16985 0 0
+/contects.aspx 5 7390 0 0
+/products.aspx 5 11755 0 1
+/login.aspx 5 48189 0 1
+/services.aspx 4 7300 0 0
+/dashboard.aspx 4 11816 1 1
+/qa/linux/default.aspx 1 19790 0 0
+/humanCaptcha.aspx 3 3674 0 1
+/ajax/StartmenuContent.html 3 7707 0 1
+/loading.aspx 2 2758 0 0
+/innovations/default.aspx 2 2680 0 0
+/news.aspx 1 1703 0 0
+/qa/default.aspx 1 11662 0 0
+/qa/linux/oostnd.aspx 1 9756 0 0
+/index.aspx 1 2807 1 0
+/media/WheelsOfSteel/utils/soundcloud_hot_tracks/ 2 688 0 0
+/freelance.aspx 1 89334 0 1
+/media/Speakker/ 1 1130 0 0
+/guestindex.aspx 2 4216 0 0
+/secqtinstiens.aspx 1 2318 0 0
+/journal/data/books.xml 2 4604 0 0
+/qa/linux/requirement.aspx 1 9490 0 1
+/media/ 1 1031 1 0
+/ProductList/product-Z.txt 2 1252 0 0
+/qa/linux/faq.aspx 1 9480 0 0
+/media/WheelsOfSteel/audio/endnoise-2.mp3 1 0 0 1
+/doctor/login.aspx 3 31011 3 2
+/media/Speakker/playlist.php 2 2030 0 0
+/qa/windows/cmetrics/default.aspx 1 14603 0 0
+/media/WheelsOfSteel/utils/soundcloud_fetch_set/ 2 688 0 0
+/qa/windows/indexbib.aspx 1 9431 0 0
+/media/WheelsOfSteel/ 2 28968 0 0
+/school/education.aspx 1 1607 1 0
+/standards/standards.aspx 1 2499 0 0
+/Check/AboutErls.htm 2 4720 0 0
+/WebResource.axd 1 5577 0 0
+/qa/windows/cpp/default.aspx 1 45091 0 0
+/qa/commission.aspx 1 9119 0 0
+/tutorials/default.aspx 1 2341 1 0
+/qa/linux/cppstnd.aspx 1 9884 0 0
+/copyright.aspx 2 4140 0 0
+/qa/windows/cpppractice.aspx 1 46125 0 0
+/policy.aspx 2 4004 0 0
+/qa/windows/cpp/CppCodingStandardRevised.aspx 1 131072 0 0
+/ProductList/product-A.txt 2 1274 0 0
+/engine/default.aspx 1 2281 0 0
+/termsofservices.aspx 4 26836 0 0
+/qa/windows/cppstyle.aspx 1 92530 0 0
+/ProductList/product-0-9.txt 1 617 0 0
+/infrastructure/default.aspx 1 8635 0 1
+/more.aspx 1 5935 0 0
+/media/WheelsOfSteel/utils/waveform/ 4 1376 0 0
+/qa/windows/default.aspx 1 9339 0 0
+/qa/linux/process/default.aspx 1 37108 1 0
+/epress/default.aspx 2 3679 0 0
+/qa/windows/cstyle/default.aspx 1 13561 0 0
+/projects/default.aspx 1 1495 0 0
+/qa/linux/develop.aspx 1 10317 0 0
+/media/Speakker/data/01.mp3 1 0 0 0
+/validator/default.aspx 1 1474 0 0
+/media/WheelsOfSteel/audio/null.mp3 1 2757 0 0
+/erlspatents.aspx 1 2224 0 0
+/gprofile.aspx 1 2427 0 0
+/validator/xpath.aspx 1 2182 0 1
+/qa/linux/process.aspx 1 9774 0 0
+/validator/dtd.aspx 1 2252 0 0
+/cprofile.aspx 4 43416 0 1
+END_SIDER

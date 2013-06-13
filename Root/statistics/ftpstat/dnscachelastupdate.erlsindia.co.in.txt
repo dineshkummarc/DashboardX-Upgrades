@@ -1,0 +1,5 @@
+22843271	115.111.122.13	115.111.122.13.static-delhi.vsnl.net.in
+22843271	202.9.91.2	*
+22843271	203.115.85.189	189-delhi-2.pacenet-india.com
+22843271	122.160.240.249	abts-north-static-249.240.160.122.airtelbroadband.in
+22843271	203.76.178.41	pacenet.178.76.203.in-addr.arpa

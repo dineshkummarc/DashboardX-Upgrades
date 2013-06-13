@@ -1,0 +1,358 @@
+AWSTATS DATA FILE 6.6 (build 1.887)
+# If you remove this file, all statistics for date 201211 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2527                
+POS_VISITOR 9878                
+POS_DAY 10572               
+POS_DOMAIN 3208                
+POS_LOGIN 3485                
+POS_ROBOT 3640                
+POS_WORMS 4027                
+POS_EMAILSENDER 4158                
+POS_EMAILRECEIVER 4301                
+POS_SESSION 10793               
+POS_SIDER 10940               
+POS_FILETYPES 4436                
+POS_OS 4566                
+POS_BROWSER 4650                
+POS_SCREENSIZE 4784                
+POS_UNKNOWNREFERER 4858                
+POS_UNKNOWNREFERERBROWSER 4945                
+POS_ORIGIN 5027                
+POS_SEREFERRALS 5160                
+POS_PAGEREFS 5304                
+POS_SEARCHWORDS 5523                
+POS_KEYWORDS 5675                
+POS_MISC 2191                
+POS_ERRORS 5734                
+POS_CLUSTER 3341                
+POS_SIDER_404 5864                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20121201000113 81 20429 43686877035
+FirstTime 0
+LastTime 20121130064630
+LastUpdate 20121201043257 81 0 80 0 0
+TotalVisits 12                  
+TotalUnique 12                  
+MonthHostsKnown 6                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 8257 61 69 257971
+1 4 4 13525 44 56 292310
+2 0 0 0 29 39 249574
+3 0 0 0 50 57 5105637
+4 0 0 0 37 52 292289
+5 0 0 0 71 77 300370
+6 1 12 98074 40 48 691011
+7 0 0 0 52 59 1161806
+8 0 0 0 49 53 521554
+9 0 2 50644 46 48 340972
+10 0 0 0 55 55 239392
+11 0 0 0 41 45 219475
+12 1 1 6218 57 61 348259
+13 3 3 6072 51 57 222069
+14 1 5 24535 35 38 386845
+15 0 0 0 45 49 169183
+16 1 1 9469 37 44 261009
+17 0 0 0 46 68 617200
+18 0 0 0 46 48 349790
+19 0 0 0 59 64 833088
+20 0 0 0 39 61 1270770
+21 4 4 11304 36 44 229438
+22 0 0 0 36 44 315035
+23 0 0 0 38 46 182165
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+ip 7 9 75857
+com 5 9 36825
+ru 2 2 7873
+fr 1 1 9469
+net 1 12 98074
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+baiduspider 637 4181890 20121130231717 0
+googlebot 333 9282946 20121130224917 0
+\wbot[\/\-] 12 31354 20121130151438 0
+exabot 4 10322 20121108103223 0
+slurp 4 18176 20121116024612 0
+msnbot\-media 2 156774 20121116081254 0
+surveybot 1 2807 20121126233048 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 2 2174 0 0
+html 8 29411 0 0
+jpg 11 144013 0 0
+js 4 22262 0 0
+aspx 8 30238 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 5
+macosx 12
+winxp 14
+winlong 1
+winnt 3
+linux 3
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 7
+firefox6.0.2 6
+firefox3.6 1
+firefox3.5.2 2
+msie7.0 5
+opera 2
+safari 14
+firefox6.0 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 12
+From1 0 0
+From2 0 0
+From3 1 3
+From4 3 18
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://bestgenericviagra.biz 1 1
+http://www.bing.com/images/search 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 14 37760
+302 21 10188
+500 38 217341
+404 216 907654
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 83
+/editors/fckeditor/editor/filemanager/upload/php/test.html 3 -
+/robots.txt 73 -
+/erlsgames/games/Coil/css 1 -
+/Dev-standards/Officelayoutstandard.aspx 1 -
+/sms/brand-form=cse-search-box&lang=en 1 http://www.erlsindia.co.in/sms/erlssms.aspx
+/qa/linux/doc/requirements/req3146.aspx 1 -
+/qa/linux/doc/requirements/req6591.aspx 1 -
+/stylesheets/screen.css 1 -
+/qa/linux/doc/requirements/req10658.aspx 2 -
+/Check/check/Network.aspx 1 -
+/FCKeditor/editor/filemanager/browser/default/connectors/test.html 6 -
+/school/Euopl-calender.aspx 1 -
+/FCKeditor/editor/filemanager/connectors/uploadtest.html 5 -
+/Check/check/CreditExperiments.aspx 3 -
+/FCKeditor/editor/filemanager/browser/default/browser.html 5 -
+/sms/jsapi 1 http://www.erlsindia.co.in/sms/erlssms.aspx
+/qa/linux/doc/requirements/req6587.aspx 2 -
+/qa-standards/linux/doc/requirements/req3145.aspx 2 -
+/qa-standards/linux/doc/requirements/req5096.aspx 1 -
+/sms/view-source:'+c.fileName+' 2 -
+/qa/linux/develop/default.aspx 2 -
+/FCKeditor/editor/filemanager/connectors/test.html 7 -
+/Check/check/SystemCheck.aspx 1 -
+/Check/check/AboutErls.aspx 1 -
+/standards/images/erlscorlogo.jpg 1 -
+/sendtophone 6 http://www.erlsindia.co.in/sms/erlssms.aspx
+/qa-standards/linux/doc/requirements/req1589.aspx 1 -
+/qa-standards/linux/doc/requirements/req6588.aspx 1 -
+/qa/linux/doc/requirements/req3145.aspx 1 -
+/sms/images/toolbarbg.png 1 http://www.erlsindia.co.in/sms/erlssms.aspx
+/FCKeditor/editor/filemanager/upload/test.html 6 -
+/a 1 -
+/qa/linux/doc/requirements/req5095.aspx 1 -
+/qa/linux/doc/requirements/req6592.aspx 1 -
+/qa/linux/doc/requirements/req1588.aspx 1 -
+/sms/index-14.htm 1 -
+/qa/NamingDomains.aspx 3 -
+/qa/linux/doc/requirements/req6599.aspx 1 -
+/Dev-standards/windows/cpppractice.aspx 1 -
+/qa/linux/doc/requirements/req3147.aspx 1 -
+/qa/linux/doc/requirements/req4865.aspx 2 -
+/images/cprofile/ccom+.jpg 1 -
+/Check/check/Html5Check.aspx 1 -
+/qa-standards/linux/doc/requirements/req6591.aspx 1 -
+/qa/linux/doc/requirements/req6595.aspx 1 -
+/qa/linux/doc/requirements/req6588.aspx 3 -
+/qa-standards/linux/doc/requirements/req3146.aspx 1 -
+/qa-standards/default.aspx 1 -
+/webarchives/archives/css-dock.7z 1 -
+/qa-standards/linux/doc/requirements/req3147.aspx 1 -
+/Check/check/WebGLCheck.aspx 2 -
+/qa/linux/doc/requirements/req20873.aspx 1 -
+/qa/Officelayoutstandard.aspx 2 -
+/privacy_glossary.aspx 1 -
+/qa/linux/doc/requirements/req3142.aspx 1 -
+/erlsgames/Games/SpaceFighters/SpaceFighters.qtz 1 -
+/erlsgames/games/Coil/cssc 1 -
+/webarchives/archives/Ultimatebrowserdetectingjavascript.7z 1 -
+/qa/linux/doc/requirements/req6594.aspx 2 -
+/qa-standards/linux/doc/requirements/req10658.aspx 1 -
+/qa/linux/doc/requirements/req5972.aspx 1 -
+/qa/linux/doc/requirements/req6590.aspx 2 -
+/career/images/displayroom/photo2.jpg 1 -
+/qa-standards/linux/doc/requirements/req6599.aspx 3 -
+/qa-standards/linux/doc/requirements/req4865.aspx 1 -
+/qa/linux/doc/requirements/req6598.aspx 1 -
+/Dev-standards/windows/bib/default.aspx 3 -
+/sms/TOS.htm 1 -
+/Check/check/ISEventSupported.aspx 1 -
+/qa-standards/linux/doc/requirements/req20873.aspx 1 -
+/Check/check/BrowserCheck.aspx 1 -
+/images/logo.jpg 1 http://www.erlsindia.co.in/profile.aspx
+/qa/linux/doc/requirements/req3143.aspx 1 -
+/admin/erlsadmin.aspx 1 -
+/Check/check/ErlsCheck.aspx 5 -
+/qa/linux/doc/requirements/req4568.aspx 2 -
+/qa/linux/doc/requirements/req3144.aspx 3 -
+/qa-standards/linux/doc/requirements/req3144.aspx 1 -
+/qa/linux/doc/requirements/req5099.aspx 2 -
+/wp-content/plugins/editormonkey/fckeditor/editor/filemanager/upload/test.html 3 -
+/qa-standards/linux/doc/requirements/req5098.aspx 1 -
+/Dev-standards/windows/Cpp/C++_coding_standards.pdf 1 -
+/qa/linux/doc/requirements/req1589.aspx 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+ec2-176-34-19-192.ap-northeast-1.compute.amazonaws.com 3 3 6072 20121105130135
+dynamicip-95-79-138-25.pppoe.nn.ertelecom.ru 2 2 7873 20121107011453
+220.181.51.79 2 2 5652 20121118214159
+220.181.51.82 1 1 2826 20121114214752
+220.181.51.80 1 1 2826 20121124013903
+192.162.19.193 1 1 8257 20121130003716
+220.181.51.81 1 1 2826 20121124013903
+sd-36337.dedibox.fr 1 1 9469 20121112160240
+c-50-131-71-13.hsd1.ca.comcast.net 1 12 98074 20121130064630
+falcon185.startdedicated.com 1 1 6218 20121116121942
+117.239.89.98 0 2 50644 
+220.181.51.75 1 1 2826 20121114214752
+msnbot-65-52-111-136.search.msn.com 1 5 24535 20121105144654
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20121105 4 8 30607 2
+20121107 2 2 7873 1
+20121112 1 1 9469 1
+20121114 2 4 56296 2
+20121116 1 1 6218 1
+20121118 2 2 5652 1
+20121124 2 2 5652 2
+20121130 2 13 106331 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 8 29411 7 6
+/profile.aspx 3 8709 1 2
+/qa/linux/default.aspx 1 9469 1 1
+/humanCaptcha.aspx 1 1636 0 1
+/erlsindex.aspx 1 2167 1 1
+/dashboard.aspx 1 8257 1 1
+/infrastructure/default.aspx 1 0 1 0
+END_SIDER

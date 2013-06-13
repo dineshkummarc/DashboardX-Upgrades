@@ -1,0 +1,665 @@
+AWSTATS DATA FILE 6.6 (build 1.887)
+# If you remove this file, all statistics for date 201111 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2531                
+POS_VISITOR 17472               
+POS_DAY 19994               
+POS_DOMAIN 3310                
+POS_LOGIN 3619                
+POS_ROBOT 3774                
+POS_WORMS 4166                
+POS_EMAILSENDER 4297                
+POS_EMAILRECEIVER 4440                
+POS_SESSION 20659               
+POS_SIDER 20865               
+POS_FILETYPES 4575                
+POS_OS 4883                
+POS_BROWSER 5003                
+POS_SCREENSIZE 5244                
+POS_UNKNOWNREFERER 5318                
+POS_UNKNOWNREFERERBROWSER 5690                
+POS_ORIGIN 5816                
+POS_SEREFERRALS 5954                
+POS_PAGEREFS 6109                
+POS_SEARCHWORDS 6442                
+POS_KEYWORDS 6650                
+POS_MISC 2195                
+POS_ERRORS 6773                
+POS_CLUSTER 3475                
+POS_SIDER_404 6930                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20111201010603 507 191790 50511795915
+FirstTime 0
+LastTime 20111130121601
+LastUpdate 20111202144627 507 0 506 0 0
+TotalVisits 80                  
+TotalUnique 44                  
+MonthHostsKnown 20                  
+MonthHostsUnknown 34                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 7 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 207610 25 28 236438
+1 1 2 1048576 33 33 296785
+2 2 6 5047 41 61 1108263
+3 2 8 17317 24 36 485486
+4 2 3 6960575 16 16 232715
+5 19 515 7903973 33 47 400827
+6 37 239 6713024 48 67 686248
+7 32 571 6397969 57 76 425438
+8 35 122 1463925 78 98 1618168
+9 16 99 1277479 63 90 665685
+10 27 99 1492414 44 83 391440
+11 24 266 1584396 64 86 861439
+12 44 763 13883704 85 143 2586719
+13 11 110 2703370 55 140 857735
+14 2 7 176104 65 203 6955708
+15 0 6 0 73 119 9346421
+16 2 4 11052 79 129 2274155
+17 1 4 35746 68 80 7718488
+18 0 2 0 36 57 697994
+19 0 4 0 15 34 638629
+20 3 8 18326 31 32 630509
+21 0 0 0 43 48 5884021
+22 0 0 0 34 37 910257
+23 0 0 0 26 32 587638
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+in 165 1936 27662250
+ip 88 844 22694652
+com 4 53 431172
+net 2 4 43893
+uk 1 1 20064
+ru 1 1 1048576
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 927 36856192 20111130104711 0
+\wbot[\/\-] 21 125393 20111128072447 0
+baiduspider 7 35108 20111130211248 0
+msnbot\-media 4 167630 20111130081631 0
+powermarks 1 5042 20111121160200 0
+mnogosearch 1 3634 20111107001147 0
+netcraft 1 5042 20111126063201 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 148 520658 0 0
+png 964 14678541 0 0
+ttf 6 310353 0 0
+pdf 8 1529356 0 0
+htm 12 82869 0 0
+aspx 77 1004473 0 0
+swf 4 23808 0 0
+zip 3 7877784 0 0
+html 153 779678 0 0
+js 800 15696690 0 0
+jpg 521 9189556 0 0
+axd 1 21101 0 0
+Unknown 1 847 0 0
+gif 141 184893 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 15
+win95 1
+winlong 1
+winxp 1952
+win2003 29
+winnt 132
+Unknown 56
+linux 653
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 15
+msie6.0 7
+msie8.0 46
+firefox3.6.24 35
+netscape5.0 1
+msie7.0 4
+opera 3
+lg\- 2
+firefox8.0 111
+firefox9.0 87
+msie5.5 1
+firefox2.0.0.6 1
+firefox7.0.1 25
+Unknown 50
+safari 1988
+firefox3.6.23 478
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+- 20111124102532
+Mozilla/5.0 20111113025022
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20111123093044
+LG-GD510/V100_Teleca/WAP2.0_Profile/MIDP-2.1_Configuration/CLDC-1.1 20111109144548
+urlresolver 20111122043737
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+- 20111124102532
+urlresolver 20111122043737
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 170 233
+From1 0 0
+From2 2 4
+From3 5 5
+From4 84 2597
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://findebookee.com/s/selenium-testing-tool 2 2
+http://www.w3schools.com/tags/tryit_view.asp 1 1
+http://findebookee.com/s/selenium-automation-tool 1 1
+http://www.bing.com/search 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+anything 1
+selenium+automation+framework+filetype+pdf 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+filetype 1
+selenium 1
+framework 1
+pdf 1
+anything 1
+automation 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 4 17006
+302 13 4872
+206 23 2516905
+500 279 4430755
+301 6 2348
+404 488 2327279
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 205
+/dashboar 1 -
+/erlsgames/games/savemethegame/img/alien_boom.mp3 2 http://www.erlsindia.co.in/erlsgames/games/savemethegame/index.html
+/erlsgames/games/Asteroids/scripts/asteroids_effects.js 4 http://www.erlsindia.co.in/erlsgames/games/Asteroids/index-debug.html
+/standards/overview/p7dejavu/img/HICPP_MANUAL2.gif 2 -
+/dashboard.a 1 -
+/WWhdV/KWLhX/WKNdN/LlTdL/QA/linux/oostnd/oostnd.dvi 1 -
+/erlsgames/games/tetristhegame/imgs/clouds.ogg 2 http://www.erlsindia.co.in/erlsgames/games/tetristhegame/game.html
+/dashbo 1 -
+/logina 1 -
+/erlsgames/games/tankworld/SoundScape.ogg 2 http://www.erlsindia.co.in/erlsgames/games/tankworld/index.html
+/erlsgames/games/orbiumthegame/phonegap.0.9.5.1.js 2 http://www.erlsindia.co.in/erlsgames/games/orbiumthegame/index.html
+/drdre/photogaller 1 -
+/hogzilla/no-text-3477649656932795222 1 -
+/erlsgames/games/Asteroids/scripts/sm2-debug.js 4 http://www.erlsindia.co.in/erlsgames/games/Asteroids/index-debug.html
+/stylesheets/screen.css 2 http://www.erlsindia.co.in/erlsgames/games/space/index.html
+/engine/h.aspx 1 -
+/media/image/tankWorld.ico 1 -
+/g 1 -
+/dashboard/ajax/StartmenuContent.html 12 http://erlsindia.co.in/dashboard.aspx
+/enfsearch.aspx 1 -
+/logout.aspx 2 http://www.w3schools.com/tags/tryit_view.asp
+/erlsgames/brainovita. 1 -
+/sear 1 -
+/Dev-standards/linux/doc/requirements/req5095.aspx 1 -
+/erlsgames/games/trianglegame/sounds/win.ogg 3 http://www.erlsindia.co.in/erlsgames/games/trianglegame/index.html
+/erlsg 1 -
+/search 1 -
+/standards/commission.aspx 2 -
+/search. 1 -
+/erlsgames/brainovita 1 -
+/erlsgames/games/tetris/index.aspx 1 -
+/images/icons/dsf.jpg 2 http://erlsindia.co.in/dashboard.aspx
+/drdre/p 1 -
+/searc 1 -
+/standards/images/erlscorlogo.jpg 2 -
+/erlsgames/games/Asteroids/scripts/asteroids_enemies.js 4 http://www.erlsindia.co.in/erlsgames/games/Asteroids/index-debug.html
+/school/Esqat-programs.aspx 1 -
+/corporate/policy.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6591.aspx 1 -
+/erlsgames/games/Breakmansiongame/sfx/soundscape.ogg 2 http://www.erlsindia.co.in/erlsgames/games/Breakmansiongame/index.html
+/Dev-standards/linux/doc/requirements/req6592.aspx 1 -
+/da 1 -
+/YMmSQ/validator/images/erlslogo.jpg 1 -
+/Dev-standards/linux/doc/requirements/req6598.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5098.aspx 1 -
+/login 1 -
+/Dev-standards/linux/doc/requirements/req2872.aspx 1 -
+/erlsgames/games/Asteroids/scripts/gamelib.js 4 http://www.erlsindia.co.in/erlsgames/games/Asteroids/index-debug.html
+/erlsgames/games/Asteroids/scripts/mathlib.js 4 http://www.erlsindia.co.in/erlsgames/games/Asteroids/index-debug.html
+/MOlLS/QA/windows/cstyle/indhill-annot.ms.tbl.gz 1 -
+/erlsgames/images/moregames/icon_education_and_career_g.jpg 2 -
+/erlsgames/games/savemethegame/sound/shoot.ogg 2 http://www.erlsindia.co.in/erlsgames/games/savemethegame/index.html
+/usr/palm/frameworks/mojo/mojo.js 2 http://www.erlsindia.co.in/erlsgames/games/orbiumthegame/index.html
+/erlsgames/games/yasminokusodoku/index.html 1 -
+/Dev-standards/linux/doc/requirements/req4865.aspx 1 -
+/images/white-arrow.gif 5 http://erlsindia.co.in/login.aspx
+/standards/overview/p7dejavu/img/QA_TICK.png 2 -
+/corporate/termuse.aspx 1 -
+/images/cprofile/ccom+.jpg 1 -
+/Dev-standards/linux/doc/requirements/req20873.aspx 1 -
+/erlsgames/brainov 1 -
+/ho 1 -
+/Dev-standards/linux/doc/requirements/req5099.aspx 1 -
+/erlsgames/games/tankworld/media/music/ogg/SoundEffects.ogg 32 http://www.erlsindia.co.in/erlsgames/games/tankworld/index.html
+/media 2 -
+/erlsgames/games/minesweepergame/jquery.near.js 2 http://www.erlsindia.co.in/erlsgames/games/minesweepergame/snippet_1.html
+/erlsgames/games/tetris/index.htm 1 -
+/Dev-standards/linux/doc/requirements/req1588.aspx 1 -
+/erlsgames/intro.swf 1 -
+/forum/ucp.php 1 -
+/drdre/dreams/dreams.aspx 1 -
+/search.aspx 1 -
+/restart.aspx 2 http://www.w3schools.com/tags/tryit_view.asp
+/erlsgames/games.pressmyboobs.aspx 1 -
+/erls 1 -
+/shutdown.html 1 http://erlsindia.co.in/dashboard.aspx
+/erlsgames/games/minesweepergame/jquery-1.3.2.min.js 2 http://www.erlsindia.co.in/erlsgames/games/minesweepergame/snippet_1.html
+/erlsgames/games/yasminokusoduku/index.htm 1 -
+/standards/linux/default.aspx 1 http://erlsindia.co.in/standards/linux/default.aspx
+/erlsgames/games/Asteroids/scripts/asteroids_weapons.js 4 http://www.erlsindia.co.in/erlsgames/games/Asteroids/index-debug.html
+/drdre/photogalle 1 -
+/sms/TOS.htm 1 -
+/Dev-standards/linux/doc/requirements/req3145.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5096.aspx 1 -
+/engsearch.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6595.aspx 1 -
+/engine/def.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6599.aspx 1 -
+/drdre/photogallery/ni 1 -
+/erlsgames/brainovi 1 -
+/engine/.aspx 1 -
+/shutdown.aspx 2 http://www.w3schools.com/tags/tryit_view.asp
+/drdre/photoga 1 -
+/ucp.php 1 -
+/erlsgames/games/pacmanthegame/audio/eating.short.ogg 2 http://www.erlsindia.co.in/erlsgames/games/pacmanthegame/index.html
+/js/DisableCtrlU.js 1 -
+/check/html5test/PUSAB___.woff 1 http://erlsindia.co.in/check/html5test/index.html
+/engine/earch.aspx 1 -
+/qa/seleniumhQ.com 1 -
+/images/dsf.jpg 1 -
+/erlsgames/b 1 -
+/med 1 -
+/Dev-standards/linux/doc/requirements/req10658.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5097.aspx 1 -
+/drdre/photogallery/n 1 -
+/engine/defa.aspx 1 -
+/erlsgames/games/minesweepergame/jquery.randomfilter.js 2 http://www.erlsindia.co.in/erlsgames/games/minesweepergame/snippet_1.html
+/Dev-standards/linux/doc/requirements/req6594.aspx 1 -
+/robots.txt 124 -
+/dlpage.css 4 http://erlsindia.co.in/
+/erlsgames/games/minesweepergame/jquery.repeatstring.js 2 http://www.erlsindia.co.in/erlsgames/games/minesweepergame/snippet_1.html
+/Dev-standards/linux/doc/requirements/req1589.aspx 1 -
+/erlsgames/brai 1 -
+/erlsgames/games/tetris/game.htm 1 -
+/Dev-standards/linux/doc/requirements/req6587.aspx 1 -
+/drdre/photogall 1 -
+/h 1 -
+/erlsgames/images/moregames/icon_individuals.jpg 2 -
+/erlsgames/games/minesweepergame/jquery.minesweeper.js 2 http://www.erlsindia.co.in/erlsgames/games/minesweepergame/snippet_1.html
+/erlsgames/games/trianglegame/sounds/lose.ogg 3 http://www.erlsindia.co.in/erlsgames/games/trianglegame/index.html
+/drdre/photogallery/nitu/niyu.aspx 1 -
+/media/ 2 -
+/black.gif 5 http://erlsindia.co.in/loading.aspx
+/erlsgames/games/minesweepergame/jquery.randrange.js 2 http://www.erlsindia.co.in/erlsgames/games/minesweepergame/snippet_1.html
+/engine/defau.aspx 1 -
+/erlsgames/games/Asteroids/scripts/asteroids_DEBUG.js 4 http://www.erlsindia.co.in/erlsgames/games/Asteroids/index-debug.html
+/corporate/home.aspx 1 -
+/engine/d.aspx 1 -
+/Dev-standards/linux/doc/requirements/req3143.aspx 1 -
+/erlsgames/br 1 -
+/Dev-standards/linux/doc/requirements/req3142.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6590.aspx 1 -
+/lo 1 -
+/images/icons/ec-you.png 2 http://erlsindia.co.in/dashboard.aspx
+/Dev-standards/linux/doc/requirements/req5972.aspx 1 -
+/erlsgames/games/tetris/ 1 -
+/erlsgames/games/yasminokusoduku/index.html 3 -
+/erlsgames/games/Breakmansiongame/sfx/thud.ogg 2 http://www.erlsindia.co.in/erlsgames/games/Breakmansiongame/index.html
+/esearch.aspx 1 -
+/QA/selenium/profile.php 2 -
+/ensearch.aspx 2 -
+/erlsgames/games/Asteroids/scripts/asteroids_player.js 5 http://www.erlsindia.co.in/erlsgames/games/Asteroids/index-debug.html
+/Dev-standards/linux/doc/requirements/req3147.aspx 1 -
+/home 1 -
+/drdre/photo 1 -
+/Dev-standards/linux/doc/requirements/req4568.aspx 1 -
+/engine/images/top.gif 1 http://erlsindia.co.in/engine/default.aspx
+/erlsgames/games/Breakmansiongame/sfx/nuke.ogg 2 http://www.erlsindia.co.in/erlsgames/games/Breakmansiongame/index.html
+/e 1 -
+/ajaxImage.jpg 2 http://erlsindia.co.in/
+/sms/index-14.htm 1 -
+/Dev-standards/linux/doc/requirements/req3146.aspx 1 -
+/images/icons/DoctoR.gif 2 http://erlsindia.co.in/dashboard.aspx
+/corporate/standards/default.aspx 1 -
+/erlsgames/games/savemethegame/img/rocket.png 2 http://www.erlsindia.co.in/erlsgames/games/savemethegame/index.html
+/dash 1 -
+/enginesearch.aspx 1 -
+/erlsgames/games/trianglegame/sounds/click.ogg 3 http://www.erlsindia.co.in/erlsgames/games/trianglegame/index.html
+/drdre/ph 1 -
+/Fancybox/SimpleModal.js 2 http://www.erlsindia.co.in/home.aspx
+/me 1 -
+/dashboard. 1 -
+/Fancybox/jquery-1.6.1.min.js 2 http://www.erlsindia.co.in/home.aspx
+/Dev-standards/linux/doc/requirements/req3144.aspx 1 -
+/tools/dlpage/res/chrome/images/chrome-16.png 4 -
+/school/Esqat-calender.aspx 1 -
+/erlsgames/braino 1 -
+/dashboard 1 -
+/images/ds.jpg 1 http://erlsindia.co.in/
+/erlsgames/games/chessthegame/debug.js 4 http://www.erlsindia.co.in/erlsgames/games/chessthegame/index.html
+/goog.css 4 http://erlsindia.co.in/
+/se 1 -
+/profile.php 2 -
+/erlsgames/games/savemethegame/img/ball.png 2 http://www.erlsindia.co.in/erlsgames/games/savemethegame/index.html
+/sea 1 -
+/corporate/Profile.aspx 1 -
+/d 1 -
+/drdre/photog 1 -
+/blue.gif 9 http://erlsindia.co.in/loading.aspx
+/erlsgames/games/press.aspx 1 -
+/Dev-standards/windows/bib/default.aspx 1 -
+/erlsgames/bra 1 -
+/erlsgames/brain 1 -
+/erlsgames/games/default.aspx 1 -
+/forum/profile.php 2 -
+/erlsgames/games/Breakmansiongame/sfx/multiball.ogg 2 http://www.erlsindia.co.in/erlsgames/games/Breakmansiongame/index.html
+/drdre/photogallery/nitu/nitu.aspx 1 -
+/corporate/freelance.aspx 1 -
+/games 1 -
+/erlsgames/games/Asteroids/scripts/asteroids_main.js 5 http://www.erlsindia.co.in/erlsgames/games/Asteroids/index-debug.html
+/erlsgames/games/tetris/index.html 1 -
+/images/circle_animation.gif 4 http://erlsindia.co.in/
+/erlsgames/images/moregames/icon_corporate.jpg 2 -
+/QA/selenium/ucp.php 1 -
+/images/logo.jpg 5 http://www.erlsindia.co.in/profilestyle.css
+/erlsgames/games/Breakmansiongame/sfx/ping.ogg 2 http://www.erlsindia.co.in/erlsgames/games/Breakmansiongame/index.html
+/l 1 -
+/erlsgames/games/Breakmansiongame/sfx/pong.ogg 2 http://www.erlsindia.co.in/erlsgames/games/Breakmansiongame/index.html
+/dashboa 1 -
+/hogzilla/no-text5772187013556316923 1 -
+/Dev-standards/windows/Cpp/C++_coding_standards.pdf 1 -
+/erlsgames/brainovita.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6588.aspx 1 -
+/erlsgames/images/moregames/icon_elearning.jpg 2 -
+/erlsgames/games/Breakmansiongame/sfx/explosion.ogg 2 http://www.erlsindia.co.in/erlsgames/games/Breakmansiongame/index.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+115.111.122.3.static-delhi.vsnl.net.in 99 1613 23142426 20111130121601
+abts-north-static-227.240.160.122.airtelbroadband.in 57 265 3550829 20111130103459
+203.89.132.14 26 118 2311058 20111115083817
+121.245.214.40 8 26 7449388 20111129085636
+216.38.216.220 5 15 225704 20111128074552
+abts-kk-dynamic-074.43.172.122.airtelbroadband.in 4 31 501944 20111129062539
+209.85.224.92 4 35 406039 20111114062326
+164.100.28.4 3 17 327182 20111114071437
+209.85.224.81 3 45 461609 20111114063557
+209.85.224.95 3 24 263770 20111114070400
+154.6.207.91.unknown.steephost.net 1 1 8147 20111127120900
+68-112-130-248.dhcp.stcd.mn.charter.com 1 1 207610 20111103003832
+216.104.15.130 1 1 3634 20111107105616
+114-191-243-80.rackcentre.redstation.net.uk 1 1 20064 20111110130828
+72.14.202.86 0 1 46382 
+abts-north-static-117.200.160.122.airtelbroadband.in 2 14 38112 20111114101548
+209.85.224.98 2 16 128570 20111114060324
+209.85.224.89 1 14 734882 20111114052059
+colo-69-172-134-253.pilosoft.com 2 2 0 20111126075701
+209.85.224.97 2 25 508498 20111114070800
+hs-34-186.nws.tularosa.net 1 3 35746 20111125173307
+win-b5qsvuom90b 2 2 73820 20111126131816
+175.138.206.175 1 1 0 20111120142207
+gator1162.hostgator.com 0 1 0 
+72.14.202.90 0 1 0 
+209.85.224.87 1 39 421940 20111114053514
+72.14.202.88 0 1 46382 
+209.85.224.96 2 42 662746 20111114062729
+209.85.224.91 3 26 431285 20111114071203
+gator1333.hostgator.com 0 1 0 
+abts-north-static-028.174.144.59.airtelbroadband.in 1 4 10166 20111114090133
+gator882.hostgator.com 0 47 15928 
+209.85.224.80 0 43 574174 
+209.85.224.86 2 23 292746 20111114061527
+209.85.224.90 0 43 634396 
+static-10.191.156.182.tataidc.co.in 0 2 92812 
+abts-kk-dynamic-046.175.167.122.airtelbroadband.in 1 6 260425 20111127052507
+209.85.224.84 0 25 313796 
+ns.avicomp.com 1 1 207634 20111109092601
+46.109.202.14 2 2 11052 20111116165927
+74.125.156.81 1 1 295 20111122043737
+209.85.224.83 3 26 355547 20111114065958
+209.85.224.99 2 36 502686 20111114064754
+win-jnwy2u4ntsp 2 2 85025 20111123063219
+153-173-201-123.static.youbroadband.in 1 1 65536 20111125120751
+209.85.224.93 1 34 2278134 20111114055120
+broadband-188-32-41-35.nationalcablenetworks.ru 1 1 1048576 20111129012807
+209.85.224.82 2 37 858091 20111114065558
+209.85.224.85 1 38 477499 20111114055528
+209.85.224.94 1 43 927114 20111114054323
+216.104.15.142 1 1 3634 20111107110159
+217.149.63.65 1 1 5047 20111113025022
+14.99.83.155 1 1 0 20111117023007
+209.85.224.88 1 39 872527 20111114061927
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20111101 0 2 0 0
+20111102 0 10 15928 0
+20111103 4 8 225936 2
+20111104 0 1 0 0
+20111105 0 4 0 0
+20111106 0 4 0 0
+20111107 2 5 53674 2
+20111109 1 6 300422 1
+20111110 1 6 20064 1
+20111111 58 1135 17472790 4
+20111112 0 2 0 0
+20111113 1 3 5047 1
+20111114 53 816 14916565 29
+20111115 20 81 580466 2
+20111116 26 330 2647491 6
+20111117 1 1 0 1
+20111118 4 24 535966 3
+20111120 1 1 0 1
+20111121 9 30 112219 1
+20111122 5 29 206920 2
+20111123 2 4 131407 1
+20111124 3 4 954414 2
+20111125 15 36 7505981 6
+20111126 3 3 36910 2
+20111127 2 7 268572 2
+20111128 2 8 207378 1
+20111129 29 121 2847210 6
+20111130 19 158 2855247 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 3
+15mn-30mn 3
+2mn-5mn 4
+0s-30s 54
+30s-2mn 9
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 84
+/ 38 150575 23 12
+/erlsgames/games/bouncethegame/index.html 18 35852 2 1
+/dashboard.aspx 13 77124 6 3
+/erlsgames/games/arrangethegame/arrange.html 8 85378 5 3
+/ajax/StartmenuContent.html 7 13932 0 2
+/BrowserCheck.aspx 7 28254 0 1
+/qa/Pdf/TestAutomation.pdf 7 480780 6 6
+/login.aspx 6 271782 0 0
+/erlsgames/games/Jamputhegame/game/index.html 4 5840 1 3
+/loading.aspx 4 33068 0 0
+/erlsindex.aspx 3 13554 0 0
+/erlsgames/games/tetristhegame/game.html 2 12792 1 0
+/erlsgames/games/pingpong/ping-pong.html 2 8496 1 1
+/erlsgames/games/falsyvaluestetrisgame/tetris.html 2 3788 1 1
+/erlsglossary.aspx 1 8690 1 1
+/erlsgames/games/snakegame/snake.htm 3 33564 1 0
+/erlsgames/games/savemethegame/index.html 2 5286 1 1
+/secqtinstiens.aspx 1 5015 0 0
+/erlsgames/games/bubblethegame/index.html 3 2919 0 0
+/Check/Html5Check.htm 1 4904 0 0
+/erlsgames/games/fallingcubesthegame/index.html 2 14460 1 1
+/erlsgames/games/minesweepergame/snippet_1.html 2 4710 1 0
+/erlsgames/games/tictactoegame/tictactoegame.htm 3 22968 2 2
+/erlsgames/games/jpong/index.html 2 7830 1 1
+/profile.aspx 4 23147 0 2
+/school/education.aspx 1 2770 0 0
+/check/html5test/index.html 1 78169 0 0
+/erlsgames/games/tetristhegame/index.html 2 6594 1 0
+/drdre/login.aspx 4 40167 0 2
+/Product-review/Default.aspx 1 1308 0 0
+/check/html5test/PUSAB___.ttf 1 58300 0 0
+/WebResource.axd 1 21101 0 0
+/erlsgames/games/Breakmansiongame/cache.manifest 1 847 0 0
+/commission/default.aspx 1 4010 1 0
+/drdre/photogallery/dpragya/dpragya.html 1 1030 0 0
+/erlsgames/games/pacmanthegame/index.html 2 3422 1 1
+/QA/selenium/Selenium.DefaultSelenium.html 1 8147 1 1
+/Check/BrowserCheck.htm 2 9830 0 0
+/Interpretation/default.aspx 1 11221 0 0
+/erlsgames/games/pianothegame/index.html 2 31796 0 1
+/check/BrowserCheck.aspx 2 14427 0 1
+/hogzilla/default.aspx 1 6084 1 0
+/erlsgames/BrainVita.aspx 1 11819 0 1
+/erlsgames/games/html5marblerun/index.html 2 26098 0 0
+/home.aspx 3 20866 0 0
+/erlsgames/moregames.aspx 1 9926 0 1
+/Network.aspx 3 150008 0 0
+/check/Network.aspx 1 49663 0 1
+/erlsgames/games/chessthegame/index.html 3 16731 0 2
+/erlsgames/games/jslander/index.html 2 5554 1 1
+/erlsgames/games/tankworld/index.html 2 24298 1 0
+/erlsgames/games/orbiumthegame/index.html 2 17122 1 1
+/erlsgames/games/Jamputhegame/index.html 4 11512 2 0
+/erlsgames/games/bubblethegame/bubbles.htm 2 6702 0 0
+/creation.aspx 1 2878 0 0
+/erlsgames/games/cardflip/index.html 3 14658 0 0
+/erlsgames/games/freecellgame/index.html 2 24538 1 0
+/erlsgames/games/matchmypairs/pairs.html 3 4992 0 2
+/engine/default.aspx 1 4839 0 0
+/erlsgames/games/tetristhegame/imgs/ubuntu.ttf 2 140968 1 1
+/drdre/dream/2011.aspx 1 8087 0 1
+/ErlsCheck.aspx 4 9496 0 2
+/drdre/photogallery/nitu/nitu.html 2 23308 0 1
+/erlsgames/games/Breakmansiongame/index.html 4 13704 0 1
+/erlsgames/games/space/index.html 2 13754 0 1
+/erlsgames/games/tankworld/media/font/gravitat-webfont.ttf 1 35183 0 0
+/commission/support.aspx 1 81015 0 1
+/erlsgames/games/tetrisgame/index.html 2 8888 1 1
+/standards/linux/default.aspx 1 20064 1 1
+/Check/NetworkCheck.htm 1 4901 0 0
+/qa/linux/process/default.aspx 2 73820 2 2
+/drdre/dream/dream.aspx 1 3755 1 0
+/drdre/photogallery/dnwedding/dnwedding.html 1 12928 0 0
+/erlsgames/games/trianglegame/index.html 3 7011 2 1
+/engine/search.aspx 2 8148 0 1
+/erlsgames/games/Asteroids/index-debug.html 4 15261 2 3
+/erlsgames/games/html5game/index.html 3 16584 0 1
+/erlsgames/games/pacmanthegame/BD_Cartoon_Shout-webfont.ttf 2 75902 1 1
+/erlsgames/games/lightsoffthegame/index.html 3 5394 0 1
+/erlsgames/ 4 34691 1 0
+/iFrameContent/WindowsUI.html 1 1636 0 0
+/database/mymdf.zip 3 7877784 2 2
+/qa/Pdf/Selenium1TestingToolsNov2010.pdf 1 1048576 1 1
+/SystemCheck.aspx 4 9468 0 1
+END_SIDER

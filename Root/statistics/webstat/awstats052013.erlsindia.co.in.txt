@@ -1,0 +1,716 @@
+AWSTATS DATA FILE 7.1.1 (build 1.989)
+# If you remove this file, all statistics for date 201305 will be lost/reset.
+# Last config file used to build this data file was C:\Program Files (x86)\Parallels\Plesk\Additional\AWStats\wwwroot\cgi-bin/awstats.erlsindia.co.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2058                
+POS_TIME 2739                
+POS_VISITOR 20028               
+POS_DAY 23410               
+POS_DOMAIN 3568                
+POS_LOGIN 3988                
+POS_ROBOT 4143                
+POS_WORMS 4710                
+POS_EMAILSENDER 4841                
+POS_EMAILRECEIVER 4984                
+POS_SESSION 24096               
+POS_SIDER 24274               
+POS_FILETYPES 5119                
+POS_DOWNLOADS 5357                
+POS_OS 9518                
+POS_BROWSER 9740                
+POS_SCREENSIZE 10312               
+POS_UNKNOWNREFERER 10386               
+POS_UNKNOWNREFERERBROWSER 10663               
+POS_ORIGIN 10847               
+POS_SEREFERRALS 10986               
+POS_PAGEREFS 11142               
+POS_SEARCHWORDS 11322               
+POS_KEYWORDS 11532               
+POS_MISC 2402                
+POS_ERRORS 11651               
+POS_CLUSTER 3844                
+POS_SIDER_404 11807               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130601013954 340 145871 56957790266
+FirstTime 20130501093912
+LastTime 20130531212458
+LastUpdate 20130602110330 340 0 339 0 0
+TotalVisits 51                  
+TotalUnique 45                  
+MonthHostsKnown 44                  
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 32 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 44 80 391405
+1 0 0 0 60 93 1013757
+2 2 13 200463 47 77 678419
+3 2 21 5265634 65 113 579327
+4 1 51 13229848 48 103 461062
+5 24 192 7315304 52 97 1981507
+6 12 192 12238448 64 164 924647
+7 0 2 683716 78 113 7190293
+8 7 155 9460894 89 131 946677
+9 23 456 12405062 95 166 1492857
+10 0 2 8054364 69 150 3352421
+11 66 307 12094866 81 175 2701936
+12 9 280 5768048 80 279 10156963
+13 23 88 1838122 89 168 5401939
+14 0 2 10670096 103 139 884849
+15 2 5 10085974 87 128 7447036
+16 3 50 6582417 100 145 1245810
+17 0 0 0 74 134 1188162
+18 2 48 1845749 63 94 808883
+19 6 86 2000043 46 110 1151969
+20 1 47 1834777 52 88 1254369
+21 7 40 421067 83 128 965017
+22 1 36 359068 62 110 743232
+23 0 0 0 69 109 3381876
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+com 69 294 16050001
+ip 43 829 47152342
+in 38 459 18311352
+net 29 350 5201464
+de 6 40 421434
+org 2 43 110536
+nz 2 2 50342
+tr 1 47 1834777
+edu 1 1 39369
+gg 0 1 2684546
+hu 0 4 726724
+ca 0 2 94452
+my 0 1 2644920
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+googlebot 1690 45063889 20130531234259 0
+baiduspider 206 1925175 20130531081457 0
+yie8 102 3747496 20130514121900 0
+spider 41 448383 20130531124341 0
+exabot 9 59942 20130531041806 0
+bspider 4 22094 20130509190645 0
+bingbot 4 35061 20130518045701 0
+no_user_agent 2 225726 20130529102552 0
+surveybot 2 21952 20130523000450 0
+archive\.org_bot 2 39144 20130518014609 0
+wordpress 2 39458 20130518045319 0
+checkbot 1 39144 20130520043450 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 267 799761 0 0
+png 661 4361839 0 0
+pdf 30 49767161 0 0
+aspx 143 1889263 0 0
+html 46 809753 0 0
+xml 2 17363 0 0
+jpg 479 34341573 0 0
+js 264 3090963 0 0
+gif 181 244583 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 84
+/qa/Pdf/SeleniumDocumentation.pdf 22 74 55992903
+/qa/Pdf/TestAutomation.pdf 13 5 2658336
+/QA/Pdf/TestAutomation.pdf 6 0 1245660
+/qa/windows/bib/ICSE/test-bib.tex.gz 3 0 18597
+/QA/windows/bib/ISPW/test-bib.tex.gz 3 0 4830
+/qa-standards/linux/doc/reqs.pdf 3 0 339144
+/Dev-standards/windows/cstyle/pikestyle.pdf 3 0 61881
+/qa/windows/bib/EWSPT/test-bib.tex.gz 3 0 2805
+/Dev-standards/windows/cstyle/steal.pdf 3 0 123936
+/qa/windows/bib/ISPW/test-bib.tex.gz 3 0 4830
+/Dev-standards/windows/cstyle/indhill-annot.pdf 3 0 160239
+/Dev-standards/windows/cstyle/Baldwin-inspect.pdf 3 0 124434
+/QA-standards/windows/bib/ISPW/test-bib.tex.gz 3 0 4830
+/Dev-standards/windows/cstyle/steal.ms.gz 2 0 26004
+/Dev-standards/linux/process/process.pdf 2 0 284510
+/Dev-standards/windows/cstyle/indhill-annot.ms.tbl.gz 2 0 29942
+/Dev-standards/linux/process/process.txt 2 0 22822
+/Dev-standards/linux/oostnd/oostnd.pdf 2 0 333178
+/ProductList/product-R.txt 2 0 1250
+/QA/linux/doc/reqs.pdf 2 0 226096
+/Dev-standards/windows/cstyle/cant.pdf 2 0 90660
+/Dev-standards/windows/bib/ISPW/refs.bib.gz 2 0 27104
+/Dev-standards/windows/bib/ESEC/refs.bib.gz 2 0 28030
+/Dev-standards/linux/cppstnd/cppstnd.pdf 2 0 469696
+/Dev-standards/windows/cstyle/codestddisc.txt 2 0 22532
+/Dev-standards/windows/bib/ICSE/test-bib.tex.gz 2 0 12398
+/Dev-standards/windows/cstyle/portableC.pdf 2 0 526866
+/Dev-standards/windows/cstyle/ten-commandments.pdf 2 0 8048
+/Dev-standards/linux/doc/reqs.txt 2 0 4944
+/Dev-standards/windows/cstyle/Peter_CStyleGuide.pdf 2 0 641312
+/Dev-standards/windows/cstyle/indhill-cstyle.ms.tbl.gz 2 0 77428
+/Dev-standards/windows/cstyle/ifdefs.pdf 2 0 112222
+/Dev-standards/windows/cstyle/cstyleESAOZv2.txt 2 0 19246
+/qa-standards/windows/bib/EWSPT/test-bib.tex.gz 2 0 1868
+/Dev-standards/windows/cstyle/ten-commandments.ms.gz 2 0 2846
+/Dev-standards/windows/cstyle/portableC.tex.gz 2 0 31146
+/Dev-standards/windows/bib/ICSE/refs.bib.gz 2 0 229520
+/Dev-standards/linux/develop/develop.pdf 2 0 336216
+/Dev-standards/windows/cstyle/indhill-cstyle.pdf 2 0 214146
+/Dev-standards/windows/cstyle/Ellemtel-rules-mm.pdf 2 0 602434
+/Dev-standards/windows/cstyle/LinuxKernelCodingStyle.txt 2 0 13760
+/Dev-standards/windows/bib/EWSPT/refs.bib.gz 2 0 14074
+/Dev-standards/linux/develop/develop.txt 2 0 25600
+/Dev-standards/linux/faq/faq.pdf 2 0 263130
+/Dev-standards/linux/doc/reqs.pdf 2 0 226096
+/ProductList/product-L.txt 2 0 1286
+/Dev-standards/windows/cstyle/gnucodingstd.txt 2 0 12582
+/qa/Pdf/Selenium1TestingToolsNov2010.pdf 2 0 12575374
+/Dev-standards/linux/cppstnd/cppstnd.txt 2 0 42954
+/Dev-standards/linux/oostnd/oostnd.txt 2 0 23460
+/ProductList/product-F.txt 1 0 634
+/qa/windows/bib/EWSPT/refs.bib.gz 1 0 7038
+/ProductList/product-D.txt 1 0 669
+/QA-standards/windows/cstyle/Baldwin-inspect.pdf 1 0 41479
+/ProductList/product-Z.txt 1 0 626
+/QA-standards/windows/cstyle/steal.pdf 1 0 41313
+/ProductList/product-G.txt 1 0 633
+/qa-standards/linux/doc/reqs.txt 1 0 2472
+/ProductList/product-Y.txt 1 0 655
+/QA-standards/windows/cstyle/portableC.pdf 1 0 263434
+/qa/windows/cstyle/LinuxKernelCodingStyle.txt 1 0 6773
+/QA-standards/windows/bib/EWSPT/test-bib.tex.gz 1 0 934
+/QA-standards/windows/cstyle/ifdefs.pdf 1 0 56111
+/qa/linux/cppstnd/cppstnd.pdf 1 0 234848
+/qa/windows/cstyle/cant.pdf 1 0 45330
+/qa/linux/develop/develop.txt 1 0 12800
+/QA-standards/windows/cstyle/cant.pdf 1 0 45330
+/qa/linux/develop/develop.pdf 1 0 168108
+/ProductList/product-V.txt 1 0 624
+/QA/windows/bib/EWSPT/test-bib.tex.gz 1 0 935
+/ProductList/product-M.txt 1 0 636
+/Dev-standards/windows/bib/ISPW/test-bib.tex.gz 1 0 1610
+/QA/linux/doc/reqs.txt 1 0 2472
+/qa/windows/cstyle/steal.pdf 1 0 41312
+/ProductList/product-I.txt 1 0 623
+/QA-standards/windows/cstyle/indhill-annot.pdf 1 0 53413
+/qa-standards/windows/bib/ISPW/test-bib.tex.gz 1 0 1610
+/Dev-standards/windows/bib/EWSPT/test-bib.tex.gz 1 0 934
+/qa/windows/bib/ISPW/refs.bib.gz 1 0 13552
+/QA-standards/windows/cstyle/pikestyle.pdf 1 0 20627
+/QA-standards/windows/cstyle/ten-commandments.pdf 1 0 4025
+/ProductList/product-O.txt 1 0 630
+/ProductList/product-X.txt 1 0 633
+/ProductList/product-N.txt 1 0 630
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linuxandroid 2 0
+winxp 300 66
+macosx6 1 1
+winlong 332 34
+linux 132 6
+win7 1296 72
+win2003 19 1
+win8 9 0
+Unknown 4 1
+bsdopenbsd 1 1
+macosx8 48 1
+macosx7 8 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+safari5.0.3 1 1
+msie6.0 1 1
+firefox10.0.12 1 0
+chrome27.0.1453.94 132 8
+firefox20.0 243 10
+firefox17.0 37 5
+firefox10.0 308 15
+android 2 0
+firefox13.0 3 0
+firefox21.0 398 31
+safari5.0 47 1
+chrome25.0.1354.0 3 0
+chrome18.0.1025.165 8 8
+opera9.80 38 5
+msie8.0 276 8
+firefox0.10.1 2 2
+mozilla 2 0
+chrome26.0.1410.65 47 1
+chrome26.0.1410.64 277 25
+msie7.0 180 60
+firefox14.0.1 2 1
+firefox23.0 36 1
+msie10.0 1 1
+firefox6.0 3 3
+chrome26.0.1410.63 47 1
+msie9.0 3 0
+chrome23.0.1271.97 47 1
+Unknown 2 1
+safari 1 1
+firefox11.0 4 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_Googlebot/2.1;__http://www.google.com/bot.html) 20130517143441
+EventMachine_HttpClient 20130508193532
+Googlebot/2.1_(_http://www.google.com/bot.html) 20130528103157
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+EventMachine_HttpClient 20130508193532
+Googlebot/2.1_(_http://www.google.com/bot.html) 20130528103157
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 104 141
+From1 0 0
+From2 6 94
+From3 1 1
+From4 80 1916
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 6 94
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.sitefinder.co.in 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+erls+corporation 2
+erlsindia.co.in%2fadmin%2flogin.aspx 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+erls 2
+corporation 2
+erlsindia.co.in%2fadmin%2flogin.aspx 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 2 11288
+302 38 148872
+206 35 112500
+400 3 8208
+500 54 972135
+404 807 3379114
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 187
+/rssfeed/default.aspx 4 -
+/sms/brand-form=cse-search-box&lang=en 1 http://erlsindia.co.in/sms/erlssms.aspx
+/news/assets/news/news.xml 1 -
+/news.aspx 2 -
+/termuse.aspx 5 -
+/erlsglossary.aspx 49 -
+/qa/linux/doc/requirements/req3146.aspx 2 -
+/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 1 -
+/news/default.aspx 2 -
+/admin/FCKeditor/editor/filemanager/browser/default/browser.html 2 -
+/secqtinstiens.aspx 1 -
+/qa-standards/linux/doc/requirements/req6592.aspx 1 -
+/Check/check/CreditExperiments.aspx 3 -
+/qa/linux/doc/requirements/req6587.aspx 3 -
+/festivals/Regration.aspx 3 -
+/Dev-standards/linux/doc/requirements/req5095.aspx 2 -
+/school/images/end.gif 1 -
+/festivals/Default.aspx 2 -
+/FCKeditor/editor/filemanager/connectors/test.html 4 -
+/css/css/font-awesome.css 1 http://www.erlsindia.co.in/css/loadingstyle.css
+/services.aspx 1 -
+/shopping/Login.aspx 2 -
+/drdre/login.aspx 2 -
+/qa-standards/linux/doc/requirements/req2872.aspx 2 -
+/qa/linux/doc/requirements/req5096.aspx 2 -
+/products.aspx 5 -
+/sendtophone 4 http://erlsindia.co.in/sms/erlssms.aspx
+/qa-standards/linux/doc/requirements/req6588.aspx 2 -
+/qa/blogs.aspx 3 -
+/Dev-standards/linux/doc/requirements/req6591.aspx 2 -
+/qa/linux/doc/requirements/req3145.aspx 2 -
+/qa-standards/linux/doc/requirements/req1589.aspx 2 -
+/doctor/images/dmail/corner_tl.gif 1 -
+/Dev-standards/linux/doc/requirements/req6592.aspx 3 -
+/erlsfaq.aspx 2 -
+/Dev-standards/linux/doc/requirements/req6598.aspx 3 -
+/career/images/displayroom/photo4.jpg 1 -
+/indexstyle.css 2 -
+/wp-login.php 2 -
+/Dev-standards/linux/doc/requirements/req5098.aspx 2 -
+/Dev-standards/linux/doc/requirements/req2872.aspx 2 -
+/Fancybox/jquery-1.8.3.min.js 8 http://www.erlsindia.co.in/corporate/home.aspx
+/contects.aspx 2 -
+/qa/linux/doc/requirements/req1588.aspx 2 -
+/qa/NamingDomains.aspx 3 -
+/Dev-standards/linux/doc/requirements/req4865.aspx 2 -
+/qa/linux/doc/requirements/req4865.aspx 2 -
+/et.aspx 6 -
+/qa-standards/linux/doc/requirements/req6591.aspx 2 -
+/Dev-standards/linux/doc/requirements/req20873.aspx 2 -
+/social.aspx 1 -
+/include/FCKeditor/editor/filemanager/browser/default/browser.html 3 -
+/sorry.aspx 3 -
+/Dev-standards/corporate/blogs.aspx 2 -
+/qa-standards/linux/doc/requirements/req3146.aspx 2 -
+/Dev-standards/linux/doc/requirements/req5099.aspx 2 -
+/partners.aspx 1 -
+/erlsoverview.aspx 1 -
+/webarchives/archives/css-dock.7z 1 -
+/creation.aspx 2 -
+/qa-standards/linux/doc/requirements/req3147.aspx 2 -
+/qa-standards/linux/doc/requirements/req6590.aspx 2 -
+/images/sky_bg.jpg 6 http://www.erlsindia.co.in/
+/Dev-standards/linux/doc/requirements/req1588.aspx 2 -
+/qa/linux/doc/requirements/req3142.aspx 2 -
+/termsofservices.aspx 1 -
+/rssfeed/images/education/but1.jpg 1 -
+/QA-standards/windows/bib/default.aspx 1 -
+/qa/linux/doc/requirements/req6594.aspx 3 -
+/infrastructure/Default.aspx 1 -
+/infrastructure/default.aspx 2 -
+/more.aspx 1 -
+/festivals/Bonus.aspx 2 -
+/qa/linux/doc/requirements/req6590.aspx 1 -
+/qa-standards/linux/doc/requirements/req5095.aspx 2 -
+/dmail/SendEmail.aspx 6 -
+/Dev-standards/linux/doc/requirements/req3145.aspx 2 -
+/qa/windows/bib/default.aspx 2 -
+/administrator/index.php 1 -
+/Dev-standards/linux/doc/requirements/req5096.aspx 2 -
+/qa-standards/linux/doc/requirements/req6598.aspx 2 -
+/doctor/images/dmail/spam_new.gif 1 -
+/Dev-standards/linux/doc/requirements/req6595.aspx 2 -
+/check/js/images/circle_animation.gif 1 -
+/Dev-standards/linux/doc/requirements/req6599.aspx 2 -
+/images/grey_t.png 6 http://www.erlsindia.co.in/
+/qa-standards/linux/doc/requirements/req20873.aspx 2 -
+/qa/windows/Cpp/C++_coding_standards.pdf 1 -
+/Check/check/ErlsCheck.aspx 2 -
+/qa/linux/doc/requirements/req3144.aspx 2 -
+/qa/linux/doc/requirements/req4568.aspx 3 -
+/qa-standards/linux/doc/requirements/req3144.aspx 2 -
+/news/ 1 -
+/qa-standards/linux/doc/requirements/req6587.aspx 2 -
+/erlsblogs.aspx 2 -
+/download/ 1 -
+/qa/seleniumhQ.com 1 -
+/standards/linux/cppstnd/default.aspx 1 -
+/Dev-standards/linux/doc/requirements/req10658.aspx 2 -
+/Dev-standards/linux/doc/requirements/req5097.aspx 2 -
+/qa-standards/linux/doc/requirements/req1588.aspx 2 -
+/hosting.aspx 1 -
+/robots.txt 275 -
+/Dev-standards/linux/doc/requirements/req6594.aspx 2 -
+/loading.gif 46 http://www.erlsindia.co.in/index.aspx
+/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 4 -
+/Dev-standards/linux/doc/requirements/req1589.aspx 2 -
+/css/fonts/texgyreadventor-regular-webfont.eot 6 http://www.erlsindia.co.in/
+/Dev-standards/linux/doc/requirements/req6587.aspx 3 -
+/Profile.aspx 1 -
+/all-ie-only.css 7 http://www.erlsindia.co.in/
+/qa/linux/doc/requirements/req6591.aspx 2 -
+/Check/check/Network.aspx 1 -
+/qa/linux/doc/requirements/req10658.aspx 3 -
+/FCKeditor/editor/filemanager/browser/default/connectors/test.html 4 -
+/doctor/default.aspx 3 -
+/festivals/images/Cancel.jpg 1 -
+/FCKeditor/editor/filemanager/connectors/uploadtest.html 4 -
+/FCKeditor/editor/filemanager/browser/default/browser.html 6 -
+/corporate/news.aspx 1 -
+/qa-standards/linux/doc/requirements/req3145.aspx 2 -
+/Dev-standards/linux/doc/requirements/req3143.aspx 2 -
+/qa-standards/linux/doc/requirements/req5096.aspx 2 -
+/doctor/login.aspx 4 -
+/qa-standards/linux/doc/requirements/req5972.aspx 2 -
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 1 -
+/Dev-standards/linux/doc/requirements/req3142.aspx 2 -
+/Dev-standards/linux/doc/requirements/req6590.aspx 2 -
+/profile.aspx 11 -
+/qa-standards/linux/doc/requirements/req5097.aspx 1 -
+/Check/check/SystemCheck.aspx 1 -
+/Check/check/AboutErls.aspx 1 -
+/qa-standards/linux/doc/requirements/req4568.aspx 2 -
+/Dev-standards/linux/doc/requirements/req5972.aspx 2 -
+/qa-standards/linux/doc/requirements/req3143.aspx 2 -
+/QA-standards/windows/Cpp/C++_coding_standards.pdf 1 -
+/Dev-standards/linux/doc/requirements/req3147.aspx 2 -
+/FCKeditor/editor/filemanager/upload/test.html 4 -
+/qa/linux/doc/requirements/req5095.aspx 2 -
+/qa/linux/doc/requirements/req6592.aspx 3 -
+/Dev-standards/linux/doc/requirements/req4568.aspx 2 -
+/sms/index-14.htm 1 -
+/tutorials/tutorialstyle.css 1 -
+/qa/linux/doc/requirements/req6599.aspx 2 -
+/Dev-standards/linux/doc/requirements/req3146.aspx 3 -
+/qa-standards/linux/doc/requirements/req6595.aspx 1 -
+/qa/linux/doc/requirements/req5097.aspx 3 -
+/home.aspx 4 -
+/qa-standards/linux/doc/requirements/req5099.aspx 2 -
+/qa/linux/doc/requirements/req3147.aspx 2 -
+/copyright.aspx 5 -
+/qa/linux/doc/requirements/req6595.aspx 3 -
+/Fancybox/SimpleModal.js 9 http://www.erlsindia.co.in/corporate/home.aspx
+/qa/linux/doc/requirements/req6588.aspx 2 -
+/policy.aspx 8 -
+/qa-standards/windows/bib/default.aspx 1 -
+/news/images/education/but1.jpg 1 -
+/qa/linux/doc/requirements/req20873.aspx 2 -
+/Check/check/WebGLCheck.aspx 1 -
+/festivals/Wife.aspx 3 -
+/Dev-standards/linux/doc/requirements/req3144.aspx 3 -
+/training.aspx 1 -
+/qa/Officelayoutstandard.aspx 1 -
+/qa/linux/doc/requirements/req5098.aspx 2 -
+/BrowserCheck.aspx 1 -
+/guestlogin.aspx 3 -
+/qa-standards/linux/doc/requirements/req3142.aspx 2 -
+/qa-standards/linux/doc/requirements/req10658.aspx 2 -
+/qa/linux/doc/requirements/req5972.aspx 2 -
+/qa-standards/linux/doc/requirements/req4865.aspx 2 -
+/qa-standards/linux/doc/requirements/req6599.aspx 2 -
+/standards/windows/cstyle/taocoding.aspx 1 -
+/qa/linux/doc/requirements/req6598.aspx 2 -
+/Dev-standards/windows/bib/default.aspx 1 -
+/blogs.aspx 4 http://www.erlsindia.co.in/blogs.aspx
+/qa/linux/doc/requirements/req2872.aspx 2 -
+/erlspatents.aspx 2 -
+/images/logo.jpg 4 http://www.erlsindia.co.in/corporate/contects.aspx
+/qa/linux/doc/requirements/req3143.aspx 3 -
+/software.aspx 6 -
+/qa-standards/linux/doc/requirements/req6594.aspx 2 -
+/qa/linux/doc/requirements/req5099.aspx 2 -
+/qa-standards/linux/doc/requirements/req5098.aspx 2 -
+/festivals/default.aspx 3 -
+/cprofile.aspx 5 -
+/Dev-standards/linux/doc/requirements/req6588.aspx 2 -
+/qa/linux/doc/requirements/req1589.aspx 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 69
+security.lightspeedsystems.com 48 68 1470452 20130503114809
+115.111.122.13.static-delhi.vsnl.net.in 26 158 5213996 20130524130349
+segment-124-30.sify.net 22 186 1480650 20130514055734
+115.248.154.196 11 92 1522003 20130527113330
+182.178.104.252 5 37 125549 20130531212458
+j49801.servers.jiffybox.net 5 85 1960900 20130511192949
+abts-north-static-249.240.160.122.airtelbroadband.in 5 157 412524 20130531063955
+tor28.anonymizer.ccc.de 5 37 125549 20130502065340
+tor-exit01.solidonetworks.com 4 66 229370 20130512092328
+203.132.214.156 4 204 8050612 20130513095437
+google-proxy-66-249-84-92.google.com 3 3 32920 20130531121043
+1-38-24-42.live.vodafone.in 3 36 121049 20130519115022
+117.193.164.85 2 13 200463 20130529025312
+static-226.13.93.111.tataidc.co.in 0 5 2684389 
+50-57-68-14.static.cloud-ips.com 1 1 39393 20130531211941
+abts-ap-dynamic-019.152.169.122.airtelbroadband.in 0 4 166656 
+202.153.47.139 2 48 1845749 20130529180401
+nsg-static-082.58.71.182.airtel.in 2 53 1852783 20130522090029
+ec2-54-244-180-213.us-west-2.compute.amazonaws.com 1 1 10971 20130502095900
+ras.beamtele.net 0 1 207610 
+178.32.212.25 2 30 69269 20130508125204
+bas1-toronto12-1128685028.dsl.bell.ca 0 2 94452 
+113.193.183.166 0 2 5369092 
+66-169-180-38.dhcp.ftwo.tx.charter.com 0 2 5369092 
+5.135.125.180 3 3 85999 20130524091617
+ec2-54-214-100-30.us-west-2.compute.amazonaws.com 2 2 21954 20130514151646
+kllc1.utm.my 0 9 2644920 
+supportstaff57.jaipurdatacenter.com 1 47 1834857 20130531125659
+cfilter.prj.hu 0 4 726724 
+122.248.163.4 0 1 0 
+116.202.212.163 0 22 4767258 
+158.228.72.5 0 1 2684546 
+abts-north-dynamic-069.112.68.182.airtelbroadband.in 1 2 0 20130502065907
+amtexsystems1.com 0 4 5369455 
+ec2-50-112-9-52.us-west-2.compute.amazonaws.com 1 1 10976 20130501093912
+b5.89.b6.static.xlhost.com 1 36 359068 20130524221431
+78.63.201.61 0 1 207610 
+195.251.175.71 1 42 1102510 20130526115323
+1.23.208.7 0 33 4874149 
+ec2-54-245-147-142.us-west-2.compute.amazonaws.com 2 2 21942 20130502095852
+exit-01c.noisetor.net 0 2 2792 
+182.19.77.93 0 3 2815981 
+tor21.anonymizer.ccc.de 0 2 287194 
+server.bviafghanistaninc.org 2 33 90608 20130508125255
+217.76.105.34 1 47 1834857 20130517121820
+thoreau.guilhem.org 0 10 19928 
+axigy2.torservers.net 2 76 1549512 20130512092559
+182.19.57.246 0 3 207970 
+ec2-54-245-203-60.us-west-2.compute.amazonaws.com 2 2 21950 20130513161648
+cpc4-cmbg15-2-0-cust191.5-4.cable.virginmedia.com 1 39 705063 20130525080620
+152.111.150.30 1 47 1834851 20130531114549
+nat-ext.sysnet.ucsd.edu 1 1 39369 20130505090643
+194.75.139.195 2 40 716037 20130524113846
+142.4.117.161 1 1 48515 20130529215253
+off.mal.dm.gg 0 1 2684546 
+182.73.52.2 0 1 207610 
+ec2-174-129-173-242.compute-1.amazonaws.com 1 1 39143 20130508193532
+14-140-116-135-sapient.com 0 2 415220 
+203.132.214.155 4 70 410076 20130513095247
+106.78.35.16 2 94 3669698 20130503061333
+. 1 47 1834852 20130518045320
+abs-static-218.36.251.27.aircel.co.in 0 8 6025178 
+81.215.2.158.static.ttnet.com.tr 1 47 1834777 20130504202832
+msnbot-131-253-24-82.search.msn.com 1 19 98175 20130506033731
+157.55.252.30 1 1 16427 20130531065353
+abts-mum-static-224.118.170.122.airtelbroadband.in 1 47 1834777 20130501161642
+tmp.sitefinder.co.nz 2 2 50342 20130528050027
+static.77.13.76.144.clients.your-server.de 1 1 8691 20130502035939
+106.211.60.82 0 4 2650659 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20130501 2 48 1845753 2
+20130502 10 43 167153 5
+20130503 50 164 13495018 2
+20130504 1 48 7335667 1
+20130505 1 2 5340687 1
+20130506 3 22 536061 2
+20130507 0 1 2684546 0
+20130508 5 64 199020 3
+20130509 0 1 2684546 0
+20130511 5 85 1960900 1
+20130512 6 162 8184612 2
+20130513 10 280 19877634 3
+20130514 28 216 7510042 4
+20130515 0 1 207610 0
+20130517 1 50 16624253 1
+20130518 1 47 1834852 1
+20130519 3 37 328659 1
+20130522 3 101 3687630 2
+20130524 29 177 4351411 4
+20130525 1 39 705063 1
+20130526 1 42 1102510 1
+20130527 11 92 1522003 1
+20130528 2 6 8580092 1
+20130529 5 62 2094727 3
+20130530 2 92 328280 2
+20130531 11 191 9165231 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+0s-30s 40
+2mn-5mn 5
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 35
+/ 42 903111 23 21
+/index.aspx 39 1220749 10 10
+/register.aspx 14 35893 0 1
+/admin/admin-dashboard.aspx 13 67921 1 5
+/admin/login.aspx 9 18577 7 0
+/login.aspx 6 14320 0 0
+/corporate/cprofile.aspx 5 47319 1 3
+/corporate/ 4 3660 0 1
+/check/WhyCheck.aspx 4 13556 0 0
+/corporate/creation.aspx 4 8409 0 1
+/humanCaptcha.aspx 3 5245 0 0
+/corporate/products.aspx 2 4776 0 0
+/qa/commission.aspx 1 9136 0 0
+/erlsindex.aspx 2 4602 1 0
+/corporate/termuse.aspx 3 21483 0 0
+/loading.aspx 1 1587 0 0
+/ProductList/product-A.html 2 1484 0 0
+/journal/journal.aspx 1 3734 0 0
+/corporate/Booksonline.aspx 2 6388 0 0
+/qa/automated.aspx 1 10778 0 0
+/journal/data/books.xml 2 17363 1 1
+/corporate/download/default.aspx 2 2510 0 0
+/corporate/home.aspx 4 14448 2 1
+/commission/support.aspx 1 81355 0 1
+/corporate/contects.aspx 2 2974 0 0
+/qa/windows/cstyle/indhillannot.aspx 1 48515 1 1
+/corporate/erlsfaq.aspx 2 28222 0 0
+/qa/ 1 11747 1 0
+/plesk-stat/webstat/ 3 49281 3 3
+/admin/page-full-width.aspx 3 8022 0 0
+/ProductList/product-T.html 2 1310 0 0
+/corporate/policy.aspx 2 5468 0 0
+/corporate/services.aspx 2 3718 0 0
+/admin/page-other.aspx 3 8985 0 2
+/qa/manual.aspx 3 29733 0 0
+END_SIDER

@@ -1,0 +1,656 @@
+AWSTATS DATA FILE 6.6 (build 1.887)
+# If you remove this file, all statistics for date 201108 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2534                
+POS_VISITOR 19063               
+POS_DAY 21230               
+POS_DOMAIN 3369                
+POS_LOGIN 3648                
+POS_ROBOT 3803                
+POS_WORMS 4022                
+POS_EMAILSENDER 4153                
+POS_EMAILRECEIVER 4296                
+POS_SESSION 21838               
+POS_SIDER 22045               
+POS_FILETYPES 4431                
+POS_OS 4700                
+POS_BROWSER 4822                
+POS_SCREENSIZE 5042                
+POS_UNKNOWNREFERER 5116                
+POS_UNKNOWNREFERERBROWSER 5576                
+POS_ORIGIN 5900                
+POS_SEREFERRALS 6039                
+POS_PAGEREFS 6194                
+POS_SEARCHWORDS 6376                
+POS_KEYWORDS 6528                
+POS_MISC 2197                
+POS_ERRORS 6587                
+POS_CLUSTER 3504                
+POS_SIDER_404 6738                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110901015710 1 0 48680774664
+FirstTime 20110802054519
+LastTime 20110829125457
+LastUpdate 20110902031822 1 0 0 0 0
+TotalVisits 58                  
+TotalUnique 28                  
+MonthHostsKnown 14                  
+MonthHostsUnknown 40                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 18 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 1 0 55 55 541666
+1 6 90 1220495 57 78 1772822
+2 3 12 204410 67 74 636499
+3 0 0 0 72 86 837042
+4 26 95 1086002 88 128 1292383
+5 54 367 3801798 152 196 1610705
+6 16 139 1850815 128 139 4126634
+7 11 176 2314761 151 185 2890476
+8 85 1075 7744732 127 297 2555169
+9 24 251 3243671 128 186 12861105
+10 17 254 1543334 159 216 2076503
+11 20 61 619879 83 112 2919671
+12 21 189 2524609 102 113 1887960
+13 30 235 2872570 103 130 2568606
+14 12 244 2189258 169 207 5916162
+15 6 11 33643 163 202 17774085
+16 19 181 1492808 138 158 2767274
+17 3 8 160480 195 201 14832207
+18 0 2 0 200 216 9288835
+19 16 157 1165327 80 95 1751852
+20 0 0 0 158 163 8502537
+21 0 1 0 75 76 1210895
+22 0 0 0 75 75 988332
+23 0 0 0 75 75 916791
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+in 294 3018 27791628
+ip 69 492 6160540
+com 5 38 113162
+org 1 1 3262
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 2480 94093269 20110831201011 0
+mediapartners\-google 1 4228 20110810073520 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 234 1135983 0 0
+png 1726 10917251 0 0
+htm 6 11028 0 0
+aspx 268 1786737 0 0
+txt 5 1846 0 0
+swf 15 93434 0 0
+html 86 297194 0 0
+js 264 5969893 0 0
+xml 1 9366 0 0
+jpg 653 13399766 0 0
+axd 3 42202 0 0
+gif 288 403892 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+winme 8
+winxp 2932
+winlong 297
+win2003 114
+winnt 138
+symbian 1
+Unknown 42
+linux 17
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+msie6.0 14
+msie8.0 1483
+nokia 1
+firefox5.0 126
+msie7.0 62
+firefox7.0 123
+firefox5.0.1 155
+firefox6.0 100
+firefox3.6.18 31
+firefox4.0 4
+msie9.0 13
+Unknown 40
+safari 1397
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+- 20110831141926
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20110811130909
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20110822140505
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110810073652
+urlresolver 20110817111620
+null 20110829125457
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+- 20110831141926
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20110811130909
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110810073652
+urlresolver 20110817111620
+null 20110829125457
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 102 159
+From1 0 0
+From2 1 1
+From3 1 1
+From4 265 3388
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.facebook.com/l.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 1 5652
+302 5 2330
+206 9 99491
+500 305 5330367
+404 661 2990491
+301 1 383
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 241
+/standards/linux/doc/requirements/req6591.aspx 1 -
+/qa/windows/cpp/c++_coding_standards.pdf 2 -
+/standards/windows/bib/default.aspx 2 -
+/erlsgames/images/email.jpg 7 http://erlsindia.co.in/erlsgames/TomHallsGame.aspx
+/standards/linux/doc/requirements/req3147.aspx 2 -
+/qa/Pdf/pythontestingguide.pdf 2 -
+/standards/linux/doc/requirements/req5972.aspx 2 -
+/QA/blogs.aspx 2 -
+/QA-standards/linux/doc/requirements/req5097.aspx 1 -
+/QA/linux/doc/requirements/req3142.aspx 1 -
+/QA-standards/linux/doc/requirements/req5096.aspx 1 -
+/standards/linux/doc/requirements/req5099.aspx 2 -
+/QA/linux/doc/requirements/req5095.aspx 1 -
+/drdre/images/dmail/spam_new.gif 1 http://www.erlsindia.co.in/drdre/login.aspx
+/standards/linux/doc/requirements/req6590.aspx 2 -
+/standards/linux/doc/requirements/req10658.aspx 2 -
+/qa/linux/doc/requirements/req3146.aspx 2 -
+/drdre/images/introduction/header1.jpg 13 http://erlsindia.co.in/drdre/dreams/dreams.aspx
+/Products/images/displayroom/photo1.jpg 1 -
+/QA/linux/doc/requirements/req4865.aspx 1 -
+/QA/linux/doc/requirements/req1588.aspx 1 -
+/hogzilla/no-text-3477649656932795222 1 -
+/qa-standards/linux/doc/requirements/req6592.aspx 2 -
+/dashboard/ajax/StartmenuContent.html 25 http://erlsindia.co.in/dashboard.aspx
+/qa/linux/doc/requirements/req6587.aspx 2 -
+/QA/windows/cpp/c++_coding_standards.pdf 1 -
+/css/jquery.tabs.css 1 http://erlsindia.co.in/login.aspx
+/qa-standards/windows/Cpp/C++_coding_standards.pdf 2 -
+/QA-standards/linux/doc/requirements/req3142.aspx 1 -
+/school/images/end.gif 3 http://www.erlsindia.co.in/school/essie.aspx
+/erlsgames/images/bathtub-right.png 7 http://erlsindia.co.in/erlsgames/TomHallsGame.aspx
+/search 2 -
+/QA/linux/doc/requirements/req20873.aspx 1 -
+/dmail/accounts/ 2 -
+/QA/linux/doc/requirements/req2872.aspx 1 -
+/qa-standards/linux/doc/requirements/req2872.aspx 2 -
+/qa/linux/doc/requirements/req5096.aspx 2 -
+/QA/linux/doc/requirements/req5972.aspx 1 -
+/standards/linux/doc/requirements/req6588.aspx 2 -
+/qa-standards/linux/doc/requirements/req6588.aspx 2 -
+/qa-standards/linux/doc/requirements/req1589.aspx 2 -
+/qa/linux/doc/requirements/req3145.aspx 2 -
+/qa/blogs.aspx 2 -
+/QA/linux/doc/requirements/req5096.aspx 1 -
+/erlsgames/images/decanter.jpg 7 http://erlsindia.co.in/erlsgames/TomHallsGame.aspx
+/QA/linux/doc/requirements/req3145.aspx 1 -
+/Products/images/displayroom/photo4.jpg 1 -
+/standards/linux/doc/requirements/req2872.aspx 2 -
+/standards/linux/doc/requirements/req3143.aspx 2 -
+/journal/images/books/Coding.JPG 1 http://erlsindia.co.in/journal/journal.aspx
+/career/images/displayroom/photo1.jpg 1 -
+/career/images/displayroom/photo4.jpg 1 -
+/Product-review/no-text1506378101983858454 2 -
+/QA/linux/doc/requirements/req6588.aspx 1 -
+/erlsgames/images/moregames/icon_education_and_career_g.jpg 4 -
+/standards/linux/doc/requirements/req6595.aspx 2 -
+/school/home.aspx 2 -
+/qa/linux/doc/requirements/req1588.aspx 3 -
+/images/white-arrow.gif 42 http://erlsindia.co.in/login.aspx
+/qa/NamingDomains.aspx 2 -
+/QA-standards/linux/doc/requirements/req2872.aspx 1 -
+/career/images/displayroom/photo6.jpg 1 -
+/QA/linux/doc/requirements/req3143.aspx 1 -
+/qa/linux/doc/requirements/req4865.aspx 2 -
+/qa-standards/linux/doc/requirements/req6591.aspx 2 -
+/images/cprofile/ccom+.jpg 1 -
+/standards/linux/doc/requirements/req3142.aspx 2 -
+/standards/linux/doc/requirements/req5098.aspx 2 -
+/standards/linux/doc/requirements/req4568.aspx 2 -
+/standards/linux/doc/requirements/req3145.aspx 2 -
+/qa-standards/linux/doc/requirements/req3146.aspx 2 -
+/QA/linux/doc/requirements/req6591.aspx 1 -
+/standards/linux/doc/requirements/req6598.aspx 2 -
+/drdre/dreams/introstyle.css 7 http://erlsindia.co.in/drdre/dreams/dreams.aspx
+/QA/windows/bib/default.aspx 2 -
+/QA/linux/doc/requirements/req4568.aspx 1 -
+/webarchives/archives/css-dock.7z 2 -
+/images/icons/orkut.png 1 http://erlsindia.co.in/dashboard.aspx
+/qa-standards/linux/doc/requirements/req3147.aspx 2 -
+/standards/linux/doc/requirements/req1589.aspx 2 -
+/qa-standards/linux/doc/requirements/req6590.aspx 2 -
+/Products/images/displayroom/photo5.jpg 1 -
+/privacy_glossary.aspx 2 -
+/qa/linux/doc/requirements/req3142.aspx 2 -
+/QA/seleniumhQ.com 2 -
+/standards/linux/doc/requirements/req3144.aspx 2 -
+/qa/Pdf/JavaScriptTestingGuide.pdf 2 -
+/QA-standards/windows/bib/default.aspx 2 -
+/QA/linux/doc/requirements/req10658.aspx 1 -
+/qa/linux/doc/requirements/req6594.aspx 2 -
+/webarchives/archives/Ultimatebrowserdetectingjavascript.7z 2 -
+/QA-standards/linux/doc/requirements/req3146.aspx 1 -
+/QA/linux/doc/requirements/req5099.aspx 1 -
+/qa/linux/doc/requirements/req6590.aspx 2 -
+/qa-standards/linux/doc/requirements/req5095.aspx 2 -
+/standards/linux/doc/requirements/req5095.aspx 2 -
+/sitemap.aspx 4 -
+/QA-standards/linux/doc/requirements/req4865.aspx 1 -
+/sms/images/fax/corner_tr.gif 1 -
+/QA-standards/windows/cpp/c++_coding_standards.pdf 1 -
+/drdre/images/dmail/corner_br.gif 1 http://www.erlsindia.co.in/drdre/login.aspx
+/QA-standards/linux/doc/requirements/req3143.aspx 1 -
+/qa/windows/bib/default.aspx 2 -
+/en.kioskea.net/_skin/_common/img/bg_glossaryButton.png 5 http://erlsindia.co.in/products.aspx
+/qa-standards/linux/doc/requirements/req6598.aspx 2 -
+/erlsgames/images/manuscript.gif 7 http://erlsindia.co.in/erlsgames/TomHallsGame.aspx
+/qa-standards/linux/doc/requirements/req20873.aspx 2 -
+/qa/windows/Cpp/C++_coding_standards.pdf 2 -
+/QA-standards/linux/doc/requirements/req6592.aspx 1 -
+/qa/linux/doc/requirements/req4568.aspx 2 -
+/qa/linux/doc/requirements/req3144.aspx 2 -
+/qa-standards/linux/doc/requirements/req3144.aspx 2 -
+/qa-standards/linux/doc/requirements/req6587.aspx 2 -
+/QA/linux/doc/requirements/req1589.aspx 1 -
+/QA/linux/doc/requirements/req5097.aspx 1 -
+/QA-standards/linux/doc/requirements/req1589.aspx 1 -
+/standards/linux/doc/requirements/req6599.aspx 2 -
+/images/dsf.jpg 27 http://erlsindia.co.in/loading.aspx
+/qa/seleniumhQ.com 2 -
+/QA/linux/doc/requirements/req6598.aspx 1 -
+/qa-standards/linux/doc/requirements/req1588.aspx 2 -
+/QA/linux/doc/requirements/req5098.aspx 1 -
+/robots.txt 82 -
+/project/ 4 http://www.erlsindia.co.in/iFrameContent/WindowsUI.html
+/Products/images/displayroom/photo6.jpg 1 -
+/QA/linux/doc/requirements/req6594.aspx 1 -
+/QA-standards/linux/doc/requirements/req6591.aspx 1 -
+/standards/windows/Cpp/C++_coding_standards.pdf 2 -
+/erlsgames/images/stone.png 7 http://erlsindia.co.in/erlsgames/TomHallsGame.aspx
+/standards/linux/doc/requirements/req5097.aspx 2 -
+/standards/linux/doc/requirements/req6587.aspx 2 -
+/QA/linux/doc/requirements/req3146.aspx 1 -
+/drdre/images/dmail/corner_bl.gif 1 http://www.erlsindia.co.in/drdre/login.aspx
+/erlsgames/images/moregames/icon_individuals.jpg 5 -
+/QA-standards/linux/doc/requirements/req10658.aspx 1 -
+/sms/images/fax/corner_tl.gif 1 -
+/QA-standards/linux/doc/requirements/req5098.aspx 1 -
+/standards/linux/doc/requirements/req5096.aspx 2 -
+/qa/linux/doc/requirements/req6591.aspx 2 -
+/drdre/images/dmail/logo.gif 1 http://www.erlsindia.co.in/drdre/login.aspx
+/QA-standards/linux/doc/requirements/req6594.aspx 1 -
+/privacypolicy.aspx 2 -
+/qa/linux/doc/requirements/req10658.aspx 2 -
+/career/images/displayroom/photo5.jpg 1 -
+/QA-standards/linux/doc/requirements/req5099.aspx 1 -
+/web.config 1 -
+/drdre/images/dmail/cell.gif 1 http://www.erlsindia.co.in/drdre/login.aspx
+/QA/linux/doc/requirements/req6599.aspx 1 -
+/qa-standards/linux/doc/requirements/req3145.aspx 2 -
+/QA-standards/linux/doc/requirements/req6588.aspx 1 -
+/qa-standards/linux/doc/requirements/req5096.aspx 2 -
+/qa-standards/linux/doc/requirements/req5972.aspx 2 -
+/erlsgames/images/hellfire.gif 7 http://erlsindia.co.in/erlsgames/TomHallsGame.aspx
+/erlsgames/images/cdshelf.jpg 7 http://erlsindia.co.in/erlsgames/TomHallsGame.aspx
+/qa-standards/linux/doc/requirements/req5097.aspx 2 -
+/QA/linux/doc/requirements/req6590.aspx 1 -
+/drdre/images/dmail/corner_tl.gif 1 http://www.erlsindia.co.in/drdre/login.aspx
+/standards/linux/doc/requirements/req1588.aspx 2 -
+/qa-standards/linux/doc/requirements/req4568.aspx 2 -
+/QA/Officelayoutstandard.aspx 2 -
+/qa-standards/linux/doc/requirements/req3143.aspx 2 -
+/QA-standards/linux/doc/requirements/req3145.aspx 1 -
+/QA-standards/linux/doc/requirements/req4568.aspx 1 -
+/QA/windows/Cpp/C++_coding_standards.pdf 2 -
+/QA-standards/windows/Cpp/C++_coding_standards.pdf 2 -
+/javascripts/jquery-1.1.3.1.pack.js 1 http://erlsindia.co.in/login.aspx
+/QA-standards/linux/doc/requirements/req6587.aspx 1 -
+/qa/linux/doc/requirements/req5095.aspx 2 -
+/qa/linux/doc/requirements/req6592.aspx 2 -
+/QA/linux/doc/requirements/req6587.aspx 1 -
+/engine/images/top.gif 3 http://erlsindia.co.in/engine/booksearch.aspx
+/QA-standards/linux/doc/requirements/req6599.aspx 1 -
+/QA-standards/linux/doc/requirements/req3144.aspx 1 -
+/standards/linux/doc/requirements/req3146.aspx 2 -
+/erlsgames/images/bathtub-left.png 7 http://erlsindia.co.in/erlsgames/TomHallsGame.aspx
+/QA-standards/linux/doc/requirements/req5095.aspx 1 -
+/phpbb3/store.htm 1 -
+/sms/images/fax/corner_br.gif 1 -
+/QA-standards/linux/doc/requirements/req6590.aspx 1 -
+/qa/linux/doc/requirements/req6599.aspx 2 -
+/dashboardpicstyle.css 11 http://erlsindia.co.in/dashboard.aspx
+/qa-standards/linux/doc/requirements/req6595.aspx 2 -
+/qa/linux/doc/requirements/req5097.aspx 2 -
+/qa-standards/linux/doc/requirements/req5099.aspx 2 -
+/qa/linux/doc/requirements/req3147.aspx 2 -
+/drdre/images/dmail/corner_tr.gif 1 http://www.erlsindia.co.in/drdre/login.aspx
+/qa/linux/doc/requirements/req6595.aspx 2 -
+/javascripts/jquery.tabs.pack.js 1 http://erlsindia.co.in/login.aspx
+/javascripts/jquery.history_remote.pack.js 1 http://erlsindia.co.in/login.aspx
+/QA-standards/linux/doc/requirements/req20873.aspx 1 -
+/qa/linux/doc/requirements/req6588.aspx 2 -
+/QA/Pdf/JavaScriptTestingGuide.pdf 2 -
+/drdre/profile.aspx 1 http://erlsindia.co.in/drdre/dreams/dreams.aspx
+/QA/linux/doc/requirements/req6595.aspx 1 -
+/Products/images/displayroom/photo2.jpg 1 -
+/qa-standards/windows/bib/default.aspx 2 -
+/QA-standards/linux/doc/requirements/req3147.aspx 1 -
+/qa/linux/doc/requirements/req20873.aspx 2 -
+/qa/Officelayoutstandard.aspx 2 -
+/qa/linux/doc/requirements/req5098.aspx 2 -
+/sms/images/fax/corner_bl.gif 1 -
+/press.aspx 2 -
+/qa-standards/windows/cpp/c++_coding_standards.pdf 2 -
+/accounts/ 2 -
+/QA-standards/linux/doc/requirements/req1588.aspx 1 -
+/QA-standards/linux/doc/requirements/req5972.aspx 1 -
+/qa-standards/linux/doc/requirements/req3142.aspx 2 -
+/qa-standards/linux/doc/requirements/req10658.aspx 2 -
+/blogs/ 1 -
+/qa/linux/doc/requirements/req5972.aspx 2 -
+/career/images/displayroom/photo2.jpg 1 -
+/qa-standards/linux/doc/requirements/req4865.aspx 2 -
+/qa-standards/linux/doc/requirements/req6599.aspx 2 -
+/QA-standards/linux/doc/requirements/req6595.aspx 1 -
+/QA/linux/doc/requirements/req3147.aspx 1 -
+/standards/windows/cpp/c++_coding_standards.pdf 2 -
+/qa/linux/doc/requirements/req6598.aspx 2 -
+/dreams/dreams.aspx 2 -
+/drdre/images/dmail/storage.gif 1 http://www.erlsindia.co.in/drdre/login.aspx
+/qa/linux/doc/requirements/req2872.aspx 2 -
+/standards/linux/doc/requirements/req4865.aspx 2 -
+/QA/Pdf/pythontestingguide.pdf 2 -
+/erlsgames/images/moregames/icon_corporate.jpg 5 -
+/drdre/copyright.aspx 1 http://erlsindia.co.in/drdre/dreams/dreams.aspx
+/QA/linux/doc/requirements/req3144.aspx 1 -
+/QA/NamingDomains.aspx 2 -
+/career/images/displayroom/photo3.jpg 1 -
+/images/logo.jpg 25 http://www.erlsindia.co.in/services.aspx
+/QA-standards/linux/doc/requirements/req6598.aspx 1 -
+/Products/images/displayroom/photo3.jpg 1 -
+/qa/linux/doc/requirements/req3143.aspx 2 -
+/standards/linux/doc/requirements/req20873.aspx 2 -
+/qa-standards/linux/doc/requirements/req6594.aspx 2 -
+/qa/linux/doc/requirements/req5099.aspx 2 -
+/QA/linux/doc/requirements/req6592.aspx 1 -
+/qa-standards/linux/doc/requirements/req5098.aspx 2 -
+/hogzilla/no-text5772187013556316923 1 -
+/standards/linux/doc/requirements/req6592.aspx 2 -
+/standards/linux/doc/requirements/req6594.aspx 2 -
+/qa/linux/doc/requirements/req1589.aspx 2 -
+/erlsgames/images/moregames/icon_elearning.jpg 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+115.111.122.13.static-delhi.vsnl.net.in 196 1966 17444147 20110829113110
+abts-north-static-227.240.160.122.airtelbroadband.in 35 552 5925108 20110823122446
+abts-north-static-028.174.144.59.airtelbroadband.in 23 105 1163137 20110825044422
+triband-del-59.177.14.195.bol.net.in 16 155 1165327 20110811193037
+abs-static-252.41.68.58.aircel.co.in 15 205 1488748 20110819083927
+117.96.100.142 12 123 938380 20110817165529
+121.245.214.40 11 114 1497579 20110812065403
+27.56.92.158 9 100 1373493 20110813020046
+117.96.6.9 7 58 554428 20110809161550
+164.100.1.206 5 13 263137 20110812051106
+74.125.52.93 0 1 2084 
+216.38.216.220 2 4 8696 20110825082230
+69.63.181.248 0 1 23705 
+74.125.126.89 0 1 292 
+27.61.131.175 1 4 125822 20110810063632
+120.56.141.121 4 12 263080 20110810120236
+static-216.98.156.182.tataidc.co.in 3 8 160480 20110816173530
+74.125.126.86 0 1 3411 
+115.242.75.135 4 11 141193 20110818045101
+static-90.101.195.14.tataidc.co.in 0 1 25706 
+74.125.52.95 0 1 2054 
+69.63.181.245 0 1 3803 
+115.242.126.144 3 10 236970 20110812131350
+69.171.228.249 0 1 4293 
+69.171.224.245 0 1 5238 
+74.125.126.87 1 1 13463 20110814112421
+69.171.228.250 0 1 2180 
+gator1333.hostgator.com 0 1 0 
+74.125.126.88 0 1 292 
+static-22.235.194.14.tataidc.co.in 3 13 236970 20110811131446
+gator882.hostgator.com 0 21 2896 
+abts-mum-dynamic-089.53.170.122.airtelbroadband.in 3 13 182005 20110825060452
+74.125.126.81 0 3 99885 
+69.171.228.248 0 1 5689 
+74.125.52.83 0 1 292 
+64.233.182.84 0 1 25706 
+69.171.228.247 0 1 3587 
+postnews2.google.com 0 2 98264 
+180.215.28.146 4 9 231734 20110814074354
+69.171.228.251 0 1 108162 
+yosemite.websiteoptimization.com 5 14 12002 20110829125457
+74.125.52.89 1 1 3243 20110814112519
+74.125.70.82 0 1 25706 
+69.171.228.245 0 1 2985 
+69.171.224.244 0 1 2336 
+74.125.126.84 0 1 80197 
+69.171.224.249 0 1 4382 
+74.125.126.94 0 1 80197 
+74.125.66.85 1 1 295 20110816093055
+74.125.52.94 1 2 4189 20110814112519
+69.171.228.246 1 3 14805 20110810073639
+iad1-wtp-gd-maya8.sdi.trendnet.org 1 1 3262 20110812051157
+66.220.146.245 1 1 3262 20110811130909
+74.125.46.81 1 1 295 20110817111620
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20110802 7 56 561819 1
+20110803 15 80 849725 1
+20110804 1 7 96072 1
+20110808 7 61 962401 1
+20110809 7 58 554428 1
+20110810 38 340 4056113 8
+20110811 34 457 4365415 5
+20110812 42 533 5384200 8
+20110813 9 100 1373493 1
+20110814 7 26 619597 4
+20110816 48 637 5278037 5
+20110817 44 481 3652938 5
+20110818 21 73 658786 2
+20110819 15 205 1488748 1
+20110822 0 2 25706 0
+20110823 11 119 1294838 3
+20110824 18 157 1612431 3
+20110825 25 86 982641 5
+20110826 0 1 0 0
+20110827 0 5 0 0
+20110828 0 2 0 0
+20110829 20 56 249756 3
+20110830 0 1 0 0
+20110831 0 6 1448 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 6
+0s-30s 23
+2mn-5mn 9
+30s-2mn 12
+15mn-30mn 3
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 61
+/ 58 201478 40 14
+/login.aspx 39 565853 3 12
+/loading.aspx 34 124318 0 1
+/dashboard.aspx 27 129838 8 4
+/ajax/StartmenuContent.html 22 57625 0 3
+/erlsindex.aspx 12 48631 0 0
+/drdre/dreams/dreams.aspx 12 43991 3 0
+/drdre/dreams/2011.aspx 12 43684 1 3
+/home.aspx 10 63966 0 3
+/BrowserCheck.aspx 9 37281 0 0
+/standards/NamingDomains.aspx 1 17545 0 1
+/ProductList/product-F.txt 1 360 0 0
+/drdre/dreams/2010.aspx 8 10720 0 1
+/erlsgames/default.aspx 2 22778 0 0
+/erlsgames/moregames.aspx 3 28947 0 0
+/sorry.aspx 4 7622 0 1
+/journal/journal.aspx 1 3349 1 0
+/Network.aspx 5 12797 0 1
+/policy.aspx 1 2360 0 0
+/index.aspx 3 18251 0 1
+/qa-standards/default.aspx 1 11724 0 1
+/ProductList/product-A.txt 2 766 0 0
+/validator/schema.aspx 1 4702 0 0
+/secqtinstiens.aspx 4 22344 0 1
+/journal/data/books.xml 1 9366 0 1
+/engine/default.aspx 3 14513 0 0
+/drdre/dreams/2008.aspx 1 1314 0 0
+/loadWindow.htm 6 11028 0 0
+/drdre/dreams/2007.aspx 1 1314 0 0
+/drdre/dreams/2000.aspx 2 2628 0 0
+/drdre/dreams/2003.aspx 1 1314 0 0
+/drdre/dreams/2006.aspx 1 1314 0 0
+/more.aspx 6 196306 1 0
+/erlsgames/spaceinvador.aspx 2 4946 0 1
+/standards/blogs.aspx 1 9112 0 0
+/ProductList/product-Y.txt 1 360 0 0
+/erlsgames/TomHallsGame.aspx 6 25178 0 0
+/profile.aspx 6 33596 0 0
+/engine/booksearch.aspx 1 5021 0 0
+/drdre/dreams/2005.aspx 1 1314 0 0
+/shopping/default.aspx 1 2384 0 1
+/services.aspx 5 27114 0 1
+/epress/default.aspx 1 1883 0 0
+/school/essie.aspx 2 8134 0 0
+/school/education.aspx 2 13594 0 0
+/drdre/credits.aspx 8 16022 0 2
+/drdre/login.aspx 8 107482 1 2
+/products.aspx 4 29207 0 0
+/drdre/dreams/2001.aspx 2 2628 0 0
+/validator/default.aspx 1 2187 0 0
+/WebResource.axd 3 42202 0 2
+/ProductList/product-B.txt 1 360 0 0
+/school/esqat.aspx 1 4046 0 0
+/drdre/dreams/2009.aspx 1 1314 0 0
+/erlsgames/ 3 34131 0 0
+/iFrameContent/WindowsUI.html 3 3960 0 1
+/drdre/dreams/2004.aspx 1 1314 0 0
+/erlsgames/CanvasPaint.aspx 1 1432 0 0
+/drdre/dreams/2002.aspx 2 2628 0 0
+/contects.aspx 4 11474 0 0
+/standards/default.aspx 3 35323 0 0
+END_SIDER

@@ -1,0 +1,619 @@
+AWSTATS DATA FILE 6.6 (build 1.887)
+# If you remove this file, all statistics for date 201209 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2540                
+POS_VISITOR 12457               
+POS_DAY 13854               
+POS_DOMAIN 3308                
+POS_LOGIN 3661                
+POS_ROBOT 3816                
+POS_WORMS 4160                
+POS_EMAILSENDER 4291                
+POS_EMAILRECEIVER 4434                
+POS_SESSION 14191               
+POS_SIDER 14387               
+POS_FILETYPES 4569                
+POS_OS 4885                
+POS_BROWSER 5015                
+POS_SCREENSIZE 5263                
+POS_UNKNOWNREFERER 5337                
+POS_UNKNOWNREFERERBROWSER 5533                
+POS_ORIGIN 5675                
+POS_SEREFERRALS 5816                
+POS_PAGEREFS 5971                
+POS_SEARCHWORDS 6250                
+POS_KEYWORDS 6402                
+POS_MISC 2204                
+POS_ERRORS 6461                
+POS_CLUSTER 3517                
+POS_SIDER_404 6618                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20121001001107 77 19399 69736677959
+FirstTime 20120902075658
+LastTime 20120928213955
+LastUpdate 20121001033943 77 0 76 0 0
+TotalVisits 37                  
+TotalUnique 27                  
+MonthHostsKnown 15                  
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 10 58712 63 72 295146
+1 3 3 10548 56 70 453409
+2 9 9 125182 44 47 1086733
+3 1 3 56134 42 47 1240018
+4 7 7 33977 56 66 604489
+5 0 0 0 56 74 685584
+6 15 110 1957425 58 60 622112
+7 8 80 1593553 42 59 619009
+8 0 0 0 38 40 173882
+9 6 15 186818 38 47 288738
+10 2 39 1467391 48 71 442966
+11 1 7 94820 47 65 668077
+12 134 584 7519015 88 146 761066
+13 6 189 3470906 41 91 347631
+14 5 5 99344 45 45 186294
+15 819 819 10694421 189 202 1541018
+16 393 393 6253588 72 79 462533
+17 1 6 25045 33 35 157525
+18 0 0 0 53 55 5010319
+19 0 0 0 49 50 142516
+20 1 1 720896 66 68 2016385
+21 2 2 14707 58 60 158393
+22 2 5 13186 44 49 226856
+23 0 0 0 48 50 119439
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+net 1214 1217 16957982
+ip 188 1012 16613598
+hu 6 18 335938
+com 6 11 147645
+fi 4 13 181166
+de 2 2 14707
+fr 1 1 9450
+in 1 12 98074
+ru 1 1 37108
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+baiduspider 573 2224973 20120930234859 0
+googlebot 491 11118450 20120930125249 0
+\wbot[\/\-] 22 56625 20120926162854 0
+exabot 5 12793 20120922210426 0
+java 1 576 20120924003849 0
+netcraft 1 6237 20120909004239 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+css 73 134522 0 0
+mp3 6 2757 0 0
+png 219 4750272 0 0
+ttf 1 58300 0 0
+pdf 2 720896 0 0
+htm 12 53773 0 0
+aspx 1241 17616118 0 0
+txt 100 62000 0 0
+swf 15 220211 0 0
+php 1 1015 0 0
+html 59 209636 0 0
+jpg 376 9131562 0 0
+js 90 1240992 0 0
+axd 1 5577 0 0
+gif 91 188037 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+macosx 17
+winme 2
+winxp 979
+winlong 33
+win2003 3
+winnt 166
+win2000 2
+Unknown 1065
+linux 20
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 15
+msie8.0 149
+msie6.0 13
+firefox13.0.1 93
+firefox2.0.0.20 1
+firefox6.0.2 4
+mozilla 1063
+msie7.0 32
+opera 4
+firefox6.0 2
+firefox10.0.6 18
+msie9.0 1
+Unknown 2
+firefox15.0.1 869
+safari 35
+firefox11.0 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+YahooCacheSystem 20120906135450
+PopScreenBot 20120904033605
+Mozilla/4.0_(compatible;_Synapse) 20120924160317
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+YahooCacheSystem 20120906135450
+PopScreenBot 20120904033605
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1275 1277
+From1 0 0
+From2 1 1
+From3 2 2
+From4 145 1007
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://www.webstatschecker.com/stats/domain/erlsindia.co.in 1 1
+http://dsfoundation.wordpress.com/2012/06/20/erls-corporation/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 1 5652
+302 46 20302
+206 10 1801325
+400 1 2736
+500 125 1472312
+404 372 1588157
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 110
+/edn/images/main_bg.jpg 4 http://www.erlsindia.co.in/edn/style.css
+/qa/windows/cpp/c++_coding_standards.pdf 1 -
+/Dev-standards/linux/doc/requirements/req6594.aspx 1 -
+/robots.txt 98 -
+/dlpage.css 2 http://www.erlsindia.co.in/
+/Products/images/displayroom/photo6.jpg 3 http://www.erlsindia.co.in/Products/default.aspx
+/media/WheelsOfSteel/tunes/Ill.Gates_-_Scratchdisc.jpg 2 http://www.erlsindia.co.in/media/WheelsOfSteel/
+/qa/linux/doc/requirements/req3146.aspx 1 -
+/Products/images/displayroom/photo1.jpg 4 http://www.erlsindia.co.in/Products/default.aspx
+/validator/schema.aspx 8 -
+/doctor/photogallery/nitu/data/images1/p_0023.jpg 1 http://erlsindia.co.in/doctor/photogallery/nitu/nitu.html
+/privacypolicy.aspx 8 -
+/Check/check/Network.aspx 1 -
+/ProductList/product-E.txt 4 -
+/career/images/displayroom/photo5.jpg 1 -
+/doctor/dream/dreams.aspx 1 -
+/dashboard/ajax/StartmenuContent.html 6 http://www.erlsindia.co.in/dashboard.aspx
+/hogzilla/nav_spr.PNG 1 http://www.erlsindia.co.in/hogzilla/default.aspx
+/school/Euopl-calender.aspx 8 -
+/Check/check/CreditExperiments.aspx 1 -
+/qa/linux/doc/requirements/req6587.aspx 3 -
+/Dev-standards/linux/doc/requirements/req3143.aspx 1 -
+/qa-standards/windows/Cpp/C++_coding_standards.pdf 1 -
+/Dev-standards/linux/doc/requirements/req3142.aspx 1 -
+/school/images/end.gif 4 http://www.erlsindia.co.in/school/educationstyle.css
+/search 4 -
+/Check/check/SystemCheck.aspx 1 -
+/Check/check/AboutErls.aspx 3 -
+/drdre/login.aspx 8 -
+/qa/linux/doc/requirements/req5096.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5972.aspx 2 -
+/qa/linux/doc/requirements/req3145.aspx 2 -
+/qa/blogs.aspx 1 -
+/Dev-standards/linux/doc/requirements/req6592.aspx 1 -
+/qa/linux/default.aspxindex.php 1 http://www.erlsindia.co.in/qa/linux/default.aspxindex.php
+/Dev-standards/linux/doc/requirements/req3147.aspx 1 -
+/Products/images/displayroom/photo4.jpg 4 http://www.erlsindia.co.in/Products/default.aspx
+/career/images/displayroom/photo1.jpg 1 -
+/Dev-standards/linux/doc/requirements/req6598.aspx 1 -
+/career/images/displayroom/photo4.jpg 1 -
+/Dev-standards/linux/doc/requirements/req5098.aspx 2 -
+/engine/images/top.gif 15 http://www.erlsindia.co.in/engine/erlssearchstyle.css
+/Dev-standards/linux/doc/requirements/req4568.aspx 1 -
+/doctor/photogallery/dnitu/data/images1/p_0030.jpg 7 http://erlsindia.co.in/doctor/photogallery/dnitu/dnitu.html
+/ajaxImage.jpg 1 http://www.erlsindia.co.in/
+/qa/linux/doc/requirements/req1588.aspx 3 -
+/sms/index-14.htm 5 -
+/images/white-arrow.gif 2 http://erlsindia.co.in/login.aspx
+/Dev-standards/linux/doc/requirements/req4865.aspx 1 -
+/qa/linux/doc/requirements/req6599.aspx 1 -
+/career/images/displayroom/photo6.jpg 1 -
+/tutorials/default.aspx 1 -
+/qa/linux/doc/requirements/req5097.aspx 1 -
+/qa/linux/doc/requirements/req3147.aspx 1 -
+/Check/check/Html5Check.aspx 1 -
+/qa/linux/doc/requirements/req6595.aspx 2 -
+/qa/linux/doc/requirements/req6588.aspx 2 -
+/Dev-standards/linux/doc/requirements/req5099.aspx 2 -
+/ProductList/product-K.txt 4 -
+/Products/images/displayroom/photo2.jpg 4 http://www.erlsindia.co.in/Products/default.aspx
+/qa-standards/windows/bib/default.aspx 1 -
+/qa-standards/default.aspx 12 -
+/media/WheelsOfSteel/tunes/Kraddy_-_Into_The_Labyrinth.jpg 3 http://www.erlsindia.co.in/media/WheelsOfSteel/
+/doctor/photogallery/dnitu/ddnitu.html 1 -
+/webarchives/archives/css-dock.7z 1 -
+/Check/check/WebGLCheck.aspx 2 -
+/qa/linux/doc/requirements/req20873.aspx 3 -
+/doctor/photogallery/nitu/data/thumbnails1/p_0023.jpg 1 http://erlsindia.co.in/doctor/photogallery/nitu/nitu.html
+/Dev-standards/linux/doc/requirements/req3144.aspx 1 -
+/doctor/photogallery/nitu/data/thumbnails1/p_0021.jpg 1 http://erlsindia.co.in/doctor/photogallery/nitu/nitu.html
+/tools/dlpage/res/chrome/images/chrome-16.png 1 -
+/qa/Officelayoutstandard.aspx 4 -
+/ProductList/commission/default.aspx 7 -
+/qa/linux/doc/requirements/req5098.aspx 1 -
+/Products/images/displayroom/photo5.jpg 3 http://www.erlsindia.co.in/Products/default.aspx
+/privacy_glossary.aspx 8 -
+/qa/linux/doc/requirements/req3142.aspx 1 -
+/doctor/dreams/ 1 -
+/goog.css 2 http://www.erlsindia.co.in/
+/webarchives/archives/Ultimatebrowserdetectingjavascript.7z 1 -
+/accounts/ 1 -
+/qa/linux/doc/requirements/req6594.aspx 1 -
+/doctor/dreams/dreams.aspx 1 -
+/qa/linux/doc/requirements/req5972.aspx 1 -
+/career/images/displayroom/photo2.jpg 1 -
+/qa/linux/doc/requirements/req6598.aspx 2 -
+/doctor/dreams/dream.aspx 1 -
+/Dev-standards/windows/bib/default.aspx 1 -
+/sms/TOS.htm 5 -
+/Dev-standards/linux/doc/requirements/req3145.aspx 1 -
+/school/Euopl-programs.aspx 8 -
+/qa/windows/bib/default.aspx 1 -
+/qa/linux/doc/requirements/req2872.aspx 1 -
+/images/circle_animation.gif 2 http://www.erlsindia.co.in/
+/Dev-standards/linux/doc/requirements/req6595.aspx 1 -
+/css/jquery-ui-1.8.16.custom.css 2 http://erlsindia.co.in/loading.aspx
+/Dev-standards/linux/doc/requirements/req6599.aspx 1 -
+/Check/check/ISEventSupported.aspx 2 -
+/career/images/displayroom/photo3.jpg 1 -
+/images/logo.jpg 6 http://www.erlsindia.co.in/profilestyle.css
+/Products/images/displayroom/photo3.jpg 3 http://www.erlsindia.co.in/Products/default.aspx
+/admin/erlsadmin.aspx 7 -
+/Check/check/ErlsCheck.aspx 2 -
+/qa/linux/doc/requirements/req3144.aspx 2 -
+/qa/linux/doc/requirements/req4568.aspx 2 -
+/erlsgames/Game/cellout/no-text-7467240866423200293 1 -
+/check/html5test/PUSAB___.woff 2 http://www.erlsindia.co.in/check/html5test/main.css
+/qa/seleniumhQ.com 1 -
+/qa/linux/doc/requirements/req1589.aspx 1 -
+/Dev-standards/linux/doc/requirements/req5097.aspx 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 29
+ip-94-242-255-4.as5577.net 1212 1212 16948009 20120924160317
+202.9.91.130 143 961 15423309 20120928124932
+38.99.82.213 13 13 113764 20120924043350
+188.143.232.211 10 10 198688 20120914071854
+38.99.82.233 6 6 32487 20120924044116
+193-68-36-103.pool.invitel.hu 6 18 335938 20120916124401
+aa-eduroam-150-143.abo.fi 4 13 181166 20120920095541
+38.99.82.214 4 4 18885 20120924063421
+38.99.82.222 3 3 25996 20120924005522
+220.181.51.74 2 2 5652 20120926094937
+46.229.160.208 1 1 0 20120904021538
+ycar3.mobile.sp1.yahoo.com 1 1 6218 20120906135450
+msnbot-65-52-111-22.search.msn.com 1 3 4797 20120904102956
+58.213.46.202 1 1 19864 20120912124038
+abcd-ovh2.yasni.de 2 2 14707 20120928213955
+64.91.232.42 0 1 3515 
+94.19.12.244.pool.sknt.ru 1 1 37108 20120910020957
+msnbot-65-52-111-66.search.msn.com 1 3 13412 20120910002623
+server4.prab.com 1 1 37108 20120920061400
+218.94.1.72 1 1 19845 20120902075658
+123.237.73.51 1 1 720896 20120928204457
+abts-kk-dynamic-090.84.167.122.airtelbroadband.in 1 12 98074 20120924123907
+220.181.51.81 2 2 5652 20120926094928
+120.88.189.28 1 6 25045 20120914175144
+10-209-245-216.reverse.lstn.net 1 1 6237 20120914032116
+server3.fabi3.com 2 2 39728 20120916065417
+c-67-164-93-118.hsd1.ca.comcast.net 1 4 3736 20120920221034
+sd-36337.dedibox.fr 1 1 9450 20120914221057
+tide500.microsoft.com 0 1 46382 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20120902 1 1 19845 1
+20120904 7 10 107656 3
+20120906 1 1 6218 1
+20120908 2 2 5652 2
+20120910 2 4 50520 2
+20120912 1 1 19864 1
+20120914 8 14 186458 4
+20120916 8 20 375666 2
+20120920 131 520 6175042 4
+20120924 1239 1250 17237215 9
+20120926 8 325 6979392 4
+20120928 15 139 3232140 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 1
+5mn-15mn 4
+15mn-30mn 6
+30s-2mn 2
+0s-30s 23
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 183
+/freelance.aspx 56 4835746 0 0
+/school/Essie-Frenchisee.aspx 36 929026 0 1
+/home.aspx 33 203171 0 0
+/engine/default.aspx 22 74996 1 0
+/school/education.aspx 22 59673 1 0
+/sorry.aspx 20 32786 0 0
+/cooking/home.aspx 20 18531 2 2
+/ 19 94452 9 6
+/engine/search.aspx 17 70436 0 0
+/erlsindex.aspx 15 55291 0 0
+/humanCaptcha.aspx 9 14517 0 0
+/download/default.aspx 8 19330 0 0
+/qa/linux/default.aspx 13 247617 4 4
+/rssfeed/default.aspx 8 20810 0 0
+/innovations/default.aspx 8 15674 0 0
+/news.aspx 10 31185 0 0
+/termuse.aspx 10 71618 0 1
+/index.aspx 3 5466 0 0
+/erlsglossary.aspx 8 71698 0 0
+/news/default.aspx 8 18042 0 0
+/secqtinstiens.aspx 8 42970 0 0
+/ProductList/product-R.txt 4 2104 0 0
+/commission/alccfaq.aspx 10 34750 0 2
+/compilers/default.aspx 9 22848 0 0
+/qa/linux/requirement.aspx 8 76330 0 0
+/career/career.aspx 8 64434 0 0
+/qa/Pdf/SeleniumDocumentation.pdf 2 720896 2 2
+/ProductList/product-G.txt 4 2144 0 0
+/qa/linux/faq.aspx 8 76250 0 0
+/media/Speakker/playlist.php 1 1015 0 0
+/check/BrowserCheck/default.aspx 1 2925 0 0
+/qa/windows/cmetrics/default.aspx 8 117234 0 0
+/doctor/dream/dream.aspx 1 2012 0 1
+/Check/WEbGLCheck.htm 1 4897 0 0
+/doctor/photogallery/dnitu/dnitu.html 2 5182 0 0
+/services.aspx 8 46194 0 0
+/qa/windows/indexbib.aspx 8 75858 0 0
+/media/WheelsOfSteel/utils/soundcloud_fetch_set/ 3 1032 0 0
+/school/essie.aspx 9 37591 0 0
+/shopping/Login.aspx 8 108753 0 0
+/check/html5test/index.html 1 20445 0 0
+/Product-review/Default.aspx 8 12722 0 0
+/products.aspx 9 69271 0 1
+/check/html5test/PUSAB___.ttf 1 58300 0 1
+/school/Esqat-programs.aspx 8 41562 0 0
+/media/Speakker/data/06.mp3 1 0 0 0
+/edn/default.aspx 14 65230 0 0
+/shopping/Shop/ShoppingCart.aspx 8 21436 0 0
+/erlsfaq.aspx 9 125001 1 0
+/qa/windows/cpp/default.aspx 8 361138 0 0
+/qa/manual.aspx 8 79610 0 0
+/widgetlab/default.aspx 9 47602 0 0
+/Check/BrowserCheck.htm 6 26923 0 0
+/ProductList/product-T.txt 4 2364 0 0
+/contects.aspx 13 38200 0 0
+/Interpretation/default.aspx 10 101820 0 0
+/tutorials/default.aspx 8 18458 0 0
+/sms/erlssms.aspx 15 274210 0 0
+/qa/linux/cppstnd.aspx 8 79482 0 0
+/et.aspx 9 52744 1 1
+/social.aspx 8 22266 0 0
+/erlsgames/default.aspx 9 98407 0 0
+/fax/default.aspx 8 129432 0 0
+/ProductList/product-A.txt 4 2164 0 0
+/school/euopl.aspx 10 39010 0 0
+/partners.aspx 10 42158 1 1
+/erlsoverview.aspx 12 78414 0 0
+/career/applyerls.aspx 8 691658 0 0
+/creation.aspx 8 25258 0 0
+/qa/automated.aspx 8 86546 0 0
+/freelancers.aspx 8 22698 0 0
+/media/Speakker/data/08.mp3 1 0 0 0
+/termsofservices.aspx 8 314130 0 0
+/Check/ErlsCheck.htm 1 4896 0 1
+/horo/wifename.aspx 8 27571 0 0
+/infrastructure/default.aspx 9 77533 1 0
+/more.aspx 10 282271 0 0
+/erlsgames/spaceinvador.aspx 9 24338 0 0
+/locateerls.aspx 8 18082 0 0
+/media/WheelsOfSteel/utils/waveform/ 8 2408 0 0
+/engine/booksearch.aspx 11 48395 0 0
+/qa/windows/default.aspx 8 75122 0 0
+/Products/default.aspx 10 64822 0 0
+/card/default.aspx 8 41886 0 0
+/corporatepolicy.aspx 8 107834 0 0
+/school/calender.aspx 8 30450 0 0
+/epress/default.aspx 9 33966 0 0
+/school/Essie-calender.aspx 8 32738 0 0
+/validator/default.aspx 11 24720 0 0
+/ProductList/product-U.txt 4 2388 0 0
+/media/WheelsOfSteel/audio/null.mp3 1 2757 0 0
+/career/default.aspx 14 112621 0 0
+/school/Essie-programs.aspx 8 41522 0 0
+/school/esqat.aspx 10 37799 0 0
+/ProductList/product-O.txt 4 2124 0 0
+/validator/xpath.aspx 13 60274 0 0
+/iFrameContent/WindowsUI.html 1 1242 1 0
+/erlsblogs.aspx 10 19828 1 0
+/validator/dtd.aspx 12 57022 0 0
+/ProductList/product-N.txt 4 2340 0 0
+/login.aspx 2 19275 0 1
+/corporate/default.aspx 9 9459 0 0
+/hosting.aspx 8 148002 0 0
+/charity.aspx 13 75809 0 0
+/ajax/StartmenuContent.html 2 5138 0 1
+/qa/windows/cpp/CppCodingStandard.aspx 8 1135226 0 0
+/ProductList/product-F.txt 4 2360 0 0
+/loading.aspx 1 1379 0 0
+/qa/linux/oostnd.aspx 8 78458 0 0
+/qa/default.aspx 9 98719 0 0
+/corporate/people.aspx 8 8530 0 0
+/journal/journal.aspx 8 29010 0 0
+/ProductList/product-D.txt 4 3176 0 0
+/media/default.aspx 2 1918 0 0
+/media/WheelsOfSteel/utils/soundcloud_hot_tracks/ 3 1032 0 0
+/media/Speakker/ 6 6780 0 0
+/widgetlab/time.aspx 8 23148 0 0
+/Check/Html5Check.htm 2 7258 0 0
+/ProductList/product-Z.txt 4 2092 0 0
+/dashboard.aspx 4 11890 3 0
+/compilers/Examples/CodeEdit/CodeEdit.aspx 8 15434 0 0
+/media/WheelsOfSteel/audio/endnoise-2.mp3 1 0 0 0
+/doctor/login.aspx 1 3560 0 1
+/ProductList/product-Y.txt 4 2584 0 0
+/profile.aspx 13 68301 1 3
+/shopping/default.aspx 8 19650 0 0
+/ProductList/product-P.txt 4 2840 0 0
+/media/WheelsOfSteel/ 3 43452 0 0
+/standards/standards.aspx 11 24794 0 0
+/widgetlab/photo.aspx 8 8530 0 0
+/Check/IsEventCheck.htm 1 4903 1 0
+/Check/AboutErls.htm 1 4896 0 1
+/WebResource.axd 1 5577 0 0
+/ProductList/product-Q.txt 4 2108 0 0
+/commission/default.aspx 10 42670 0 0
+/doctor/photogallery/nitu/nitu.html 1 1809 0 1
+/ProductList/product-J.txt 4 2628 0 0
+/ProductList/product-H.txt 4 2932 0 0
+/qa/commission.aspx 8 73362 0 0
+/hogzilla/default.aspx 8 50778 0 0
+/ProductList/product-V.txt 4 2092 0 0
+/webarchives/default.aspx 8 21066 0 0
+/epress/ 5 18985 0 0
+/copyright.aspx 9 36223 0 1
+/qa/windows/cpppractice.aspx 8 369410 0 0
+/erlsgames/moregames.aspx 9 89567 0 0
+/policy.aspx 8 21722 0 0
+/ProductList/product-M.txt 4 2348 0 0
+/ProductList/product-I.txt 4 2104 0 0
+/training.aspx 8 63938 0 0
+/media/Speakker/data/05.mp3 1 0 0 0
+/school/Esqat-calender.aspx 8 32082 0 0
+/qa/windows/cppstyle.aspx 8 740650 0 0
+/guestlogin.aspx 8 116112 0 0
+/Shopping/default.aspx 2 3040 0 0
+/ProductList/product-0-9.txt 4 2068 0 0
+/ProductList/product-W.txt 4 2692 0 0
+/Dev-standards/default.aspx 9 102059 0 0
+/commission/support.aspx 10 813628 2 0
+/ProductList/product-C.txt 4 4336 0 0
+/horo/default.aspx 8 233852 0 0
+/erlsgames/TomHallsGame.aspx 8 36290 0 0
+/Booksonline.aspx 8 76442 0 0
+/qa/linux/process/default.aspx 2 74216 2 2
+/Magazine/Default.aspx 8 29122 0 0
+/Shutdown.aspx 1 2065 0 0
+/qa/windows/cstyle/default.aspx 8 108898 0 0
+/projects/default.aspx 8 20906 0 0
+/qa/linux/develop.aspx 8 82946 0 0
+/webarchives/browserdetect.aspx 8 17866 0 0
+/SiteMap/Examples/RGraph/RGraph.html 5 7679 0 0
+/dmail/default.aspx 9 120076 0 0
+/media/Speakker/data/01.mp3 1 0 0 0
+/ProductList/product-L.txt 4 2392 0 0
+/erlspatents.aspx 8 37210 0 0
+/ProductList/product-B.txt 4 2376 0 0
+/software.aspx 9 50704 1 0
+/webarchives/docks.aspx 8 20330 0 0
+/ProductList/product-X.txt 4 2344 0 0
+/qa/linux/process.aspx 8 78602 0 0
+/ProductList/product-S.txt 4 2900 0 0
+/festivals/default.aspx 8 30562 0 0
+/cprofile.aspx 13 577613 2 2
+END_SIDER

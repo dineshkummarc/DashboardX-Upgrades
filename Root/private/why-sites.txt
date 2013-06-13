@@ -1,0 +1,12 @@
+
+
+Main Domain :-
+Site -  erlsindia.co.in
+
+Sub Domains :-
+Site1 - chat.erlsindia.co.in
+Site2 - doctorx.erlsindia.co.in
+Site3 - dashboardx.erlsindia.co.in
+Site4 - dsf.erlsindia.co.in
+Site5 - alphabets.erlsindia.co.in
+Site6 - letters.erlsindia.co.in

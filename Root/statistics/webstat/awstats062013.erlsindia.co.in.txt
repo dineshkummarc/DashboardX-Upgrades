@@ -1,0 +1,350 @@
+AWSTATS DATA FILE 7.1.1 (build 1.989)
+# If you remove this file, all statistics for date 201306 will be lost/reset.
+# Last config file used to build this data file was D:\inetpub\vhosts\erlsindia.co.in\statistics\webstat\AWStats\cgi-bin/awstats.erlsindia.co.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2053                
+POS_TIME 2724                
+POS_VISITOR 9539                
+POS_DAY 10114               
+POS_DOMAIN 3374                
+POS_LOGIN 3655                
+POS_ROBOT 3810                
+POS_WORMS 4230                
+POS_EMAILSENDER 4361                
+POS_EMAILRECEIVER 4504                
+POS_SESSION 10218               
+POS_SIDER 10395               
+POS_FILETYPES 4639                
+POS_DOWNLOADS 4852                
+POS_OS 5626                
+POS_BROWSER 5742                
+POS_SCREENSIZE 5909                
+POS_UNKNOWNREFERER 5983                
+POS_UNKNOWNREFERERBROWSER 6070                
+POS_ORIGIN 6152                
+POS_SEREFERRALS 6284                
+POS_PAGEREFS 6439                
+POS_SEARCHWORDS 6661                
+POS_KEYWORDS 6813                
+POS_MISC 2388                
+POS_ERRORS 6872                
+POS_CLUSTER 3511                
+POS_SIDER_404 7007                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130613044939 5 334 60847162297
+FirstTime 20130601043645
+LastTime 20130603120000
+LastUpdate 20130613061024 5 0 1 0 1
+TotalVisits 6                   
+TotalUnique 5                   
+MonthHostsKnown 5                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 3 60637
+1 0 0 0 26 29 203492
+2 0 0 0 2 4 129823
+3 0 0 0 5 6 59275
+4 2 6 73047 13 21 114500
+5 1 1 13857 4 7 27191
+6 0 0 0 6 7 159128
+7 0 0 0 5 9 331708
+8 0 0 0 7 16 701849
+9 9 41 237366 13 37 258335
+10 0 1 2684546 6 8 82363
+11 1 15 25689 9 15 39798
+12 1 1 2329 11 18 150649
+13 0 1 1720 8 11 378914
+14 0 0 0 13 27 97000
+15 0 0 0 6 39 1793041
+16 3 11 112044 18 26 294028
+17 0 0 0 9 10 29959
+18 0 0 0 38 44 232499
+19 0 0 0 9 11 105197
+20 0 0 0 3 3 12044
+21 0 0 0 7 8 70809
+22 0 1 256 12 14 152665
+23 0 0 0 9 11 32611
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+in 11 57 265384
+ip 5 18 2869637
+com 1 1 13857
+de 0 1 256
+net 0 1 1720
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 139 1828675 20130604232440 0
+baiduspider 53 1137902 20130613044939 0
+bingpreview 32 1777996 20130603151840 0
+msnbot 30 108891 20130601185943 0
+bingbot 15 50799 20130603141820 0
+spider 2 21952 20130604134706 0
+surveybot 1 10979 20130603044533 0
+netcraft 1 39144 20130608002208 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 9 9322 0 0
+pdf 2 2684802 0 0
+htm 2 4661 0 0
+aspx 10 32917 0 0
+swf 2 4774 0 0
+html 5 7447 0 0
+jpg 24 234057 0 0
+js 12 108617 0 0
+gif 12 64257 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 15
+/qa/windows/cstyle/portableC.pdf 1 0 263432
+/qa/windows/cstyle/indhill-annot.pdf 1 0 53413
+/Dev-standards/windows/cstyle/ifdefs.pdf 1 0 56111
+/qa/windows/cstyle/indhill-cstyle.pdf 1 0 107073
+/ProductList/product-P.txt 1 0 648
+/qa/windows/cstyle/ifdefs.pdf 1 0 56111
+/qa/windows/cstyle/ten-commandments.pdf 1 0 4025
+/qa/windows/cstyle/pikestyle.pdf 1 0 20627
+/Dev-standards/windows/cstyle/indhill-cstyle.pdf 1 0 107073
+/Dev-standards/windows/cstyle/portableC.pdf 1 0 263433
+/Dev-standards/windows/cstyle/ten-commandments.pdf 1 0 4024
+/QA-standards/windows/cstyle/indhill-cstyle.pdf 1 0 107073
+/qa/Pdf/SeleniumDocumentation.pdf 1 0 2684546
+/QA/linux/process/process.pdf 1 0 256
+/qa/windows/cstyle/Baldwin-inspect.pdf 1 0 41479
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+linuxandroid 11 3
+winlong 57 11
+winnt 1 0
+win7 9 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+firefox21.0 57 11
+msie8.0 1 0
+chrome28.0.1500.29 1 0
+chrome27.0.1453.94 6 2
+firefox5.0 1 1
+msie4.01 1 0
+android 11 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 9 22
+From1 0 0
+From2 0 1
+From3 1 2
+From4 7 53
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://m.facebook.com/l.php 1 1
+http://users8.jabry.com/dsfoundation/ 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 2 16181
+206 5 49217
+500 3 63335
+404 91 406465
+301 1 375
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 47
+/media/html5-audio-player/8 1 -
+/career/images/displayroom/photo6.jpg 1 http://erlsindia.co.in/career/default.aspx
+/qa-standards/linux/doc/requirements/req6595.aspx 1 -
+/rssfeed/default.aspx 1 -
+/robots.txt 20 -
+/Check/check/Html5Check.aspx 3 http://www.erlsindia.co.in/Check/Html5Check.htm
+/copyright.aspx 1 -
+/news.aspx 2 -
+/festivals/images/archives/pic.jpg 1 -
+/Fancybox/SimpleModal.js 3 http://erlsindia.co.in/corporate/festivals/Default.aspx
+/Dev-standards/corporate/blogs.aspx 1 -
+/erlsglossary.aspx 4 -
+/media/html5-audio-player/10 1 -
+/media/html5-audio-player/9 1 -
+/training.aspx 2 -
+/qa/Officelayoutstandard.aspx 2 -
+/Check/check/Network.aspx 1 http://www.erlsindia.co.in/Check/NetworkCheck.htm
+/career/images/displayroom/photo5.jpg 1 http://erlsindia.co.in/career/default.aspx
+/Check/check/CreditExperiments.aspx 1 http://www.erlsindia.co.in/Check/creditExperiments.htm
+/media/html5-audio-player/1 1 -
+/media/html5-audio-player/2 1 -
+/career/images/displayroom/photo2.jpg 2 -
+/Rssfeed/Default.aspx 1 -
+/dmail/SendEmail.aspx 1 -
+/media/html5-audio-player/5 1 -
+/profile.aspx 3 -
+/qa-standards/linux/doc/requirements/req5097.aspx 1 -
+/media/html5-audio-player/3 1 -
+/services.aspx 1 -
+/Check/check/SystemCheck.aspx 2 http://www.erlsindia.co.in/Check/SystemCheck.htm
+/Check/check/AboutErls.aspx 1 http://www.erlsindia.co.in/Check/AboutErls.htm
+/corporates/ 2 -
+/infrastructure/ 2 -
+/media/html5-audio-player/6 1 -
+/qa-standards/linux/doc/requirements/req3143.aspx 1 -
+/qa/linux/doc/requirements/req3145.aspx 2 -
+/Check/check/ISEventSupported.aspx 2 http://www.erlsindia.co.in/Check/IsEventCheck.htm
+/career/images/displayroom/photo3.jpg 1 http://erlsindia.co.in/career/default.aspx
+/Check/check/BrowserCheck.aspx 2 http://www.erlsindia.co.in/Check/BrowserCheck.htm
+/images/logo.jpg 4 http://erlsindia.co.in/corporate/profilestyle.css
+/media/FlashMediaMp3Player/undefined 2 -
+/career/images/displayroom/photo1.jpg 1 http://erlsindia.co.in/career/default.aspx
+/media/html5-audio-player/4 1 -
+/career/images/displayroom/photo4.jpg 1 http://erlsindia.co.in/career/default.aspx
+/Fancybox/jquery-1.8.3.min.js 3 http://erlsindia.co.in/corporate/festivals/Default.aspx
+/contects.aspx 1 -
+/media/html5-audio-player/7 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+115.111.122.13.static-delhi.vsnl.net.in 8 43 163029 20130603120000
+42.83.85.104 3 5 30598 20130601162419
+abts-north-static-249.240.160.122.airtelbroadband.in 3 14 102355 20130603094541
+182.186.6.25 2 6 73047 20130601044414
+dagmar.corp.linkedin.com 1 1 13857 20130603053306
+202.131.103.186 0 1 2684546 
+static.36.121.4.46.clients.your-server.de 0 1 256 
+static-71-126-253-65.bstnma.fios.verizon.net 0 1 1720 
+42.83.85.107 0 1 3405 
+42.83.85.108 0 2 3082 
+42.83.85.106 0 2 45941 
+42.83.85.109 0 1 29018 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20130601 5 17 185091 2
+20130603 12 61 2965763 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+2mn-5mn 1
+30s-2mn 3
+0s-30s 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/corporate/festivals/ 3 5181 0 1
+/corporate/secqtinstiens.aspx 2 4662 0 0
+/corporate/profile.aspx 2 5166 0 2
+/admin/ 2 4733 2 0
+/corporate/policy.aspx 1 1447 0 0
+/career/default.aspx 1 2472 1 0
+/DrDennoS/doctor/Marriage1/confirm_0004_Cast_x264.htm 1 2329 0 1
+/ 1 0 0 1
+/corporate/ 1 987 1 0
+/corporate/services.aspx 1 1859 0 0
+/DrDennoS/doctor/Marriage1/confirm_0003_Intro_x264.htm 1 2332 1 0
+/corporate/cprofile.aspx 1 13857 1 1
+END_SIDER
