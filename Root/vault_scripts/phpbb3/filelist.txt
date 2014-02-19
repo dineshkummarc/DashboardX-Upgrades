@@ -1018,3 +1018,4 @@
 \styles\subsilver2\theme\images\no_avatar.gif
 \styles\subsilver2\theme\images\spacer.gif
 \styles\subsilver2\theme\images\whosonline.gif
+

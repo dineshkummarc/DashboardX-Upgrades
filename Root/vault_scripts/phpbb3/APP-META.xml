@@ -42,24 +42,24 @@
 	</version>
     <version version="3.0.4" release="1">
       <entry>
-since 3.0.3: 
-# [Sec] Fixed an issue where deactivated accounts could be re-activated without the required privileges. (Reported by Jorick)
-# [Sec] Ask for forum password if post within passworded forum quoted in private message. (Reported by nickvergessen)
-since 3.0.2:
-# [Feature] Allow limited inheritance for template sets.
-# [Feature] Allow hard disabling of the template editor.
-# [Feature] Ability to define nullar/singular/plural language entries
-# [Feature] Added the possibility to force user posts put in queue if post count is lower than an admin defined value. Guest posting is not affected by this setting.
-# [Feature] Added 'max_recipients' setting for private messages. This setting allows admins to define the maximum number of recipients per private message with a board-wide setting and a group-specific setting.
-# [Feature] Added new permission setting for sending private messages to groups. Now there are two permissions to define sending private messages to multiple recipients and private messages to groups.
-# [Feature] Allow specific connection to different server for jabber functionality by providing a valid JID as username. This also allows the use of talk.google.com as jabber server with gmail.com JIDs. (Bug #14989)
-# [Sec Precaution] Stricter validation of the HTTP_HOST header (Thanks to Techie-Micheal et al for pointing out possible issues in derived code)
-since 3.0.1:
-# [Feature] Added optional referer validation of POST requests as additional CSRF protection.
-# [Feature] Added optional stricter upload validation to avoid mime sniffing in addition to the safeguards provided by file.php. (thanks to Nicolas Grekas for compiling the list).
-# [Feature] Streamlined banning via the MCP by adding a ban link to the user profile. Also pre-fills ban fields as far as possible.
-# [Feature] Added ACP logout to reset an admin session.
-# [Sec] Only allow urls gone through redirect() being used within login_box(). (thanks nookieman)
+		since 3.0.3: 
+		# [Sec] Fixed an issue where deactivated accounts could be re-activated without the required privileges. (Reported by Jorick)
+		# [Sec] Ask for forum password if post within passworded forum quoted in private message. (Reported by nickvergessen)
+		since 3.0.2:
+		# [Feature] Allow limited inheritance for template sets.
+		# [Feature] Allow hard disabling of the template editor.
+		# [Feature] Ability to define nullar/singular/plural language entries
+		# [Feature] Added the possibility to force user posts put in queue if post count is lower than an admin defined value. Guest posting is not affected by this setting.
+		# [Feature] Added 'max_recipients' setting for private messages. This setting allows admins to define the maximum number of recipients per private message with a board-wide setting and a group-specific setting.
+		# [Feature] Added new permission setting for sending private messages to groups. Now there are two permissions to define sending private messages to multiple recipients and private messages to groups.
+		# [Feature] Allow specific connection to different server for jabber functionality by providing a valid JID as username. This also allows the use of talk.google.com as jabber server with gmail.com JIDs. (Bug #14989)
+		# [Sec Precaution] Stricter validation of the HTTP_HOST header (Thanks to Techie-Micheal et al for pointing out possible issues in derived code)
+		since 3.0.1:
+		# [Feature] Added optional referer validation of POST requests as additional CSRF protection.
+		# [Feature] Added optional stricter upload validation to avoid mime sniffing in addition to the safeguards provided by file.php. (thanks to Nicolas Grekas for compiling the list).
+		# [Feature] Streamlined banning via the MCP by adding a ban link to the user profile. Also pre-fills ban fields as far as possible.
+		# [Feature] Added ACP logout to reset an admin session.
+		# [Sec] Only allow urls gone through redirect() being used within login_box(). (thanks nookieman)
 	</entry>
     </version>
     <version version="3.0.0" release="9">
