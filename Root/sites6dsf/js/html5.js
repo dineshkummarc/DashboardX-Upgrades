@@ -1,4 +1,5 @@
 // Create new HTML5 elements ===================================================
+
 // -----------------------------------------------------------------------------
 // This script should load before any others. We want the new elements to be
 // parsed before pretty much anything happens.
