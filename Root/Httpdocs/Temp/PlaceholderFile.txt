@@ -1,0 +1,2 @@
+This file has been put here to ensure that the Application Installer creates this folder; it ignores empty folders.
+This file can be removed safely.
