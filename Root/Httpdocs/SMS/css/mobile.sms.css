@@ -1,0 +1,201 @@
+/* SMS specific styles */
+.mgc-screen img {
+  border: 1px solid #20C !important;
+}
+
+.icon strong {
+  background:url("sms-app-icons.png"/*tpa=http://www.google.co.in/mobile/sms/sms-app-icons.png*/) no-repeat;
+  margin: 0 0 -17px -44px !important;
+}
+
+.sms-search strong { background-position:0 0; }
+.sms-mail strong { background-position:0 -46px; }
+.sms-calendar strong { background-position:0 -84px; }
+.sms-voice strong { background-position:0 -128px; }
+.sms-blogger strong { background-position:0 -168px; }
+
+.cta-banner .sms-app {
+  background: url("sms-16.png"/*tpa=http://www.google.co.in/images/icons/product/sms-16.png*/) no-repeat;
+  padding: 0 0 0 20px;
+  text-align: left;
+}
+
+.haveAccount {
+  font-size:.9em;
+}
+
+.video-hero {
+  height: 285px;
+  width: 479px;
+}
+
+#appsList {
+  margin: 0 0 20px;
+}
+
+.features.apps li {
+  height:auto !important;
+  min-height:32px;
+  margin: 0 25px 15px 50px !important;
+  width: 380px !important;
+}
+
+.features.apps li p {
+  margin: 4px 0 0 !important;
+}
+
+.link-blocks {
+  margin:0 0 20px;
+}
+
+.link-blocks li {
+  background: #E8EEFA;
+  border: 1px solid #ddd;
+  display: inline;
+  margin: 0 10px 0 0;
+  padding: 5px 8px;
+}
+
+.list {
+  margin:0 1em 2em 1.25em;
+}
+
+.list li {
+  margin:0 0 0.5em;
+}
+
+/* SMS search Demo */
+#sms-demo-wrapper {
+  margin:0 0 20px;
+}
+
+#demo-commands {
+  display: inline;
+  float: left;
+  margin: 0;
+  width: 65%;
+}
+
+#demo-iframe {
+  display: inline;
+  float: right;
+  margin: 0;
+  width: 30%;
+}
+
+#demo {
+  margin:0 0 1em;
+}
+
+#sms-search-examples td,
+#sms-search-examples th {
+  padding: 0.3em 0.7em;
+  width: 140px;
+}
+
+.demosms-iframe {
+  border: 0;
+  width: 240px;
+  height: 440px;
+  overflow: hidden;
+}
+
+#demoframe {
+  height: 448px;
+  margin: -5px;
+  width: 248px;
+}
+
+#demo label {
+  font-weight: bold;
+}
+
+#searchTerm {
+  border: 1px solid #ccc;
+  border-bottom-color: #999;
+  border-right-color: #999;
+  margin: 0px 5px 0px 0px;
+  padding: 0.2em;
+  width: 200px;
+}
+
+#sms-search-commands li {
+  background: #eee;
+  border: 1px solid #ccc;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  display: inline-block;
+  float: left;
+  margin: 0 5px 1em 0;
+  padding: 15px 7px 15px 7px;
+  width: 173px;
+}
+
+#sms-search-commands .icon {
+  background: url("sms-search-feature-icons.jpg"/*tpa=http://www.google.co.in/mobile/sms/search/sms-search-feature-icons.jpg*/) no-repeat;
+  display: inline-block;
+  float: right;
+  height: 32px;
+  width: 33px;
+}
+
+#sms-search-commands #sports { background-position: 0 0; }
+#sms-search-commands #movies { background-position: -33px 0; }
+#sms-search-commands #local { background-position: -64px 0; }
+#sms-search-commands #definitions { background-position: -96px 0; }
+#sms-search-commands #stocks { background-position: -128px 0; }
+#sms-search-commands #news { background-position: -162px 0; }
+#sms-search-commands #web { background-position: -195px 0; }
+
+#more-sms-features {
+  clear: both;
+  margin: 1em 0;
+  overflow: hidden;
+  width: 100%;
+}
+
+#show-more {
+  background: url("expand_icon.png"/*tpa=http://www.google.co.in/mobile/sms/search/expand_icon.png*/) no-repeat;
+  clear: both;
+  display: block;
+  margin: 1em 0;
+  padding-left: 20px;
+}
+
+.sms-command span {
+  font-weight:bold;
+}
+
+/* Gmail SMS */
+#gmail-sms-steps {
+  margin: 0;
+  padding: 0;
+}
+
+#gmail-sms-steps li {
+  display: inline-block;
+  float: left;
+  margin: 0 1.2% 0 0;
+  position: relative;
+  text-align: center;
+  width: 24%;
+}
+
+#gmail-sms-steps .last {
+  margin: 0;
+}
+
+#gmail-sms-steps img {
+  height: 130px;
+  margin: 0 0 .5em;
+  width: 214px;
+}
+
+#gmail-sms-steps .last img {
+  border: 1px solid #ccc;
+}
+
+#gmail-sms-steps p {
+  text-align: left;
+}

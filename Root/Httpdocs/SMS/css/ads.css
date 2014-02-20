@@ -1,0 +1,39 @@
+#g-doc{
+  min-width: inherit;
+  width: 68em;
+}
+
+.adwords {
+  padding-right: 1.5em;
+  border-right: 1px dotted #333;
+}
+
+.adwords-rtl {
+  padding-left: 1.5em;
+  border-left: 1px dotted #333;
+}
+
+.adsense {
+  padding-left: 1.5em;
+}
+
+.adsense-rtl {
+  padding-right: 1.5em;
+}
+
+h2 {
+  color: #333;
+  font-size: 1.2em;
+  margin: .8em 0;
+}
+
+li {
+  line-height: 1.5;
+  height: 2.5em;
+}
+
+.g-button {
+  margin: 1em 2em 2em;
+  padding: 15px;
+  width: 26em;
+}

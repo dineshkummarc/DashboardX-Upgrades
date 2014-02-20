@@ -1,0 +1,249 @@
+@charset "UTF-8";
+
+.wmt-video{
+	text-align:center;
+	height:16px;
+	margin-bottom:10px;
+	margin-top:0px;
+	text-decoration:none
+	}
+.wmt-video span{
+	text-decoration:underline}
+.wmt-video img{
+	border:none;
+	margin-bottom:-0.3em;
+
+}
+
+/* page settings */
+body {
+	margin:0;
+	padding:0;
+}
+.wmc {
+	height:700px;
+	}
+.g-doc-800 {
+	width:57.69em;
+*width:56.3em;
+	min-width:750px;
+	margin:0 auto;
+	text-align:left
+}
+.clear {
+	clear:both;
+}
+/* g-tpl-60-40 g-unit */
+.g-tpl-60-40 .g-unit,
+.g-unit .g-tpl-60-40 .g-unit,
+.g-unit .g-unit .g-tpl-60-40 .g-unit,
+.g-unit .g-unit .g-unit .g-tpl-60-40 .g-unit {
+  display: inline;
+  margin: 0;
+  width: 39.999%;
+  float: right;
+}
+
+/* g-tpl-60-40 g-first */
+.g-unit .g-unit .g-unit .g-tpl-60-40 .g-first,
+.g-unit .g-unit .g-tpl-60-40 .g-first,
+.g-unit .g-tpl-60-40 .g-first,
+.g-tpl-60-40 .g-first {
+  display: inline;
+  margin: 0;
+  width: 59.999%;
+  float: left;
+}
+/* headings */
+h2 {
+	padding-bottom:0;
+	margin-bottom:.2em;
+	font-size:160%;
+}
+h3 {
+	padding-bottom:0;
+	margin-bottom:.5em;
+	font-size:120%;
+}
+
+/* top section */
+.top-doc {
+	margin-top:1em;
+	height:50px;
+}
+.title-section {
+	position:relative
+}
+.page-preview {
+	position:absolute;
+	right:0;
+
+}
+
+/* blue bar area */
+.middle-panel {
+	background:#ebeff9;
+	margin:0 0 2em
+}
+.middle-panel .g-content {
+	margin:2em 0;
+	overflow:hidden
+}
+.middle-panel p {
+	font-size:123%
+}
+.middle-panel .g-button-basic {
+	background:#ebeff9 url("other_blue_button.gif"/*tpa=http://ssl.gstatic.com/s2/tt/landing/other_blue_button.gif*/) no-repeat 0 0;
+	margin:1em 1.5em 0 0;
+	width:70%;
+	float:left
+}
+.middle {
+	position:relative;
+}
+
+/* left column */
+.icon-index {
+	float:left; 
+	padding: 13px 15px 8px 8px; 
+	width:40px;
+}
+.bullet {
+	padding:10px 0px 14px 0px; 
+}
+.header-icon {
+	float:left; 
+	margin-top:0;
+	padding-top:0;
+	padding-right:10px;
+}
+.wmc-icon {
+    margin:5px 10px 35px 0;
+    position:relative;
+    float:left;
+}
+.wmc-bullet {
+    margin:3px 0px 15px 0;
+}
+
+/* right column */
+.essentials {
+	list-style-type:none;
+	padding-left:50px;
+	padding-right:10px;	
+	margin-left:0;
+}
+.right-column {
+	padding-top:135px;
+	vertical-align:bottom;
+	}
+.features {
+	width:350px;
+  padding-right:10px;
+
+}
+
+
+/* rec engine */
+.re-desc {
+	padding-left:50px;
+	margin-left:0;
+	margin-bottom:0;
+
+}
+.re-link{
+	padding-left:50px;
+	margin-left:0;
+}
+
+.re-title {
+	font-size:16px;
+}
+.nav {
+	list-style:none; 
+	padding-left:5px; 
+	margin-right:10px; 
+	width:140px;
+}
+.nav .sel {
+	text-decoration:none;
+	color:#000; 
+	font-weight:bold;
+}
+.cb {
+	clear:both;
+}
+.alert {
+	color:#C31402; font-weight:bold;
+}
+.g-tpl-420 .g-unit, .g-unit .g-tpl-420 .g-unit,.g-unit .g-unit .g-tpl-420 .g-unit, .g-unit .g-unit .g-unit .g-tpl-420 .g-unit {
+	 display: block; margin: 0 0 0 421px; width: auto; float: none;
+}
+.g-unit .g-unit .g-unit .g-tpl-420 .g-first, .g-unit .g-unit .g-tpl-420 .g-first, .g-unit .g-tpl-420 .g-first, .g-tpl-420 .g-first {
+	display: block; margin: 0; width: 421px; float: left;
+}
+.frame {
+	border:1px #CCCCCC solid;
+}
+
+/* blog module */
+h2.blog {
+	margin:5px;
+
+}
+  #blog-module {
+/*  border: 1px solid #c5d7ef;*/
+  margin: 0;
+  width: 330px;
+  background-color:#cadef4; 
+  border:1px solid #ccc; 
+}
+
+#blog-module h1 { 
+  font-size: 14px;
+  padding: 0.2em 0.5em;
+  margin:.1em;
+}
+
+#blog-module #blog-feed p { 
+  font-size: 1em;
+  font-family: arial, sans-serif;
+}
+
+#blog-module #blog-feed .title a { 
+  font-weight: bold;
+}
+
+#blog-module #blog-feed { 
+  background-color: #fff;
+  border: 1px solid #e8eefa;
+  padding:.5em;
+}
+
+#blog-module #blog-feed .post { 
+  border-top: 1px solid #c5d7ef;
+  padding: 0.5em 0.5em 0 1em;
+}
+
+#blog-module #blog-feed .date { 
+  color: #666;
+  padding: 0;
+  margin:0;
+}
+
+#blog-module #blog-feed .title { 
+  padding: 0;
+  margin:0;
+}
+
+#blog-module #blog-feed .snippet { 
+  padding-bottom: 0.5em;
+}
+
+#blog-module img { 
+  float: right;
+  position: relative;
+  top: -20px;
+  right: 5px;
+}
+.snippet embed { width: 200px;}

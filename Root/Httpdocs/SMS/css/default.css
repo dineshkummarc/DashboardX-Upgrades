@@ -1,0 +1,99 @@
+* {margin:0; padding:0;}
+body {font-family:arial,sans-serif; font-size:81.25%; background:#fff; color:#000; padding:14px; position:relative;}
+h1 {float:left; margin:0 9px 0 0; height:59px; overflow:hidden;}
+h2 {font-size:1.25em; margin-bottom:1em; background:#e5ecf9; border-top:1px solid #36c; padding:2px 4px; clear:both;}
+h3 {font-size:120%; padding:10px 0px;}
+input {padding:1px; margin:0 4px 0 0;}
+input.button {padding:0 10px;}
+#q {width:282px;}
+legend {display:none;}
+img, fieldset {border:0;}
+sup {color:red;}
+#id {overflow:hidden; margin:0 0 2px;}
+#id p {margin:0 0 4px;}
+#id a {margin:0 15px 0 0;}
+#about {clear:both; text-align:center; border-top:1px solid #36c; background:#e5ecf9; padding:2px 0 4px 0;}
+div.section {width:47%; float:left; margin:0 0 20px 4px;}
+div.section.alt {float:right;}
+div.section h3 + p {margin-bottom: 1.5em;}
+li {list-style:none; padding:0 0 0 46px; min-height:35px; margin:0 0 1em 5px; position:relative;}
+li a span {background:url("i9.png"/*tpa=http://www.google.co.in/options/i9.png*/) no-repeat -35px 0; height:35px; width:35px; top:-2px; left:0; position:absolute;}
+
+.rtl h1 {float:right; margin:0 0 0 9px;}
+.rtl input {margin:0 0 0 4px;}
+.rtl #id a {margin:0 0 0 15px;}
+.rtl div.section {float:right; margin:0 4px 20px 0;}
+.rtl div.section.alt {float:left;}
+.rtl li {padding:0 46px 0 0; margin:0 5px 1em 0;}
+.rtl li span {left:auto; right:0;}
+
+/* IE6 */
+* html li {height:35px;}
+* html input.button {padding:0;}
+
+#ALER span {background-position:0 0px;}
+#BLGR span {background-position:0 -35px;}
+#BLGS span {background-position:0 -70px;}
+#BMRK span {background-position:0 -2100px;}
+#BOOK span {background-position:0 -105px;}
+#CALE span {background-position:0 -140px;}
+#CHEC span {background-position:0 -175px;}
+#CHRO span {background-position:0 -210px;}
+#CODE span {background-position:0 -245px;}
+#CLAS span, #SHEN span, #TRAD span {background-position:0 -1505px;}
+#CUST span {background-position:0 -280px;}
+#D265 span {background-position:0 -315px;}
+#DESK span {background-position:0 -350px;}
+#DICT span {background-position:0 -385px;}
+#DIRE span {background-position:0 -420px;}
+#DOCS span {background-position:0 -455px;}
+#EART span {background-position:0 -490px;}
+#FINA span {background-position:0 -525px;}
+#FINA.alt span {background-position:0 -560px;}
+#GMAI span {background-position:0 -595px;}
+#GOOG span {background-position:0 -630px;}
+#GROU span {background-position:0 -665px;}
+#GURU span {background-position:0 -700px;}
+#HEAL span {background-position:0 -735px;}
+#IGOO span {background-position:0 -770px;}
+#IMAG span {background-position:0 -805px;}
+#KNOL span {background-position:0 -840px;}
+#LABS span {background-position:0 -875px;}
+#MAPS span {background-position:0 -910px;}
+#MOBA span {background-position:0 -945px;}
+#MOBI span {background-position:0 -980px;}
+#MOBM span {background-position:0 -1015px;}
+#MOBS span {background-position:0 -1050px;}
+#MUSI span {background-position:0 -1085px;}
+#NEWS span {background-position:0 -1120px;}
+#ORKU span {background-position:0 -1155px;}
+#PACK span {background-position:0 -1190px;}
+#PANO span {background-position:0 -2135px;}
+#PATE span {background-position:0 -1225px;}
+#PICA span {background-position:0 -1260px;}
+#PICN span {background-position:0 -2205px;}
+#PINY span {background-position:0 -1295px;}
+#PROD span {background-position:0 -1330px;}
+#QNA_ span {background-position:0 -1365px;}
+#READ span {background-position:0 -1400px;}
+#REAL span {background-position:0 -2170px;}
+#REBA span {background-position:0 -1435px;}
+#SCHO span {background-position:0 -1470px;}
+#SITE span {background-position:0 -1540px;}
+#SKET span {background-position:0 -1575px;}
+#SMS_ span {background-position:0 -1610px;}
+#TALK span {background-position:0 -1645px;}
+#TEXT span {background-position:0 -1680px;}
+#TOOL span {background-position:0 -1715px;}
+#TOPI span {background-position:0 -1750px;}
+#TRAN span {background-position:0 -1785px;}
+#TRNS span {background-position:0 -1820px;}
+#VIDE span {background-position:0 -1855px;}
+#VOIC span {background-position:0 -1890px;}
+#WEB_ span {background-position:0 -1925px;}
+#WEBF span {background-position:0 -1960px;}
+#YOUT span {background-position:0 -1995px;}
+
+/* UNALPHABETIZED ICONS */
+#TREN span {background-position:0 -2030px;}
+#PJAP span {background-position:0 -2065px;}

@@ -1,0 +1,122 @@
+.header h1 {
+  border-bottom: 1px solid #999;
+  padding: .9em 0 .1em;
+}
+
+.header h1 a {
+  background: #fff url("logo_sm-1.gif"/*tpa=http://www.google.com/images/logo_sm.gif*/) 0 0 no-repeat;
+  display: block;
+  float: left;
+  height: 55px;
+  margin: -.9em 0 0 0;
+  padding: 0 .5em 0 0;
+  text-indent: -999em;
+  width: 150px;
+}
+
+.nav  {
+  margin: 0 0 .3em;
+}
+
+.leftnav label input  {
+  width: 10em;
+}
+
+.leftnav .feed  {
+  margin: 1.3em 0 0;
+}
+
+.leftnav .feed  img {
+  margin: -0.1em 0 0;
+  vertical-align:text-bottom;
+}
+
+.timeline  {
+  padding: 0 0 0.8em;
+}
+
+.timeline dt  {
+  color: #333;
+  font-weight: bold;
+  padding: .1em 0 0;
+  width: 5em;
+}
+
+.timeline dd ul {
+  list-style: none;
+  padding: 0 0 0.7em;
+}
+
+.timeline dd ul li {
+  display: inline;
+  font-weight: bold;
+  padding: 0 0 0 0.7em;
+}
+
+.timeline dd ul li a {
+  font-weight: normal;
+}
+
+dd ul li.inactive,
+ul li.inactive {
+  color: #999;
+  font-weight: normal;
+}
+
+.doodles dt {
+  color: #333;
+  float: left;
+  font-weight: bold;
+  padding: 0 0 0 .5em;
+  margin: 0 0 1.2em;                                                   
+  width: 8em;
+}
+
+.doodles dd {
+  padding: 0 0 1.5em 2.5em;
+}
+
+.doodles dd img,
+.fan img  {
+  display: block;
+  margin: 1em auto 0;
+  padding: 0;
+}
+
+.content .title  {
+  background: #ebeff9;
+  margin: 0 0 2em;
+  padding: .4em 0 .5em;
+}
+
+.content .title h3  {
+  float: left;
+  font-size: 1em;
+  padding: 0 0 0 .5em;
+}
+
+.content .title h3 span {
+  font-weight: normal;
+}
+
+.content .title ul,
+.content .base-nav ul {
+  float: right;
+  list-style: none;
+  padding: 0 .5em 0 0;
+}
+
+.content .title ul li,
+.content .base-nav ul li {
+  display: inline;
+  line-height: 1.1em;
+  padding: 0 0 0 1em;
+}
+
+.fan .img-text  {
+  text-align: center;
+}
+
+.fan .img-text img{
+  display: inline;
+}

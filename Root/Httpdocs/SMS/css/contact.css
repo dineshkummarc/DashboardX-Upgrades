@@ -1,0 +1,69 @@
+h1 {
+  font-size:1.3em;
+  padding:2px 0 2px 4px;
+  margin:0 0 0 8px;
+  border-top:1px solid #900;
+  border-bottom:0;
+  background-color:#900;
+  color:#fff;
+}
+
+h2 {
+  margin-top:0;
+  margin-bottom:30px;
+}
+
+h3 {
+  border-top:1px solid #900;
+  border-bottom:0;
+  background-color:#eee;
+  padding:2px;
+  font-size:110%;
+}
+
+table#specific {
+  margin-bottom: 12px;
+}
+
+.clear {
+  clear:both;
+}
+
+div.addressgroup {
+  float:left;
+  padding-right:50px;
+  width:40%;
+}
+
+div.address {
+  padding-left:20px;
+}
+
+li.active {
+  color:#900;
+  font-weight:bold;
+  background:url("redarrow.gif"/*tpa=http://www.google.com/images/redarrow.gif*/) no-repeat 0 4px;
+}
+
+div.nav ul ul {
+  margin-top:12px;
+}
+
+div.nav ul li { padding-bottom:12px;}
+
+div.nav ul.child li {
+  padding-left:10px;
+  padding-bottom:12px;
+}
+
+div#footer {
+  color:#666;
+  background-color:#fff;
+  border:none;
+  background:url("art-1.gif"/*tpa=http://www.google.com/images/art.gif*/) no-repeat;
+  height:53px;
+  padding-top:15px;
+  margin-top:4px;
+  text-align:center;
+  padding-left:150px;
+}

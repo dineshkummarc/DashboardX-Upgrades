@@ -1,0 +1,55 @@
+/* Rich Content */
+.small { 
+  font-size: 9px; 
+}
+.nowrap { 
+  white-space: nowrap; 
+}
+.image-left {
+  margin: 0 5px 0 10px;
+  text-align: right;
+}
+.image-right {
+  margin: 0 0 5px 10px;
+  text-align: right;
+}
+.image-inline {
+  margin: 0 10px 5px;
+  text-align: center;
+}
+div.subheader {
+  font-size: 82%;
+  font-weight: bold;
+  margin: 1.5em 0em;
+}
+hr {
+  width: 100%;
+  height: 1px;
+}
+
+/* Custom style types */
+div.note {
+  padding: 4px;
+  border: 1px solid #ddad08;
+  font-size: 80%;
+}
+span.red { 
+  color: #f00; 
+}
+span.green { 
+  color: #008000; 
+}
+div.code {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 15px;
+  font-size: 100%;
+  width: 85%;
+  font-family: monospace;
+  color: #007000;
+}
+div.indent {
+  padding-left: 20px;
+}
